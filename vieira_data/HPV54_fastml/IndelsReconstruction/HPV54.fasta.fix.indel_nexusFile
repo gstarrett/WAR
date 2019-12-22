@@ -1,0 +1,388 @@
+#NEXUS
+
+[!matrix with indels coded according to SIC coding]
+[! Version: 1.72 last updated: 03/12/2012 ]
+
+BEGIN CHARACTERS;
+DIMENSIONS newtaxa ntax=11 NCHAR=12523;
+
+FORMAT 
+	DATATYPE = standard
+	GAP = - 
+	MISSING = ?
+	SYMBOLS="0123456789A#C$EFG.IJ&L%>OPQ/'TU:*X<Z"
+	EQUATE="R={AG} Y={CT} M={AC} K={GT} S={CG} W={AT} H={ACT} B={CGT} V={ACG} D={AGT} N={ACGT} r={AG} y={CT} m={AC} k={GT} s={CG} w={AT} h={ACT} b={CGT} v={ACG} d={AGT} n={ACGT}"
+INTERLEAVE;
+CHARSTATELABELS
+	12357 ind_pos_1_to_3 /absent  indel_1 indel_2 indel_3 indel_4 indel_5 indel_6 indel_7 indel_8 indel_9
+	12358 ind_pos_1_to_18 /absent  indel_10 indel_11
+	12359 ind_pos_14_to_17 /absent  indel_12 indel_13 indel_14 indel_15 indel_16 indel_17 indel_18 indel_19 indel_20
+	12360 ind_pos_25_to_25 /absent  indel_21 indel_22 indel_23 indel_24 indel_25 indel_26 indel_27 indel_28 indel_29 indel_30 indel_31
+	12361 ind_pos_57_to_58 /absent  indel_32 indel_33 indel_34 indel_35 indel_36 indel_37 indel_38 indel_39 indel_40 indel_41 indel_42
+	12362 ind_pos_84_to_84 /absent  indel_43 indel_44 indel_45 indel_46 indel_47 indel_48 indel_49 indel_50 indel_51 indel_52
+	12363 ind_pos_151_to_189 /absent  indel_53 indel_54 indel_55 indel_56 indel_57 indel_58 indel_59 indel_60 indel_61 indel_62 indel_63
+	12364 ind_pos_578_to_598 /absent  indel_64 indel_65 indel_66 indel_67 indel_68 indel_69 indel_70 indel_71 indel_72 indel_73 indel_74
+	12365 ind_pos_602_to_646 /absent  indel_75 indel_76 indel_77 indel_78 indel_79 indel_80 indel_81 indel_82 indel_83 indel_84 indel_85
+	12366 ind_pos_700_to_705 /absent  indel_86 indel_87 indel_88 indel_89 indel_90 indel_91 indel_92 indel_93 indel_94 indel_95 indel_96
+	12367 ind_pos_713_to_718 /absent  indel_97 indel_98 indel_99 indel_100 indel_101 indel_102 indel_103 indel_104 indel_105 indel_106 indel_107
+	12368 ind_pos_767_to_772 /absent  indel_108 indel_109 indel_110 indel_111 indel_112 indel_113 indel_114 indel_115 indel_116 indel_117 indel_118
+	12369 ind_pos_778_to_781 /absent  indel_119 indel_120 indel_121 indel_122 indel_123 indel_124 indel_125 indel_126 indel_127 indel_128 indel_129
+	12370 ind_pos_786_to_833 /absent  indel_130 indel_131 indel_132 indel_133 indel_134 indel_135 indel_136 indel_137 indel_138 indel_139 indel_140
+	12371 ind_pos_856_to_858 /absent  indel_141 indel_142 indel_143 indel_144 indel_145 indel_146 indel_147 indel_148 indel_149 indel_150 indel_151
+	12372 ind_pos_1003_to_1005 /absent  indel_152 indel_153 indel_154 indel_155 indel_156 indel_157 indel_158 indel_159 indel_160 indel_161 indel_162
+	12373 ind_pos_1014_to_1014 /absent  indel_163 indel_164 indel_165 indel_166 indel_167 indel_168 indel_169 indel_170 indel_171 indel_172 indel_173
+	12374 ind_pos_1021_to_1021 /absent  indel_174 indel_175 indel_176 indel_177 indel_178 indel_179 indel_180 indel_181 indel_182 indel_183 indel_184
+	12375 ind_pos_1030_to_1032 /absent  indel_185 indel_186 indel_187 indel_188 indel_189 indel_190 indel_191 indel_192 indel_193 indel_194 indel_195
+	12376 ind_pos_1055_to_1069 /absent  indel_196 indel_197 indel_198 indel_199 indel_200 indel_201 indel_202 indel_203 indel_204 indel_205 indel_206
+	12377 ind_pos_1158_to_1164 /absent  indel_207 indel_208 indel_209 indel_210 indel_211 indel_212 indel_213 indel_214 indel_215 indel_216 indel_217
+	12378 ind_pos_1201_to_1203 /absent  indel_218 indel_219 indel_220 indel_221 indel_222 indel_223 indel_224 indel_225
+	12379 ind_pos_1211_to_1211 /absent  indel_226 indel_227 indel_228 indel_229 indel_230 indel_231 indel_232 indel_233 indel_234 indel_235 indel_236
+	12380 ind_pos_1238_to_1242 /absent  indel_237 indel_238 indel_239 indel_240 indel_241 indel_242 indel_243 indel_244 indel_245 indel_246 indel_247
+	12381 ind_pos_1350_to_1352 /absent  indel_248 indel_249 indel_250 indel_251 indel_252 indel_253 indel_254 indel_255 indel_256 indel_257 indel_258
+	12382 ind_pos_1388_to_1407 /absent  indel_259 indel_260 indel_261 indel_262 indel_263 indel_264 indel_265 indel_266 indel_267 indel_268 indel_269
+	12383 ind_pos_1467_to_1470 /absent  indel_270 indel_271 indel_272 indel_273 indel_274 indel_275 indel_276 indel_277 indel_278 indel_279 indel_280
+	12384 ind_pos_1476_to_1485 /absent  indel_281 indel_282 indel_283 indel_284 indel_285 indel_286 indel_287 indel_288 indel_289 indel_290 indel_291
+	12385 ind_pos_1499_to_1500 /absent  indel_292 indel_293 indel_294 indel_295 indel_296 indel_297 indel_298 indel_299 indel_300 indel_301 indel_302
+	12386 ind_pos_1511_to_1513 /absent  indel_303 indel_304 indel_305 indel_306 indel_307 indel_308 indel_309 indel_310 indel_311 indel_312 indel_313
+	12387 ind_pos_1527_to_1588 /absent  indel_314 indel_315 indel_316 indel_317 indel_318 indel_319 indel_320 indel_321 indel_322 indel_323 indel_324
+	12388 ind_pos_1622_to_1639 /absent  indel_325 indel_326 indel_327 indel_328 indel_329 indel_330 indel_331 indel_332 indel_333 indel_334 indel_335
+	12389 ind_pos_1692_to_1694 /absent  indel_336 indel_337 indel_338 indel_339 indel_340 indel_341 indel_342 indel_343 indel_344 indel_345 indel_346
+	12390 ind_pos_1705_to_1716 /absent  indel_347 indel_348 indel_349 indel_350 indel_351 indel_352 indel_353 indel_354 indel_355 indel_356 indel_357
+	12391 ind_pos_1718_to_1723 /absent  indel_358 indel_359 indel_360 indel_361 indel_362 indel_363 indel_364 indel_365 indel_366 indel_367 indel_368
+	12392 ind_pos_3041_to_3055 /absent  indel_369 indel_370 indel_371 indel_372 indel_373 indel_374
+	12393 ind_pos_3044_to_3055 /absent  indel_375 indel_376 indel_377 indel_378 indel_379
+	12394 ind_pos_3115_to_3115 /absent  indel_380 indel_381 indel_382 indel_383 indel_384 indel_385 indel_386 indel_387 indel_388 indel_389 indel_390
+	12395 ind_pos_3473_to_3478 /absent  indel_391 indel_392 indel_393 indel_394 indel_395 indel_396 indel_397 indel_398 indel_399 indel_400 indel_401
+	12396 ind_pos_3619_to_3625 /absent  indel_402 indel_403 indel_404 indel_405 indel_406 indel_407 indel_408 indel_409 indel_410 indel_411 indel_412
+	12397 ind_pos_3664_to_3670 /absent  indel_413 indel_414 indel_415 indel_416 indel_417 indel_418 indel_419 indel_420 indel_421 indel_422 indel_423
+	12398 ind_pos_3698_to_3715 /absent  indel_424 indel_425 indel_426 indel_427 indel_428 indel_429 indel_430 indel_431 indel_432 indel_433 indel_434
+	12399 ind_pos_3778_to_3779 /absent  indel_435 indel_436 indel_437 indel_438 indel_439 indel_440 indel_441 indel_442 indel_443 indel_444 indel_445
+	12400 ind_pos_3805_to_3814 /absent  indel_446 indel_447 indel_448 indel_449 indel_450 indel_451 indel_452 indel_453 indel_454 indel_455 indel_456
+	12401 ind_pos_3823_to_3864 /absent  indel_457 indel_458 indel_459 indel_460 indel_461 indel_462 indel_463 indel_464 indel_465 indel_466 indel_467
+	12402 ind_pos_3890_to_3915 /absent  indel_468 indel_469 indel_470 indel_471 indel_472 indel_473 indel_474 indel_475 indel_476 indel_477 indel_478
+	12403 ind_pos_3936_to_3940 /absent  indel_479 indel_480 indel_481 indel_482 indel_483 indel_484 indel_485 indel_486 indel_487 indel_488 indel_489
+	12404 ind_pos_3955_to_3972 /absent  indel_490 indel_491 indel_492 indel_493 indel_494 indel_495 indel_496 indel_497 indel_498 indel_499 indel_500
+	12405 ind_pos_3994_to_3996 /absent  indel_501 indel_502 indel_503 indel_504 indel_505 indel_506 indel_507 indel_508 indel_509 indel_510 indel_511
+	12406 ind_pos_4008_to_4019 /absent  indel_512 indel_513 indel_514 indel_515 indel_516 indel_517 indel_518 indel_519 indel_520 indel_521 indel_522
+	12407 ind_pos_4036_to_4038 /absent  indel_523 indel_524 indel_525 indel_526 indel_527
+	12408 ind_pos_4134_to_4136 /absent  indel_528 indel_529 indel_530 indel_531 indel_532 indel_533 indel_534 indel_535 indel_536 indel_537 indel_538
+	12409 ind_pos_4191_to_4193 /absent  indel_539 indel_540 indel_541 indel_542 indel_543 indel_544 indel_545 indel_546 indel_547 indel_548 indel_549
+	12410 ind_pos_4293_to_4307 /absent  indel_550 indel_551 indel_552 indel_553 indel_554 indel_555 indel_556 indel_557 indel_558 indel_559 indel_560
+	12411 ind_pos_4320_to_4340 /absent  indel_561 indel_562 indel_563 indel_564 indel_565 indel_566 indel_567 indel_568 indel_569 indel_570 indel_571
+	12412 ind_pos_4353_to_4353 /absent  indel_572 indel_573 indel_574 indel_575 indel_576 indel_577 indel_578 indel_579 indel_580 indel_581 indel_582
+	12413 ind_pos_4363_to_4363 /absent  indel_583 indel_584 indel_585 indel_586 indel_587 indel_588
+	12414 ind_pos_4390_to_4425 /absent  indel_589 indel_590
+	12415 ind_pos_4393_to_4424 /absent  indel_591 indel_592 indel_593 indel_594 indel_595 indel_596 indel_597 indel_598 indel_599
+	12416 ind_pos_4429_to_4436 /absent  indel_600 indel_601 indel_602 indel_603 indel_604 indel_605 indel_606 indel_607 indel_608 indel_609 indel_610
+	12417 ind_pos_4484_to_4551 /absent  indel_611 indel_612
+	12418 ind_pos_4486_to_4513 /absent  indel_613 indel_614 indel_615 indel_616 indel_617 indel_618 indel_619 indel_620 indel_621
+	12419 ind_pos_4526_to_4551 /absent  indel_622 indel_623 indel_624 indel_625 indel_626 indel_627
+	12420 ind_pos_4534_to_4550 /absent  indel_628 indel_629 indel_630
+	12421 ind_pos_4593_to_4607 /absent  indel_631 indel_632 indel_633 indel_634 indel_635
+	12422 ind_pos_4656_to_4664 /absent  indel_636 indel_637 indel_638 indel_639 indel_640 indel_641 indel_642 indel_643 indel_644 indel_645 indel_646
+	12423 ind_pos_4721_to_4721 /absent  indel_647
+	12424 ind_pos_4741_to_4756 /absent  indel_648 indel_649 indel_650 indel_651 indel_652 indel_653 indel_654 indel_655 indel_656 indel_657 indel_658
+	12425 ind_pos_4809_to_4848 /absent  indel_659 indel_660 indel_661 indel_662 indel_663 indel_664 indel_665 indel_666 indel_667 indel_668 indel_669
+	12426 ind_pos_4857_to_4857 /absent  indel_670 indel_671 indel_672 indel_673 indel_674 indel_675 indel_676 indel_677 indel_678 indel_679 indel_680
+	12427 ind_pos_4875_to_4889 /absent  indel_681 indel_682 indel_683 indel_684 indel_685 indel_686 indel_687 indel_688 indel_689 indel_690 indel_691
+	12428 ind_pos_4893_to_4982 /absent  indel_692 indel_693 indel_694 indel_695 indel_696 indel_697 indel_698 indel_699 indel_700 indel_701 indel_702
+	12429 ind_pos_4991_to_5011 /absent  indel_703 indel_704 indel_705 indel_706 indel_707
+	12430 ind_pos_4992_to_5000 /absent  indel_708 indel_709 indel_710 indel_711 indel_712 indel_713
+	12431 ind_pos_5047_to_5092 /absent  indel_714 indel_715 indel_716 indel_717 indel_718 indel_719 indel_720 indel_721 indel_722 indel_723 indel_724
+	12432 ind_pos_5100_to_5195 /absent  indel_725 indel_726 indel_727 indel_728 indel_729 indel_730 indel_731 indel_732 indel_733 indel_734 indel_735
+	12433 ind_pos_5209_to_5229 /absent  indel_736 indel_737 indel_738 indel_739 indel_740 indel_741 indel_742 indel_743 indel_744 indel_745 indel_746
+	12434 ind_pos_5474_to_5476 /absent  indel_747 indel_748 indel_749 indel_750 indel_751 indel_752 indel_753 indel_754 indel_755 indel_756 indel_757
+	12435 ind_pos_5488_to_5499 /absent  indel_758 indel_759 indel_760 indel_761 indel_762 indel_763 indel_764 indel_765 indel_766 indel_767 indel_768
+	12436 ind_pos_5537_to_5548 /absent  indel_769 indel_770 indel_771 indel_772 indel_773 indel_774 indel_775 indel_776 indel_777 indel_778 indel_779
+	12437 ind_pos_5615_to_5626 /absent  indel_780 indel_781 indel_782 indel_783 indel_784 indel_785 indel_786 indel_787 indel_788 indel_789 indel_790
+	12438 ind_pos_5714_to_5722 /absent  indel_791 indel_792 indel_793 indel_794 indel_795 indel_796 indel_797 indel_798 indel_799 indel_800 indel_801
+	12439 ind_pos_5897_to_5899 /absent  indel_802 indel_803 indel_804 indel_805 indel_806 indel_807 indel_808 indel_809 indel_810 indel_811 indel_812
+	12440 ind_pos_5952_to_5957 /absent  indel_813 indel_814 indel_815 indel_816 indel_817 indel_818 indel_819 indel_820 indel_821 indel_822 indel_823
+	12441 ind_pos_6082_to_6087 /absent  indel_824 indel_825 indel_826 indel_827 indel_828 indel_829 indel_830 indel_831 indel_832 indel_833 indel_834
+	12442 ind_pos_6111_to_6116 /absent  indel_835 indel_836 indel_837 indel_838 indel_839 indel_840 indel_841 indel_842 indel_843 indel_844 indel_845
+	12443 ind_pos_6299_to_6307 /absent  indel_846 indel_847 indel_848 indel_849 indel_850 indel_851 indel_852 indel_853 indel_854 indel_855 indel_856
+	12444 ind_pos_6315_to_6332 /absent  indel_857 indel_858 indel_859 indel_860 indel_861 indel_862 indel_863 indel_864 indel_865 indel_866 indel_867
+	12445 ind_pos_6358_to_6369 /absent  indel_868 indel_869 indel_870 indel_871 indel_872 indel_873 indel_874 indel_875 indel_876 indel_877 indel_878
+	12446 ind_pos_6375_to_6377 /absent  indel_879 indel_880 indel_881 indel_882 indel_883 indel_884 indel_885 indel_886 indel_887 indel_888 indel_889
+	12447 ind_pos_6391_to_6423 /absent  indel_890 indel_891 indel_892 indel_893 indel_894 indel_895 indel_896 indel_897 indel_898 indel_899 indel_900
+	12448 ind_pos_6469_to_6474 /absent  indel_901 indel_902 indel_903 indel_904 indel_905 indel_906 indel_907 indel_908 indel_909 indel_910 indel_911
+	12449 ind_pos_6505_to_6506 /absent  indel_912 indel_913 indel_914 indel_915 indel_916 indel_917 indel_918 indel_919 indel_920 indel_921 indel_922
+	12450 ind_pos_6520_to_6523 /absent  indel_923 indel_924 indel_925 indel_926 indel_927 indel_928 indel_929 indel_930 indel_931 indel_932 indel_933
+	12451 ind_pos_6557_to_6585 /absent  indel_934 indel_935 indel_936 indel_937 indel_938 indel_939 indel_940 indel_941 indel_942 indel_943 indel_944
+	12452 ind_pos_6604_to_6632 /absent  indel_945 indel_946 indel_947 indel_948 indel_949 indel_950 indel_951 indel_952 indel_953 indel_954 indel_955
+	12453 ind_pos_6637_to_6640 /absent  indel_956 indel_957 indel_958 indel_959 indel_960 indel_961 indel_962 indel_963 indel_964 indel_965 indel_966
+	12454 ind_pos_6671_to_6675 /absent  indel_967 indel_968 indel_969 indel_970 indel_971 indel_972 indel_973 indel_974 indel_975 indel_976 indel_977
+	12455 ind_pos_6691_to_6699 /absent  indel_978 indel_979 indel_980 indel_981 indel_982 indel_983 indel_984 indel_985 indel_986 indel_987 indel_988
+	12456 ind_pos_6706_to_6709 /absent  indel_989 indel_990 indel_991 indel_992 indel_993 indel_994 indel_995 indel_996 indel_997 indel_998 indel_999
+	12457 ind_pos_6763_to_6771 /absent  indel_1000 indel_1001 indel_1002 indel_1003 indel_1004 indel_1005 indel_1006 indel_1007 indel_1008 indel_1009 indel_1010
+	12458 ind_pos_6922_to_6924 /absent  indel_1011 indel_1012 indel_1013 indel_1014 indel_1015 indel_1016 indel_1017 indel_1018 indel_1019 indel_1020 indel_1021
+	12459 ind_pos_7043_to_7048 /absent  indel_1022 indel_1023 indel_1024 indel_1025 indel_1026 indel_1027 indel_1028 indel_1029 indel_1030 indel_1031 indel_1032
+	12460 ind_pos_7057_to_7062 /absent  indel_1033 indel_1034 indel_1035 indel_1036 indel_1037 indel_1038 indel_1039 indel_1040 indel_1041 indel_1042 indel_1043
+	12461 ind_pos_7301_to_7303 /absent  indel_1044 indel_1045 indel_1046 indel_1047 indel_1048 indel_1049 indel_1050 indel_1051 indel_1052 indel_1053 indel_1054
+	12462 ind_pos_7312_to_7323 /absent  indel_1055 indel_1056 indel_1057 indel_1058 indel_1059 indel_1060 indel_1061 indel_1062 indel_1063 indel_1064 indel_1065
+	12463 ind_pos_7739_to_7744 /absent  indel_1066 indel_1067 indel_1068 indel_1069 indel_1070 indel_1071 indel_1072 indel_1073 indel_1074 indel_1075 indel_1076
+	12464 ind_pos_7759_to_7764 /absent  indel_1077 indel_1078 indel_1079 indel_1080 indel_1081 indel_1082 indel_1083 indel_1084 indel_1085 indel_1086 indel_1087
+	12465 ind_pos_7958_to_7966 /absent  indel_1088 indel_1089 indel_1090 indel_1091 indel_1092 indel_1093 indel_1094 indel_1095 indel_1096 indel_1097 indel_1098
+	12466 ind_pos_8334_to_8344 /absent  indel_1099 indel_1100 indel_1101 indel_1102 indel_1103 indel_1104 indel_1105 indel_1106 indel_1107 indel_1108 indel_1109
+	12467 ind_pos_8370_to_8375 /absent  indel_1110 indel_1111 indel_1112 indel_1113 indel_1114 indel_1115 indel_1116 indel_1117 indel_1118 indel_1119 indel_1120
+	12468 ind_pos_8378_to_8380 /absent  indel_1121 indel_1122 indel_1123 indel_1124 indel_1125 indel_1126 indel_1127 indel_1128 indel_1129 indel_1130 indel_1131
+	12469 ind_pos_8402_to_8422 /absent  indel_1132 indel_1133 indel_1134 indel_1135 indel_1136 indel_1137 indel_1138 indel_1139 indel_1140 indel_1141 indel_1142
+	12470 ind_pos_8471_to_8490 /absent  indel_1143 indel_1144 indel_1145 indel_1146 indel_1147 indel_1148 indel_1149 indel_1150 indel_1151 indel_1152 indel_1153
+	12471 ind_pos_8502_to_8548 /absent  indel_1154 indel_1155 indel_1156 indel_1157 indel_1158
+	12472 ind_pos_8507_to_8536 /absent  indel_1159 indel_1160 indel_1161 indel_1162 indel_1163 indel_1164
+	12473 ind_pos_8541_to_8547 /absent  indel_1165 indel_1166 indel_1167 indel_1168 indel_1169 indel_1170
+	12474 ind_pos_8563_to_8594 /absent  indel_1171 indel_1172 indel_1173 indel_1174 indel_1175 indel_1176 indel_1177 indel_1178 indel_1179 indel_1180 indel_1181
+	12475 ind_pos_8611_to_8713 /absent  indel_1182 indel_1183 indel_1184 indel_1185 indel_1186
+	12476 ind_pos_8617_to_8711 /absent  indel_1187 indel_1188 indel_1189 indel_1190 indel_1191 indel_1192
+	12477 ind_pos_8721_to_8721 /absent  indel_1193 indel_1194 indel_1195 indel_1196 indel_1197 indel_1198 indel_1199 indel_1200 indel_1201 indel_1202 indel_1203
+	12478 ind_pos_8730_to_8731 /absent  indel_1204 indel_1205 indel_1206 indel_1207 indel_1208 indel_1209 indel_1210 indel_1211 indel_1212 indel_1213 indel_1214
+	12479 ind_pos_8738_to_8750 /absent  indel_1215 indel_1216 indel_1217 indel_1218 indel_1219 indel_1220 indel_1221 indel_1222 indel_1223 indel_1224 indel_1225
+	12480 ind_pos_8758_to_8760 /absent  indel_1226 indel_1227 indel_1228 indel_1229 indel_1230 indel_1231 indel_1232 indel_1233 indel_1234 indel_1235 indel_1236
+	12481 ind_pos_8771_to_8779 /absent  indel_1237 indel_1238 indel_1239 indel_1240 indel_1241 indel_1242 indel_1243 indel_1244 indel_1245 indel_1246 indel_1247
+	12482 ind_pos_8798_to_8799 /absent  indel_1248 indel_1249 indel_1250 indel_1251 indel_1252 indel_1253 indel_1254 indel_1255 indel_1256 indel_1257 indel_1258
+	12483 ind_pos_8802_to_8806 /absent  indel_1259 indel_1260 indel_1261 indel_1262 indel_1263 indel_1264 indel_1265 indel_1266 indel_1267 indel_1268 indel_1269
+	12484 ind_pos_8819_to_8829 /absent  indel_1270 indel_1271 indel_1272 indel_1273 indel_1274 indel_1275 indel_1276 indel_1277 indel_1278 indel_1279 indel_1280
+	12485 ind_pos_8837_to_8858 /absent  indel_1281 indel_1282 indel_1283 indel_1284 indel_1285 indel_1286
+	12486 ind_pos_8849_to_8855 /absent  indel_1287 indel_1288
+	12487 ind_pos_8868_to_8868 /absent  indel_1289 indel_1290 indel_1291 indel_1292 indel_1293 indel_1294 indel_1295 indel_1296 indel_1297 indel_1298 indel_1299
+	12488 ind_pos_8890_to_8951 /absent  indel_1300 indel_1301 indel_1302 indel_1303 indel_1304 indel_1305 indel_1306 indel_1307 indel_1308 indel_1309 indel_1310
+	12489 ind_pos_8981_to_9000 /absent  indel_1311 indel_1312 indel_1313 indel_1314 indel_1315
+	12490 ind_pos_8984_to_8989 /absent  indel_1316 indel_1317 indel_1318 indel_1319 indel_1320 indel_1321
+	12491 ind_pos_9011_to_9127 /absent  indel_1322
+	12492 ind_pos_9015_to_9031 /absent  indel_1323 indel_1324 indel_1325 indel_1326 indel_1327 indel_1328 indel_1329 indel_1330 indel_1331 indel_1332
+	12493 ind_pos_9054_to_9063 /absent  indel_1333 indel_1334 indel_1335 indel_1336 indel_1337 indel_1338 indel_1339 indel_1340 indel_1341 indel_1342
+	12494 ind_pos_9066_to_9073 /absent  indel_1343 indel_1344 indel_1345 indel_1346 indel_1347 indel_1348 indel_1349 indel_1350 indel_1351 indel_1352
+	12495 ind_pos_9083_to_9094 /absent  indel_1353 indel_1354 indel_1355 indel_1356 indel_1357 indel_1358 indel_1359 indel_1360 indel_1361 indel_1362
+	12496 ind_pos_9097_to_9100 /absent  indel_1363 indel_1364 indel_1365 indel_1366 indel_1367
+	12497 ind_pos_9110_to_9120 /absent  indel_1368 indel_1369 indel_1370 indel_1371 indel_1372 indel_1373 indel_1374 indel_1375 indel_1376 indel_1377
+	12498 ind_pos_9130_to_9171 /absent  indel_1378 indel_1379 indel_1380 indel_1381 indel_1382 indel_1383 indel_1384 indel_1385 indel_1386 indel_1387 indel_1388
+	12499 ind_pos_9192_to_9217 /absent  indel_1389 indel_1390 indel_1391 indel_1392 indel_1393 indel_1394 indel_1395 indel_1396 indel_1397 indel_1398 indel_1399
+	12500 ind_pos_9222_to_9226 /absent  indel_1400 indel_1401 indel_1402 indel_1403 indel_1404 indel_1405 indel_1406 indel_1407 indel_1408 indel_1409 indel_1410
+	12501 ind_pos_9237_to_9251 /absent  indel_1411 indel_1412 indel_1413 indel_1414 indel_1415 indel_1416 indel_1417 indel_1418 indel_1419 indel_1420 indel_1421
+	12502 ind_pos_9259_to_9259 /absent  indel_1422
+	12503 ind_pos_9265_to_9270 /absent  indel_1423 indel_1424 indel_1425 indel_1426 indel_1427 indel_1428 indel_1429 indel_1430 indel_1431 indel_1432 indel_1433
+	12504 ind_pos_9276_to_9374 /absent  indel_1434 indel_1435 indel_1436 indel_1437 indel_1438 indel_1439 indel_1440 indel_1441 indel_1442 indel_1443 indel_1444
+	12505 ind_pos_9396_to_9404 /absent  indel_1445 indel_1446 indel_1447 indel_1448 indel_1449 indel_1450 indel_1451 indel_1452 indel_1453 indel_1454 indel_1455
+	12506 ind_pos_9431_to_9439 /absent  indel_1456 indel_1457 indel_1458 indel_1459 indel_1460 indel_1461 indel_1462 indel_1463 indel_1464 indel_1465 indel_1466
+	12507 ind_pos_9471_to_9473 /absent  indel_1467 indel_1468 indel_1469 indel_1470 indel_1471 indel_1472 indel_1473 indel_1474 indel_1475 indel_1476 indel_1477
+	12508 ind_pos_9529_to_9541 /absent  indel_1478 indel_1479 indel_1480 indel_1481 indel_1482 indel_1483 indel_1484 indel_1485 indel_1486 indel_1487 indel_1488
+	12509 ind_pos_9554_to_9562 /absent  indel_1489 indel_1490 indel_1491 indel_1492 indel_1493
+	12510 ind_pos_9555_to_9562 /absent  indel_1494 indel_1495 indel_1496 indel_1497 indel_1498 indel_1499
+	12511 ind_pos_9603_to_9603 /absent  indel_1500 indel_1501 indel_1502 indel_1503 indel_1504 indel_1505 indel_1506 indel_1507 indel_1508 indel_1509 indel_1510
+	12512 ind_pos_9608_to_9633 /absent  indel_1511 indel_1512 indel_1513 indel_1514 indel_1515 indel_1516 indel_1517 indel_1518 indel_1519 indel_1520 indel_1521
+	12513 ind_pos_9662_to_9663 /absent  indel_1522 indel_1523 indel_1524 indel_1525 indel_1526 indel_1527 indel_1528 indel_1529 indel_1530 indel_1531 indel_1532
+	12514 ind_pos_9671_to_9679 /absent  indel_1533 indel_1534 indel_1535 indel_1536 indel_1537 indel_1538 indel_1539 indel_1540 indel_1541 indel_1542 indel_1543
+	12515 ind_pos_9690_to_9707 /absent  indel_1544 indel_1545 indel_1546 indel_1547 indel_1548 indel_1549 indel_1550 indel_1551 indel_1552 indel_1553 indel_1554
+	12516 ind_pos_9725_to_9732 /absent  indel_1555 indel_1556 indel_1557 indel_1558 indel_1559 indel_1560 indel_1561 indel_1562 indel_1563 indel_1564 indel_1565
+	12517 ind_pos_9748_to_9748 /absent  indel_1566 indel_1567 indel_1568 indel_1569 indel_1570 indel_1571 indel_1572 indel_1573 indel_1574 indel_1575 indel_1576
+	12518 ind_pos_9756_to_9802 /absent  indel_1577 indel_1578 indel_1579 indel_1580 indel_1581 indel_1582 indel_1583 indel_1584 indel_1585 indel_1586 indel_1587
+	12519 ind_pos_9813_to_9822 /absent  indel_1588 indel_1589 indel_1590 indel_1591 indel_1592 indel_1593 indel_1594 indel_1595 indel_1596 indel_1597 indel_1598
+	12520 ind_pos_9827_to_9827 /absent  indel_1599 indel_1600 indel_1601 indel_1602 indel_1603 indel_1604 indel_1605 indel_1606 indel_1607 indel_1608 indel_1609
+	12521 ind_pos_9839_to_9841 /absent  indel_1610 indel_1611 indel_1612 indel_1613 indel_1614 indel_1615 indel_1616 indel_1617 indel_1618 indel_1619 indel_1620
+	12522 ind_pos_9862_to_12356 /absent  indel_1621 indel_1622 indel_1623 indel_1624 indel_1625 indel_1626 indel_1627 indel_1628 indel_1629
+	12523 ind_pos_9873_to_12356 /absent  indel_1630 indel_1631
+MATRIX
+
+S1?1?1101111111111111110111111111111101111111111111111111100111???110111111?11111111111111111111111111111111111111111??11?1111111100111?0111111111101111111?1111111111101
+S21011111111111111111110111111111111101111111111111111111100111???110111111?11111111111111111111111111111111111111111??11?1111111100111?0111111111101111111?111111111111?
+S31011111111111111111110111111111111101111111111111111111100110101110111111?11111111111111111111111111111111111111111??11?1111111100111?0111111111101111111?111111111111?
+S4?1?1111111111111111111111111111111101111111111111111111101?10101110111111?11111111111111111111111111111111111111111??11?1111111101111?0111111111101111111?1111111111101
+S51011111111111111111111111111111111101111111111111111111101?10101110111111?11111111111111111111111111111111111111111??11?1111111101111?0111111111101111111?111111111111?
+S6101111111111111111111111111111111111?11111111111110111111011011?01111111011111111111111111111111111111111111111111011101111111111?110101111011111011111101111111111111?
+S7101111111111111111111111111111111111?11111111111110111111011011?01011111011111111111111111111111111111111111111111011101111111111?11011??????1111011111101111111111111?
+S8101111111111111111111111111111111111?11111111111110111111011011?01011111011111111111111111111111111111111111111111011101111111111?110101111011111111111101111111111111?
+S9101111111111111111111111111111111111?11111111111110111111011011?01011111011111111111111111111111111111111111111111011101111111111?110101111011111011111101111111111111?
+S10101111111111111111111111111111111111?11111111111110111111011011?01011111011111111111111111111111111111111111111111011101111111111?110101111011111011111101111111111111?
+S11101111111111111111111111111111111111?11111111111110111111011011?01011111011111111111111111111111111111111111111111011101111111111?110101111011111011111101111111111111?
+;
+
+END;
+
+
+BEGIN ASSUMPTIONS; [below are the cost matrices of character change between the indel character state, these matrix exist only for characters that have more than two states]
+
+
+
+BEGIN SETS;
+
+CHARSET indels = 1-167;
+
+END;
+
+
+BEGIN PAUP;
+
+assume typeset=complexIndelCoding;
+
+END;
+
+[Indels:
+No.	extension
+1	1-3
+2	1-18
+3	14-17
+4	25-25
+5	57-58
+6	84-84
+7	151-189
+8	578-598
+9	602-646
+10	700-705
+11	713-718
+12	767-772
+13	778-781
+14	786-833
+15	856-858
+16	1003-1005
+17	1014-1014
+18	1021-1021
+19	1030-1032
+20	1055-1069
+21	1158-1164
+22	1201-1203
+23	1211-1211
+24	1238-1242
+25	1350-1352
+26	1388-1407
+27	1467-1470
+28	1476-1485
+29	1499-1500
+30	1511-1513
+31	1527-1588
+32	1622-1639
+33	1692-1694
+34	1705-1716
+35	1718-1723
+36	3041-3055
+37	3044-3055
+38	3115-3115
+39	3473-3478
+40	3619-3625
+41	3664-3670
+42	3698-3715
+43	3778-3779
+44	3805-3814
+45	3823-3864
+46	3890-3915
+47	3936-3940
+48	3955-3972
+49	3994-3996
+50	4008-4019
+51	4036-4038
+52	4134-4136
+53	4191-4193
+54	4293-4307
+55	4320-4340
+56	4353-4353
+57	4363-4363
+58	4390-4425
+59	4393-4424
+60	4429-4436
+61	4484-4551
+62	4486-4513
+63	4526-4551
+64	4534-4550
+65	4593-4607
+66	4656-4664
+67	4721-4721
+68	4741-4756
+69	4809-4848
+70	4857-4857
+71	4875-4889
+72	4893-4982
+73	4991-5011
+74	4992-5000
+75	5047-5092
+76	5100-5195
+77	5209-5229
+78	5474-5476
+79	5488-5499
+80	5537-5548
+81	5615-5626
+82	5714-5722
+83	5897-5899
+84	5952-5957
+85	6082-6087
+86	6111-6116
+87	6299-6307
+88	6315-6332
+89	6358-6369
+90	6375-6377
+91	6391-6423
+92	6469-6474
+93	6505-6506
+94	6520-6523
+95	6557-6585
+96	6604-6632
+97	6637-6640
+98	6671-6675
+99	6691-6699
+100	6706-6709
+101	6763-6771
+102	6922-6924
+103	7043-7048
+104	7057-7062
+105	7301-7303
+106	7312-7323
+107	7739-7744
+108	7759-7764
+109	7958-7966
+110	8334-8344
+111	8370-8375
+112	8378-8380
+113	8402-8422
+114	8471-8490
+115	8502-8548
+116	8507-8536
+117	8541-8547
+118	8563-8594
+119	8611-8713
+120	8617-8711
+121	8721-8721
+122	8730-8731
+123	8738-8750
+124	8758-8760
+125	8771-8779
+126	8798-8799
+127	8802-8806
+128	8819-8829
+129	8837-8858
+130	8849-8855
+131	8868-8868
+132	8890-8951
+133	8981-9000
+134	8984-8989
+135	9011-9127
+136	9015-9031
+137	9054-9063
+138	9066-9073
+139	9083-9094
+140	9097-9100
+141	9110-9120
+142	9130-9171
+143	9192-9217
+144	9222-9226
+145	9237-9251
+146	9259-9259
+147	9265-9270
+148	9276-9374
+149	9396-9404
+150	9431-9439
+151	9471-9473
+152	9529-9541
+153	9554-9562
+154	9555-9562
+155	9603-9603
+156	9608-9633
+157	9662-9663
+158	9671-9679
+159	9690-9707
+160	9725-9732
+161	9748-9748
+162	9756-9802
+163	9813-9822
+164	9827-9827
+165	9839-9841
+166	9862-12356
+167	9873-12356
+]

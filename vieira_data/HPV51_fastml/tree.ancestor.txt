@@ -1,0 +1,24 @@
+# created on Fri Dec 20 13:14:39 2019
+name	parent  child
+KT725857_1_Human_papillomavirus_type_51_isolate_HPV51-155-24_complete_genome N2     
+KF436870_1_Human_papillomavirus_type_51_isolate_Qv00891_complete_genome N2     
+KF436887_1_Human_papillomavirus_type_51_isolate_BF315_complete_genome  N5     
+KF436886_1_Human_papillomavirus_type_51_isolate_BF366_complete_genome  N5     
+KF436885_1_Human_papillomavirus_type_51_isolate_BF312_complete_genome  N4     
+KF436880_1_Human_papillomavirus_type_51_isolate_BF369_complete_genome  N6     
+KF436881_1_Human_papillomavirus_type_51_isolate_RW146_complete_genome  N7     
+KU298901_1_Human_papillomavirus_type_51_isolate_31A_51_complete_genome  N9     
+KF436882_1_Human_papillomavirus_type_51_isolate_Qv00495_complete_genome  N9     
+KF436883_1_Human_papillomavirus_type_51_isolate_Qv10565_complete_genome  N10    
+KF436884_1_Human_papillomavirus_type_51_isolate_Qv17234_complete_genome  N10    
+N1  root! N2 N3
+N2  N1      KT725857_1_Human_papillomavirus_type_51_isolate_HPV51-155-24_complete_genome KF436870_1_Human_papillomavirus_type_51_isolate_Qv00891_complete_genome
+N3  N1      N4 N6
+N4  N3      N5 KF436885_1_Human_papillomavirus_type_51_isolate_BF312_complete_genome
+N5  N4      KF436887_1_Human_papillomavirus_type_51_isolate_BF315_complete_genome KF436886_1_Human_papillomavirus_type_51_isolate_BF366_complete_genome
+N6  N3      KF436880_1_Human_papillomavirus_type_51_isolate_BF369_complete_genome N7
+N7  N6      KF436881_1_Human_papillomavirus_type_51_isolate_RW146_complete_genome N8
+N8  N7      N9 N10
+N9  N8      KU298901_1_Human_papillomavirus_type_51_isolate_31A_51_complete_genome KF436882_1_Human_papillomavirus_type_51_isolate_Qv00495_complete_genome
+N10 N8      KF436883_1_Human_papillomavirus_type_51_isolate_Qv10565_complete_genome KF436884_1_Human_papillomavirus_type_51_isolate_Qv17234_complete_genome
+

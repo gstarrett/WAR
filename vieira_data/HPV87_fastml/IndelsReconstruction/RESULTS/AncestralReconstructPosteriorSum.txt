@@ -1,0 +1,8 @@
+Node	State	ProbSum	Father	StateFather	ProbSumFather
+S1	1	138	N2	1	138
+S2	1	138	N2	1	138
+N2	1	138	N1	1	138.6
+S3	1	140	N3	1	139
+S4	1	140	N3	1	139
+N3	1	139	N1	1	138.6
+N1	1	138.6	NoFather2Root	NA	NA

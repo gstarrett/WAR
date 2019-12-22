@@ -1,0 +1,24 @@
+# created on Fri Dec 20 13:59:07 2019
+name	parent  child
+KX514418_1_Human_papillomavirus_type_56_isolate_60B_complete_genome  N7     
+KU298915_1_Human_papillomavirus_type_56_isolate_36A_56_complete_genome  N7     
+KU298918_1_Human_papillomavirus_type_56_isolate_87C_56_complete_genome  N6     
+EF177178_1_Human_papillomavirus_type_56_clone_Qv26458_complete_genome  N5     
+EF177179_1_Human_papillomavirus_type_56_clone_Qv22608_complete_genome  N4     
+KU298919_1_Human_papillomavirus_type_56_isolate_110A_56_complete_genome  N3     
+X74483_1_Human_papillomavirus_type_56_genomic_DNA  N8     
+EF177180_1_Human_papillomavirus_type_56_clone_Qv24970_complete_genome  N9     
+EF177181_1_Human_papillomavirus_type_56_clone_Qv25665_complete_genome  N9     
+EF177176_1_Human_papillomavirus_type_56_clone_Qv26762_complete_genome N10    
+EF177177_1_Human_papillomavirus_type_56_clone_Qv26342_complete_genome N10    
+N1  root! N2 N10
+N2  N1      N3 N8
+N3  N2      N4 KU298919_1_Human_papillomavirus_type_56_isolate_110A_56_complete_genome
+N4  N3      N5 EF177179_1_Human_papillomavirus_type_56_clone_Qv22608_complete_genome
+N5  N4      N6 EF177178_1_Human_papillomavirus_type_56_clone_Qv26458_complete_genome
+N6  N5      N7 KU298918_1_Human_papillomavirus_type_56_isolate_87C_56_complete_genome
+N7  N6      KX514418_1_Human_papillomavirus_type_56_isolate_60B_complete_genome KU298915_1_Human_papillomavirus_type_56_isolate_36A_56_complete_genome
+N8  N2      X74483_1_Human_papillomavirus_type_56_genomic_DNA N9
+N9  N8      EF177180_1_Human_papillomavirus_type_56_clone_Qv24970_complete_genome EF177181_1_Human_papillomavirus_type_56_clone_Qv25665_complete_genome
+N10 N1      EF177176_1_Human_papillomavirus_type_56_clone_Qv26762_complete_genome EF177177_1_Human_papillomavirus_type_56_clone_Qv26342_complete_genome
+

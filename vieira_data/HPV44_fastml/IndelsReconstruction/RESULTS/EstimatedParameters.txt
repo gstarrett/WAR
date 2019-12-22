@@ -1,0 +1,7 @@
+# Log-likelihood= -201.163
+_userAlphaRate 0.370511
+_userGain 1.9547
+_userLoss 0.671857
+_userGainLossRatio 2.9094
+# Stationary '1' Freq at the root (g/(g+l) = 0.744206
+# Total branch lengths:0.531182

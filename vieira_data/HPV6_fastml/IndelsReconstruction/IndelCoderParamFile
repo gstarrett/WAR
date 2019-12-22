@@ -1,0 +1,8 @@
+_seqFile /Volumes/Samsung_X5/Val_HPV_evolution/revisions/HPV6_fastml/HPV6.fasta.fix
+_indelOutputInfoFile /Volumes/Samsung_X5/Val_HPV_evolution/revisions/HPV6_fastml/IndelsReconstruction//HPV6.fasta.fix.indelOutputInfoFile
+_indelOutputFastaFile /Volumes/Samsung_X5/Val_HPV_evolution/revisions/HPV6_fastml/IndelsReconstruction//HPV6.fasta.fix.indelOutputFastaFile
+_nexusFileName /Volumes/Samsung_X5/Val_HPV_evolution/revisions/HPV6_fastml/IndelsReconstruction//HPV6.fasta.fix.indel_nexusFile
+_logFile /Volumes/Samsung_X5/Val_HPV_evolution/revisions/HPV6_fastml/IndelsReconstruction//HPV6.fasta.fixIndelCoder.log
+_logValue 9
+_codingType SIC
+_isOmitLeadingAndEndingGaps 0

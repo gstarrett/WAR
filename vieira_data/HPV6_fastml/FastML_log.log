@@ -1,0 +1,73 @@
+
+
+========================================= NEW FASTML RUN STARTED ===========================================
+COMMAND: perl /Users/starrettgj/soft/FastML.v3.1/www/fastml/FastML_Wrapper.pl --MSA_file HPV6.fasta --seqType nuc --Tree HPV6.nwk --outDir ./HPV6_fastml --SubMatrix GTR
+FULL RUNNING PARAMETERS (INCLUDING DEFAULTS):
+--MSA_File ./HPV6_fastml/HPV6.fasta --outDir ./HPV6_fastml/ --seqType nuc --Tree ./HPV6_fastml/HPV6.nwk --TreeAlg NJ --SubMatrix GTR --OptimizeBL YES --UseGamma YES --Alpha  --jointReconstruction YES --indelReconstruction BOTH --indelCutOff 0.5
+
+RunFastML: running cd ./HPV6_fastml/; /Users/starrettgj/soft/FastML.v3.1/www/fastml/../../programs/fastml/fastml -s ./HPV6_fastml/HPV6.fasta -mg -qf -t ./HPV6_fastml/HPV6.nwk -g > ./HPV6_fastml/fastml.std
+
+The file seq.marginal.txt or prob.marginal.txt was not created.
+
+	FASTML EXIT ON ERROR:
+FASTML failed to run, one of the files seq.marginal.txt or prob.marginal.txt were not created...
+
+
+Exit Time: 11:43:27 20-12-2019
+
+
+========================================= NEW FASTML RUN STARTED ===========================================
+COMMAND: perl /Users/starrettgj/soft/FastML.v3.1/www/fastml/FastML_Wrapper.pl --MSA_file HPV6.fasta --seqType nuc --Tree HPV6.nwk --outDir /Volumes/Samsung_X5/Val_HPV_evolution/revisions/HPV6_fastml --SubMatrix GTR
+FULL RUNNING PARAMETERS (INCLUDING DEFAULTS):
+--MSA_File /Volumes/Samsung_X5/Val_HPV_evolution/revisions/HPV6_fastml/HPV6.fasta --outDir /Volumes/Samsung_X5/Val_HPV_evolution/revisions/HPV6_fastml/ --seqType nuc --Tree /Volumes/Samsung_X5/Val_HPV_evolution/revisions/HPV6_fastml/HPV6.nwk --TreeAlg NJ --SubMatrix GTR --OptimizeBL YES --UseGamma YES --Alpha  --jointReconstruction YES --indelReconstruction BOTH --indelCutOff 0.5
+
+RunFastML: running cd /Volumes/Samsung_X5/Val_HPV_evolution/revisions/HPV6_fastml/; /Users/starrettgj/soft/FastML.v3.1/www/fastml/../../programs/fastml/fastml -s /Volumes/Samsung_X5/Val_HPV_evolution/revisions/HPV6_fastml/HPV6.fasta -mg -qf -t /Volumes/Samsung_X5/Val_HPV_evolution/revisions/HPV6_fastml/HPV6.nwk -g > /Volumes/Samsung_X5/Val_HPV_evolution/revisions/HPV6_fastml/fastml.std
+
+The file seq.marginal.txt or prob.marginal.txt was not created.
+
+	FASTML EXIT ON ERROR:
+FASTML failed to run, one of the files seq.marginal.txt or prob.marginal.txt were not created...
+
+
+Exit Time: 11:48:02 20-12-2019
+
+
+========================================= NEW FASTML RUN STARTED ===========================================
+COMMAND: perl /Users/starrettgj/soft/FastML.v3.1/www/fastml/FastML_Wrapper.pl --MSA_file HPV6.fasta.fix --seqType nuc --Tree HPV6.nwk --outDir /Volumes/Samsung_X5/Val_HPV_evolution/revisions/HPV6_fastml --SubMatrix GTR
+FULL RUNNING PARAMETERS (INCLUDING DEFAULTS):
+--MSA_File /Volumes/Samsung_X5/Val_HPV_evolution/revisions/HPV6_fastml/HPV6.fasta.fix --outDir /Volumes/Samsung_X5/Val_HPV_evolution/revisions/HPV6_fastml/ --seqType nuc --Tree /Volumes/Samsung_X5/Val_HPV_evolution/revisions/HPV6_fastml/HPV6.nwk --TreeAlg NJ --SubMatrix GTR --OptimizeBL YES --UseGamma YES --Alpha  --jointReconstruction YES --indelReconstruction BOTH --indelCutOff 0.5
+
+RunFastML: running cd /Volumes/Samsung_X5/Val_HPV_evolution/revisions/HPV6_fastml/; /Users/starrettgj/soft/FastML.v3.1/www/fastml/../../programs/fastml/fastml -s /Volumes/Samsung_X5/Val_HPV_evolution/revisions/HPV6_fastml/HPV6.fasta.fix -mg -qf -t /Volumes/Samsung_X5/Val_HPV_evolution/revisions/HPV6_fastml/HPV6.nwk -g > /Volumes/Samsung_X5/Val_HPV_evolution/revisions/HPV6_fastml/fastml.std
+
+The file seq.marginal.txt or prob.marginal.txt was not created.
+
+	FASTML EXIT ON ERROR:
+FASTML failed to run, one of the files seq.marginal.txt or prob.marginal.txt were not created...
+
+
+Exit Time: 14:17:25 20-12-2019
+
+
+========================================= NEW FASTML RUN STARTED ===========================================
+COMMAND: perl /Users/starrettgj/soft/FastML.v3.1/www/fastml/FastML_Wrapper.pl --MSA_file HPV6.fasta.fix --seqType nuc --Tree HPV6.nwk --outDir /Volumes/Samsung_X5/Val_HPV_evolution/revisions/HPV6_fastml --SubMatrix GTR
+FULL RUNNING PARAMETERS (INCLUDING DEFAULTS):
+--MSA_File /Volumes/Samsung_X5/Val_HPV_evolution/revisions/HPV6_fastml/HPV6.fasta.fix --outDir /Volumes/Samsung_X5/Val_HPV_evolution/revisions/HPV6_fastml/ --seqType nuc --Tree /Volumes/Samsung_X5/Val_HPV_evolution/revisions/HPV6_fastml/HPV6.nwk --TreeAlg NJ --SubMatrix GTR --OptimizeBL YES --UseGamma YES --Alpha  --jointReconstruction YES --indelReconstruction BOTH --indelCutOff 0.5
+
+RunFastML: running cd /Volumes/Samsung_X5/Val_HPV_evolution/revisions/HPV6_fastml/; /Users/starrettgj/soft/FastML.v3.1/www/fastml/../../programs/fastml/fastml -s /Volumes/Samsung_X5/Val_HPV_evolution/revisions/HPV6_fastml/HPV6.fasta.fix -mg -qf -t /Volumes/Samsung_X5/Val_HPV_evolution/revisions/HPV6_fastml/HPV6.nwk -g > /Volumes/Samsung_X5/Val_HPV_evolution/revisions/HPV6_fastml/fastml.std
+
+The file seq.marginal.txt or prob.marginal.txt was not created.
+
+	FASTML EXIT ON ERROR:
+FASTML failed to run, one of the files seq.marginal.txt or prob.marginal.txt were not created...
+
+
+Exit Time: 13:49:58 21-12-2019
+
+
+========================================= NEW FASTML RUN STARTED ===========================================
+COMMAND: perl /Users/starrettgj/soft/FastML.v3.1/www/fastml/FastML_Wrapper.pl --MSA_file HPV6.fasta.fix --seqType nuc --Tree HPV6.nwk --outDir /Volumes/Samsung_X5/Val_HPV_evolution/revisions/HPV6_fastml --SubMatrix GTR
+FULL RUNNING PARAMETERS (INCLUDING DEFAULTS):
+--MSA_File /Volumes/Samsung_X5/Val_HPV_evolution/revisions/HPV6_fastml/HPV6.fasta.fix --outDir /Volumes/Samsung_X5/Val_HPV_evolution/revisions/HPV6_fastml/ --seqType nuc --Tree /Volumes/Samsung_X5/Val_HPV_evolution/revisions/HPV6_fastml/HPV6.nwk --TreeAlg NJ --SubMatrix GTR --OptimizeBL YES --UseGamma YES --Alpha  --jointReconstruction YES --indelReconstruction BOTH --indelCutOff 0.5
+
+RunFastML: running cd /Volumes/Samsung_X5/Val_HPV_evolution/revisions/HPV6_fastml/; /Users/starrettgj/soft/FastML.v3.1/www/fastml/../../programs/fastml/fastml -s /Volumes/Samsung_X5/Val_HPV_evolution/revisions/HPV6_fastml/HPV6.fasta.fix -mg -qf -t /Volumes/Samsung_X5/Val_HPV_evolution/revisions/HPV6_fastml/HPV6.nwk -g > /Volumes/Samsung_X5/Val_HPV_evolution/revisions/HPV6_fastml/fastml.std
+IndelReconstruction: cd /Volumes/Samsung_X5/Val_HPV_evolution/revisions/HPV6_fastml/; perl /Users/starrettgj/soft/FastML.v3.1/www/fastml/IndelReconstruction_Wrapper.pl --MSA_File /Volumes/Samsung_X5/Val_HPV_evolution/revisions/HPV6_fastml/HPV6.fasta.fix --Tree_File /Volumes/Samsung_X5/Val_HPV_evolution/revisions/HPV6_fastml/HPV6.nwk --outDir /Volumes/Samsung_X5/Val_HPV_evolution/revisions/HPV6_fastml/ --seqType nuc --indelCutOff 0.5  > /Volumes/Samsung_X5/Val_HPV_evolution/revisions/HPV6_fastml//IndelReconstruction.log

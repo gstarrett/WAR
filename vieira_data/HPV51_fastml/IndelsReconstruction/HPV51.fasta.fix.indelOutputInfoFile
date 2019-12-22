@@ -1,0 +1,2979 @@
+# each character is listing all included gaps.
+# Character: Start position relative to MSA (first pos of gap, count from 0); End position relative to MSA (+1);  length.
+# Gap: seqID(num start from 0); coord5Abs (relative to genome. not by MSA,first pos of gap, count from 0); length.
+character number: 0
+Start position relative to MSA: 0
+End position relative to MSA: 7
+Length: 7
+Found in species: S11 Start position relative to genome: 0 Length: 7
+Found in species: S10 Start position relative to genome: 0 Length: 7
+Found in species: S9 Start position relative to genome: 0 Length: 7
+Found in species: S8 Start position relative to genome: 0 Length: 7
+Found in species: S7 Start position relative to genome: 0 Length: 7
+Found in species: S6 Start position relative to genome: 0 Length: 7
+Found in species: S5 Start position relative to genome: 0 Length: 7
+Found in species: S4 Start position relative to genome: 0 Length: 7
+Found in species: S3 Start position relative to genome: 0 Length: 7
+Found in species: S2 Start position relative to genome: 0 Length: 7
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 1
+Start position relative to MSA: 0
+End position relative to MSA: 9
+Length: 9
+Found in species: S1 Start position relative to genome: 0 Length: 9
+NOT FOUND in species: S2,S3,S4,S5,S6,S7,S8,S9,S10,S11,
+ENDCHARACTER
+
+character number: 2
+Start position relative to MSA: 13
+End position relative to MSA: 17
+Length: 4
+Found in species: S11 Start position relative to genome: 6 Length: 4
+Found in species: S10 Start position relative to genome: 6 Length: 4
+Found in species: S9 Start position relative to genome: 6 Length: 4
+Found in species: S8 Start position relative to genome: 6 Length: 4
+Found in species: S7 Start position relative to genome: 6 Length: 4
+Found in species: S6 Start position relative to genome: 6 Length: 4
+Found in species: S5 Start position relative to genome: 6 Length: 4
+Found in species: S4 Start position relative to genome: 6 Length: 4
+Found in species: S3 Start position relative to genome: 6 Length: 4
+Found in species: S2 Start position relative to genome: 6 Length: 4
+Found in species: S1 Start position relative to genome: 4 Length: 4
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 3
+Start position relative to MSA: 32
+End position relative to MSA: 34
+Length: 2
+Found in species: S11 Start position relative to genome: 21 Length: 2
+Found in species: S10 Start position relative to genome: 21 Length: 2
+Found in species: S9 Start position relative to genome: 21 Length: 2
+Found in species: S8 Start position relative to genome: 21 Length: 2
+Found in species: S7 Start position relative to genome: 21 Length: 2
+Found in species: S6 Start position relative to genome: 21 Length: 2
+Found in species: S5 Start position relative to genome: 21 Length: 2
+Found in species: S4 Start position relative to genome: 21 Length: 2
+Found in species: S3 Start position relative to genome: 21 Length: 2
+Found in species: S2 Start position relative to genome: 21 Length: 2
+Found in species: S1 Start position relative to genome: 19 Length: 2
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 4
+Start position relative to MSA: 54
+End position relative to MSA: 55
+Length: 1
+Found in species: S11 Start position relative to genome: 41 Length: 1
+Found in species: S10 Start position relative to genome: 41 Length: 1
+Found in species: S9 Start position relative to genome: 41 Length: 1
+Found in species: S8 Start position relative to genome: 41 Length: 1
+Found in species: S7 Start position relative to genome: 41 Length: 1
+Found in species: S6 Start position relative to genome: 41 Length: 1
+Found in species: S5 Start position relative to genome: 41 Length: 1
+Found in species: S4 Start position relative to genome: 41 Length: 1
+Found in species: S3 Start position relative to genome: 41 Length: 1
+Found in species: S2 Start position relative to genome: 41 Length: 1
+Found in species: S1 Start position relative to genome: 39 Length: 1
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 5
+Start position relative to MSA: 82
+End position relative to MSA: 103
+Length: 21
+Found in species: S11 Start position relative to genome: 68 Length: 21
+Found in species: S10 Start position relative to genome: 68 Length: 21
+Found in species: S9 Start position relative to genome: 68 Length: 21
+Found in species: S8 Start position relative to genome: 68 Length: 21
+Found in species: S7 Start position relative to genome: 68 Length: 21
+Found in species: S6 Start position relative to genome: 68 Length: 21
+Found in species: S5 Start position relative to genome: 68 Length: 21
+Found in species: S4 Start position relative to genome: 68 Length: 21
+Found in species: S3 Start position relative to genome: 68 Length: 21
+Found in species: S2 Start position relative to genome: 68 Length: 21
+Found in species: S1 Start position relative to genome: 66 Length: 21
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 6
+Start position relative to MSA: 133
+End position relative to MSA: 136
+Length: 3
+Found in species: S11 Start position relative to genome: 98 Length: 3
+Found in species: S10 Start position relative to genome: 98 Length: 3
+Found in species: S9 Start position relative to genome: 98 Length: 3
+Found in species: S8 Start position relative to genome: 98 Length: 3
+Found in species: S7 Start position relative to genome: 98 Length: 3
+Found in species: S6 Start position relative to genome: 98 Length: 3
+Found in species: S5 Start position relative to genome: 98 Length: 3
+Found in species: S4 Start position relative to genome: 98 Length: 3
+Found in species: S3 Start position relative to genome: 98 Length: 3
+Found in species: S2 Start position relative to genome: 98 Length: 3
+Found in species: S1 Start position relative to genome: 96 Length: 3
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 7
+Start position relative to MSA: 164
+End position relative to MSA: 187
+Length: 23
+Found in species: S11 Start position relative to genome: 126 Length: 23
+Found in species: S10 Start position relative to genome: 126 Length: 23
+Found in species: S9 Start position relative to genome: 126 Length: 23
+Found in species: S8 Start position relative to genome: 126 Length: 23
+Found in species: S7 Start position relative to genome: 126 Length: 23
+Found in species: S6 Start position relative to genome: 126 Length: 23
+Found in species: S5 Start position relative to genome: 126 Length: 23
+Found in species: S4 Start position relative to genome: 126 Length: 23
+Found in species: S3 Start position relative to genome: 126 Length: 23
+Found in species: S2 Start position relative to genome: 126 Length: 23
+Found in species: S1 Start position relative to genome: 124 Length: 23
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 8
+Start position relative to MSA: 577
+End position relative to MSA: 598
+Length: 21
+Found in species: S11 Start position relative to genome: 516 Length: 21
+Found in species: S10 Start position relative to genome: 516 Length: 21
+Found in species: S9 Start position relative to genome: 516 Length: 21
+Found in species: S8 Start position relative to genome: 516 Length: 21
+Found in species: S7 Start position relative to genome: 516 Length: 21
+Found in species: S6 Start position relative to genome: 516 Length: 21
+Found in species: S5 Start position relative to genome: 516 Length: 21
+Found in species: S4 Start position relative to genome: 516 Length: 21
+Found in species: S3 Start position relative to genome: 516 Length: 21
+Found in species: S2 Start position relative to genome: 516 Length: 21
+Found in species: S1 Start position relative to genome: 514 Length: 21
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 9
+Start position relative to MSA: 609
+End position relative to MSA: 612
+Length: 3
+Found in species: S11 Start position relative to genome: 527 Length: 3
+Found in species: S10 Start position relative to genome: 527 Length: 3
+Found in species: S9 Start position relative to genome: 527 Length: 3
+Found in species: S8 Start position relative to genome: 527 Length: 3
+Found in species: S7 Start position relative to genome: 527 Length: 3
+Found in species: S6 Start position relative to genome: 527 Length: 3
+Found in species: S5 Start position relative to genome: 527 Length: 3
+Found in species: S4 Start position relative to genome: 527 Length: 3
+Found in species: S3 Start position relative to genome: 527 Length: 3
+Found in species: S2 Start position relative to genome: 527 Length: 3
+Found in species: S1 Start position relative to genome: 525 Length: 3
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 10
+Start position relative to MSA: 641
+End position relative to MSA: 648
+Length: 7
+Found in species: S11 Start position relative to genome: 556 Length: 7
+Found in species: S10 Start position relative to genome: 556 Length: 7
+Found in species: S9 Start position relative to genome: 556 Length: 7
+Found in species: S8 Start position relative to genome: 556 Length: 7
+Found in species: S7 Start position relative to genome: 556 Length: 7
+Found in species: S6 Start position relative to genome: 556 Length: 7
+Found in species: S5 Start position relative to genome: 556 Length: 7
+Found in species: S4 Start position relative to genome: 556 Length: 7
+Found in species: S3 Start position relative to genome: 556 Length: 7
+Found in species: S2 Start position relative to genome: 556 Length: 7
+Found in species: S1 Start position relative to genome: 554 Length: 7
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 11
+Start position relative to MSA: 712
+End position relative to MSA: 721
+Length: 9
+Found in species: S11 Start position relative to genome: 620 Length: 9
+Found in species: S10 Start position relative to genome: 620 Length: 9
+Found in species: S9 Start position relative to genome: 620 Length: 9
+Found in species: S8 Start position relative to genome: 620 Length: 9
+Found in species: S7 Start position relative to genome: 620 Length: 9
+Found in species: S6 Start position relative to genome: 620 Length: 9
+Found in species: S5 Start position relative to genome: 620 Length: 9
+Found in species: S4 Start position relative to genome: 620 Length: 9
+Found in species: S3 Start position relative to genome: 620 Length: 9
+Found in species: S2 Start position relative to genome: 620 Length: 9
+Found in species: S1 Start position relative to genome: 618 Length: 9
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 12
+Start position relative to MSA: 747
+End position relative to MSA: 750
+Length: 3
+Found in species: S11 Start position relative to genome: 646 Length: 3
+Found in species: S10 Start position relative to genome: 646 Length: 3
+Found in species: S9 Start position relative to genome: 646 Length: 3
+Found in species: S8 Start position relative to genome: 646 Length: 3
+Found in species: S7 Start position relative to genome: 646 Length: 3
+Found in species: S6 Start position relative to genome: 646 Length: 3
+Found in species: S5 Start position relative to genome: 646 Length: 3
+Found in species: S4 Start position relative to genome: 646 Length: 3
+Found in species: S3 Start position relative to genome: 646 Length: 3
+Found in species: S2 Start position relative to genome: 646 Length: 3
+Found in species: S1 Start position relative to genome: 644 Length: 3
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 13
+Start position relative to MSA: 753
+End position relative to MSA: 756
+Length: 3
+Found in species: S11 Start position relative to genome: 649 Length: 3
+Found in species: S10 Start position relative to genome: 649 Length: 3
+Found in species: S9 Start position relative to genome: 649 Length: 3
+Found in species: S8 Start position relative to genome: 649 Length: 3
+Found in species: S7 Start position relative to genome: 649 Length: 3
+Found in species: S6 Start position relative to genome: 649 Length: 3
+Found in species: S5 Start position relative to genome: 649 Length: 3
+Found in species: S4 Start position relative to genome: 649 Length: 3
+Found in species: S3 Start position relative to genome: 649 Length: 3
+Found in species: S2 Start position relative to genome: 649 Length: 3
+Found in species: S1 Start position relative to genome: 647 Length: 3
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 14
+Start position relative to MSA: 766
+End position relative to MSA: 772
+Length: 6
+Found in species: S11 Start position relative to genome: 659 Length: 6
+Found in species: S10 Start position relative to genome: 659 Length: 6
+Found in species: S9 Start position relative to genome: 659 Length: 6
+Found in species: S8 Start position relative to genome: 659 Length: 6
+Found in species: S7 Start position relative to genome: 659 Length: 6
+Found in species: S6 Start position relative to genome: 659 Length: 6
+Found in species: S5 Start position relative to genome: 659 Length: 6
+Found in species: S4 Start position relative to genome: 659 Length: 6
+Found in species: S3 Start position relative to genome: 659 Length: 6
+Found in species: S2 Start position relative to genome: 659 Length: 6
+Found in species: S1 Start position relative to genome: 657 Length: 6
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 15
+Start position relative to MSA: 774
+End position relative to MSA: 781
+Length: 7
+Found in species: S11 Start position relative to genome: 661 Length: 7
+Found in species: S10 Start position relative to genome: 661 Length: 7
+Found in species: S9 Start position relative to genome: 661 Length: 7
+Found in species: S8 Start position relative to genome: 661 Length: 7
+Found in species: S7 Start position relative to genome: 661 Length: 7
+Found in species: S6 Start position relative to genome: 661 Length: 7
+Found in species: S5 Start position relative to genome: 661 Length: 7
+Found in species: S4 Start position relative to genome: 661 Length: 7
+Found in species: S3 Start position relative to genome: 661 Length: 7
+Found in species: S2 Start position relative to genome: 661 Length: 7
+Found in species: S1 Start position relative to genome: 659 Length: 7
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 16
+Start position relative to MSA: 802
+End position relative to MSA: 814
+Length: 12
+Found in species: S11 Start position relative to genome: 682 Length: 12
+Found in species: S10 Start position relative to genome: 682 Length: 12
+Found in species: S9 Start position relative to genome: 682 Length: 12
+Found in species: S8 Start position relative to genome: 682 Length: 12
+Found in species: S7 Start position relative to genome: 682 Length: 12
+Found in species: S6 Start position relative to genome: 682 Length: 12
+Found in species: S5 Start position relative to genome: 682 Length: 12
+Found in species: S4 Start position relative to genome: 682 Length: 12
+Found in species: S3 Start position relative to genome: 682 Length: 12
+Found in species: S2 Start position relative to genome: 682 Length: 12
+Found in species: S1 Start position relative to genome: 680 Length: 12
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 17
+Start position relative to MSA: 824
+End position relative to MSA: 827
+Length: 3
+Found in species: S11 Start position relative to genome: 692 Length: 3
+Found in species: S10 Start position relative to genome: 692 Length: 3
+Found in species: S9 Start position relative to genome: 692 Length: 3
+Found in species: S8 Start position relative to genome: 692 Length: 3
+Found in species: S7 Start position relative to genome: 692 Length: 3
+Found in species: S6 Start position relative to genome: 692 Length: 3
+Found in species: S5 Start position relative to genome: 692 Length: 3
+Found in species: S4 Start position relative to genome: 692 Length: 3
+Found in species: S3 Start position relative to genome: 692 Length: 3
+Found in species: S2 Start position relative to genome: 692 Length: 3
+Found in species: S1 Start position relative to genome: 690 Length: 3
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 18
+Start position relative to MSA: 835
+End position relative to MSA: 838
+Length: 3
+Found in species: S11 Start position relative to genome: 700 Length: 3
+Found in species: S10 Start position relative to genome: 700 Length: 3
+Found in species: S9 Start position relative to genome: 700 Length: 3
+Found in species: S8 Start position relative to genome: 700 Length: 3
+Found in species: S7 Start position relative to genome: 700 Length: 3
+Found in species: S6 Start position relative to genome: 700 Length: 3
+Found in species: S5 Start position relative to genome: 700 Length: 3
+Found in species: S4 Start position relative to genome: 700 Length: 3
+Found in species: S3 Start position relative to genome: 700 Length: 3
+Found in species: S2 Start position relative to genome: 700 Length: 3
+Found in species: S1 Start position relative to genome: 698 Length: 3
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 19
+Start position relative to MSA: 883
+End position relative to MSA: 886
+Length: 3
+Found in species: S11 Start position relative to genome: 745 Length: 3
+Found in species: S10 Start position relative to genome: 745 Length: 3
+Found in species: S9 Start position relative to genome: 745 Length: 3
+Found in species: S8 Start position relative to genome: 745 Length: 3
+Found in species: S7 Start position relative to genome: 745 Length: 3
+Found in species: S6 Start position relative to genome: 745 Length: 3
+Found in species: S5 Start position relative to genome: 745 Length: 3
+Found in species: S4 Start position relative to genome: 745 Length: 3
+Found in species: S3 Start position relative to genome: 745 Length: 3
+Found in species: S2 Start position relative to genome: 745 Length: 3
+Found in species: S1 Start position relative to genome: 743 Length: 3
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 20
+Start position relative to MSA: 954
+End position relative to MSA: 957
+Length: 3
+Found in species: S11 Start position relative to genome: 813 Length: 3
+Found in species: S10 Start position relative to genome: 813 Length: 3
+Found in species: S9 Start position relative to genome: 813 Length: 3
+Found in species: S8 Start position relative to genome: 813 Length: 3
+Found in species: S7 Start position relative to genome: 813 Length: 3
+Found in species: S6 Start position relative to genome: 813 Length: 3
+Found in species: S5 Start position relative to genome: 813 Length: 3
+Found in species: S4 Start position relative to genome: 813 Length: 3
+Found in species: S3 Start position relative to genome: 813 Length: 3
+Found in species: S2 Start position relative to genome: 813 Length: 3
+Found in species: S1 Start position relative to genome: 811 Length: 3
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 21
+Start position relative to MSA: 1002
+End position relative to MSA: 1005
+Length: 3
+Found in species: S11 Start position relative to genome: 858 Length: 3
+Found in species: S10 Start position relative to genome: 858 Length: 3
+Found in species: S9 Start position relative to genome: 858 Length: 3
+Found in species: S8 Start position relative to genome: 858 Length: 3
+Found in species: S7 Start position relative to genome: 858 Length: 3
+Found in species: S6 Start position relative to genome: 858 Length: 3
+Found in species: S5 Start position relative to genome: 858 Length: 3
+Found in species: S4 Start position relative to genome: 858 Length: 3
+Found in species: S3 Start position relative to genome: 858 Length: 3
+Found in species: S2 Start position relative to genome: 858 Length: 3
+Found in species: S1 Start position relative to genome: 856 Length: 3
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 22
+Start position relative to MSA: 1013
+End position relative to MSA: 1014
+Length: 1
+Found in species: S11 Start position relative to genome: 866 Length: 1
+Found in species: S10 Start position relative to genome: 866 Length: 1
+Found in species: S9 Start position relative to genome: 866 Length: 1
+Found in species: S8 Start position relative to genome: 866 Length: 1
+Found in species: S7 Start position relative to genome: 866 Length: 1
+Found in species: S6 Start position relative to genome: 866 Length: 1
+Found in species: S5 Start position relative to genome: 866 Length: 1
+Found in species: S4 Start position relative to genome: 866 Length: 1
+Found in species: S3 Start position relative to genome: 866 Length: 1
+Found in species: S2 Start position relative to genome: 866 Length: 1
+Found in species: S1 Start position relative to genome: 864 Length: 1
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 23
+Start position relative to MSA: 1028
+End position relative to MSA: 1034
+Length: 6
+Found in species: S11 Start position relative to genome: 880 Length: 6
+Found in species: S10 Start position relative to genome: 880 Length: 6
+Found in species: S9 Start position relative to genome: 880 Length: 6
+Found in species: S8 Start position relative to genome: 880 Length: 6
+Found in species: S7 Start position relative to genome: 880 Length: 6
+Found in species: S6 Start position relative to genome: 880 Length: 6
+Found in species: S5 Start position relative to genome: 880 Length: 6
+Found in species: S4 Start position relative to genome: 880 Length: 6
+Found in species: S3 Start position relative to genome: 880 Length: 6
+Found in species: S2 Start position relative to genome: 880 Length: 6
+Found in species: S1 Start position relative to genome: 878 Length: 6
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 24
+Start position relative to MSA: 1054
+End position relative to MSA: 1069
+Length: 15
+Found in species: S11 Start position relative to genome: 900 Length: 15
+Found in species: S10 Start position relative to genome: 900 Length: 15
+Found in species: S9 Start position relative to genome: 900 Length: 15
+Found in species: S8 Start position relative to genome: 900 Length: 15
+Found in species: S7 Start position relative to genome: 900 Length: 15
+Found in species: S6 Start position relative to genome: 900 Length: 15
+Found in species: S5 Start position relative to genome: 900 Length: 15
+Found in species: S4 Start position relative to genome: 900 Length: 15
+Found in species: S3 Start position relative to genome: 900 Length: 15
+Found in species: S2 Start position relative to genome: 900 Length: 15
+Found in species: S1 Start position relative to genome: 898 Length: 15
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 25
+Start position relative to MSA: 1157
+End position relative to MSA: 1164
+Length: 7
+Found in species: S11 Start position relative to genome: 988 Length: 7
+Found in species: S10 Start position relative to genome: 988 Length: 7
+Found in species: S9 Start position relative to genome: 988 Length: 7
+Found in species: S8 Start position relative to genome: 988 Length: 7
+Found in species: S7 Start position relative to genome: 988 Length: 7
+Found in species: S6 Start position relative to genome: 988 Length: 7
+Found in species: S5 Start position relative to genome: 988 Length: 7
+Found in species: S4 Start position relative to genome: 988 Length: 7
+Found in species: S3 Start position relative to genome: 988 Length: 7
+Found in species: S2 Start position relative to genome: 988 Length: 7
+Found in species: S1 Start position relative to genome: 986 Length: 7
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 26
+Start position relative to MSA: 1200
+End position relative to MSA: 1203
+Length: 3
+Found in species: S11 Start position relative to genome: 1024 Length: 3
+Found in species: S10 Start position relative to genome: 1024 Length: 3
+Found in species: S9 Start position relative to genome: 1024 Length: 3
+Found in species: S8 Start position relative to genome: 1024 Length: 3
+Found in species: S7 Start position relative to genome: 1024 Length: 3
+Found in species: S6 Start position relative to genome: 1024 Length: 3
+Found in species: S5 Start position relative to genome: 1024 Length: 3
+Found in species: S4 Start position relative to genome: 1024 Length: 3
+Found in species: S3 Start position relative to genome: 1024 Length: 3
+Found in species: S2 Start position relative to genome: 1024 Length: 3
+Found in species: S1 Start position relative to genome: 1022 Length: 3
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 27
+Start position relative to MSA: 1344
+End position relative to MSA: 1371
+Length: 27
+Found in species: S11 Start position relative to genome: 1165 Length: 27
+Found in species: S10 Start position relative to genome: 1165 Length: 27
+Found in species: S9 Start position relative to genome: 1165 Length: 27
+Found in species: S8 Start position relative to genome: 1165 Length: 27
+Found in species: S7 Start position relative to genome: 1165 Length: 27
+Found in species: S6 Start position relative to genome: 1165 Length: 27
+Found in species: S5 Start position relative to genome: 1165 Length: 27
+Found in species: S4 Start position relative to genome: 1165 Length: 27
+Found in species: S3 Start position relative to genome: 1165 Length: 27
+Found in species: S2 Start position relative to genome: 1165 Length: 27
+Found in species: S1 Start position relative to genome: 1163 Length: 27
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 28
+Start position relative to MSA: 1387
+End position relative to MSA: 1420
+Length: 33
+Found in species: S11 Start position relative to genome: 1181 Length: 33
+Found in species: S10 Start position relative to genome: 1181 Length: 33
+Found in species: S9 Start position relative to genome: 1181 Length: 33
+Found in species: S8 Start position relative to genome: 1181 Length: 33
+Found in species: S7 Start position relative to genome: 1181 Length: 33
+Found in species: S6 Start position relative to genome: 1181 Length: 33
+Found in species: S5 Start position relative to genome: 1181 Length: 33
+Found in species: S4 Start position relative to genome: 1181 Length: 33
+Found in species: S3 Start position relative to genome: 1181 Length: 33
+Found in species: S2 Start position relative to genome: 1181 Length: 33
+Found in species: S1 Start position relative to genome: 1179 Length: 33
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 29
+Start position relative to MSA: 1510
+End position relative to MSA: 1513
+Length: 3
+Found in species: S11 Start position relative to genome: 1271 Length: 3
+Found in species: S10 Start position relative to genome: 1271 Length: 3
+Found in species: S9 Start position relative to genome: 1271 Length: 3
+Found in species: S8 Start position relative to genome: 1271 Length: 3
+Found in species: S7 Start position relative to genome: 1271 Length: 3
+Found in species: S6 Start position relative to genome: 1271 Length: 3
+Found in species: S5 Start position relative to genome: 1271 Length: 3
+Found in species: S4 Start position relative to genome: 1271 Length: 3
+Found in species: S3 Start position relative to genome: 1271 Length: 3
+Found in species: S2 Start position relative to genome: 1271 Length: 3
+Found in species: S1 Start position relative to genome: 1269 Length: 3
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 30
+Start position relative to MSA: 1525
+End position relative to MSA: 1534
+Length: 9
+Found in species: S11 Start position relative to genome: 1283 Length: 9
+Found in species: S10 Start position relative to genome: 1283 Length: 9
+Found in species: S9 Start position relative to genome: 1283 Length: 9
+Found in species: S8 Start position relative to genome: 1283 Length: 9
+Found in species: S7 Start position relative to genome: 1283 Length: 9
+Found in species: S6 Start position relative to genome: 1283 Length: 9
+Found in species: S5 Start position relative to genome: 1283 Length: 9
+Found in species: S4 Start position relative to genome: 1283 Length: 9
+Found in species: S3 Start position relative to genome: 1283 Length: 9
+Found in species: S2 Start position relative to genome: 1283 Length: 9
+Found in species: S1 Start position relative to genome: 1281 Length: 9
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 31
+Start position relative to MSA: 1546
+End position relative to MSA: 1550
+Length: 4
+Found in species: S11 Start position relative to genome: 1295 Length: 4
+Found in species: S10 Start position relative to genome: 1295 Length: 4
+Found in species: S9 Start position relative to genome: 1295 Length: 4
+Found in species: S8 Start position relative to genome: 1295 Length: 4
+Found in species: S7 Start position relative to genome: 1295 Length: 4
+Found in species: S6 Start position relative to genome: 1295 Length: 4
+Found in species: S5 Start position relative to genome: 1295 Length: 4
+Found in species: S4 Start position relative to genome: 1295 Length: 4
+Found in species: S3 Start position relative to genome: 1295 Length: 4
+Found in species: S2 Start position relative to genome: 1295 Length: 4
+Found in species: S1 Start position relative to genome: 1293 Length: 4
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 32
+Start position relative to MSA: 1564
+End position relative to MSA: 1600
+Length: 36
+Found in species: S11 Start position relative to genome: 1309 Length: 36
+Found in species: S10 Start position relative to genome: 1309 Length: 36
+Found in species: S9 Start position relative to genome: 1309 Length: 36
+Found in species: S8 Start position relative to genome: 1309 Length: 36
+Found in species: S7 Start position relative to genome: 1309 Length: 36
+Found in species: S6 Start position relative to genome: 1309 Length: 36
+Found in species: S5 Start position relative to genome: 1309 Length: 36
+Found in species: S4 Start position relative to genome: 1309 Length: 36
+Found in species: S3 Start position relative to genome: 1309 Length: 36
+Found in species: S2 Start position relative to genome: 1309 Length: 36
+Found in species: S1 Start position relative to genome: 1307 Length: 36
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 33
+Start position relative to MSA: 1630
+End position relative to MSA: 1639
+Length: 9
+Found in species: S11 Start position relative to genome: 1339 Length: 9
+Found in species: S10 Start position relative to genome: 1339 Length: 9
+Found in species: S9 Start position relative to genome: 1339 Length: 9
+Found in species: S8 Start position relative to genome: 1339 Length: 9
+Found in species: S7 Start position relative to genome: 1339 Length: 9
+Found in species: S6 Start position relative to genome: 1339 Length: 9
+Found in species: S5 Start position relative to genome: 1339 Length: 9
+Found in species: S4 Start position relative to genome: 1339 Length: 9
+Found in species: S3 Start position relative to genome: 1339 Length: 9
+Found in species: S2 Start position relative to genome: 1339 Length: 9
+Found in species: S1 Start position relative to genome: 1337 Length: 9
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 34
+Start position relative to MSA: 1656
+End position relative to MSA: 1669
+Length: 13
+Found in species: S11 Start position relative to genome: 1356 Length: 13
+Found in species: S10 Start position relative to genome: 1356 Length: 13
+Found in species: S9 Start position relative to genome: 1356 Length: 13
+Found in species: S8 Start position relative to genome: 1356 Length: 13
+Found in species: S7 Start position relative to genome: 1356 Length: 13
+Found in species: S6 Start position relative to genome: 1356 Length: 13
+Found in species: S5 Start position relative to genome: 1356 Length: 13
+Found in species: S4 Start position relative to genome: 1356 Length: 13
+Found in species: S3 Start position relative to genome: 1356 Length: 13
+Found in species: S2 Start position relative to genome: 1356 Length: 13
+Found in species: S1 Start position relative to genome: 1354 Length: 13
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 35
+Start position relative to MSA: 1691
+End position relative to MSA: 1694
+Length: 3
+Found in species: S11 Start position relative to genome: 1378 Length: 3
+Found in species: S10 Start position relative to genome: 1378 Length: 3
+Found in species: S9 Start position relative to genome: 1378 Length: 3
+Found in species: S8 Start position relative to genome: 1378 Length: 3
+Found in species: S7 Start position relative to genome: 1378 Length: 3
+Found in species: S6 Start position relative to genome: 1378 Length: 3
+Found in species: S5 Start position relative to genome: 1378 Length: 3
+Found in species: S4 Start position relative to genome: 1378 Length: 3
+Found in species: S3 Start position relative to genome: 1378 Length: 3
+Found in species: S2 Start position relative to genome: 1378 Length: 3
+Found in species: S1 Start position relative to genome: 1376 Length: 3
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 36
+Start position relative to MSA: 3007
+End position relative to MSA: 3016
+Length: 9
+Found in species: S11 Start position relative to genome: 2691 Length: 9
+Found in species: S10 Start position relative to genome: 2691 Length: 9
+Found in species: S9 Start position relative to genome: 2691 Length: 9
+Found in species: S8 Start position relative to genome: 2691 Length: 9
+Found in species: S7 Start position relative to genome: 2691 Length: 9
+Found in species: S6 Start position relative to genome: 2691 Length: 9
+Found in species: S5 Start position relative to genome: 2691 Length: 9
+Found in species: S4 Start position relative to genome: 2691 Length: 9
+Found in species: S3 Start position relative to genome: 2691 Length: 9
+Found in species: S2 Start position relative to genome: 2691 Length: 9
+Found in species: S1 Start position relative to genome: 2689 Length: 9
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 37
+Start position relative to MSA: 3044
+End position relative to MSA: 3056
+Length: 12
+Found in species: S11 Start position relative to genome: 2719 Length: 12
+Found in species: S10 Start position relative to genome: 2719 Length: 12
+Found in species: S9 Start position relative to genome: 2719 Length: 12
+Found in species: S8 Start position relative to genome: 2719 Length: 12
+Found in species: S7 Start position relative to genome: 2719 Length: 12
+Found in species: S6 Start position relative to genome: 2719 Length: 12
+Found in species: S5 Start position relative to genome: 2719 Length: 12
+Found in species: S4 Start position relative to genome: 2719 Length: 12
+Found in species: S3 Start position relative to genome: 2719 Length: 12
+Found in species: S2 Start position relative to genome: 2719 Length: 12
+Found in species: S1 Start position relative to genome: 2717 Length: 12
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 38
+Start position relative to MSA: 3114
+End position relative to MSA: 3115
+Length: 1
+Found in species: S11 Start position relative to genome: 2777 Length: 1
+Found in species: S10 Start position relative to genome: 2777 Length: 1
+Found in species: S9 Start position relative to genome: 2777 Length: 1
+Found in species: S8 Start position relative to genome: 2777 Length: 1
+Found in species: S7 Start position relative to genome: 2777 Length: 1
+Found in species: S6 Start position relative to genome: 2777 Length: 1
+Found in species: S5 Start position relative to genome: 2777 Length: 1
+Found in species: S4 Start position relative to genome: 2777 Length: 1
+Found in species: S3 Start position relative to genome: 2777 Length: 1
+Found in species: S2 Start position relative to genome: 2777 Length: 1
+Found in species: S1 Start position relative to genome: 2775 Length: 1
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 39
+Start position relative to MSA: 3472
+End position relative to MSA: 3478
+Length: 6
+Found in species: S11 Start position relative to genome: 3134 Length: 6
+Found in species: S10 Start position relative to genome: 3134 Length: 6
+Found in species: S9 Start position relative to genome: 3134 Length: 6
+Found in species: S8 Start position relative to genome: 3134 Length: 6
+Found in species: S7 Start position relative to genome: 3134 Length: 6
+Found in species: S6 Start position relative to genome: 3134 Length: 6
+Found in species: S5 Start position relative to genome: 3134 Length: 6
+Found in species: S4 Start position relative to genome: 3134 Length: 6
+Found in species: S3 Start position relative to genome: 3134 Length: 6
+Found in species: S2 Start position relative to genome: 3134 Length: 6
+Found in species: S1 Start position relative to genome: 3132 Length: 6
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 40
+Start position relative to MSA: 3492
+End position relative to MSA: 3498
+Length: 6
+Found in species: S11 Start position relative to genome: 3148 Length: 6
+Found in species: S10 Start position relative to genome: 3148 Length: 6
+Found in species: S9 Start position relative to genome: 3148 Length: 6
+Found in species: S8 Start position relative to genome: 3148 Length: 6
+Found in species: S7 Start position relative to genome: 3148 Length: 6
+Found in species: S6 Start position relative to genome: 3148 Length: 6
+Found in species: S5 Start position relative to genome: 3148 Length: 6
+Found in species: S4 Start position relative to genome: 3148 Length: 6
+Found in species: S3 Start position relative to genome: 3148 Length: 6
+Found in species: S2 Start position relative to genome: 3148 Length: 6
+Found in species: S1 Start position relative to genome: 3146 Length: 6
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 41
+Start position relative to MSA: 3606
+End position relative to MSA: 3613
+Length: 7
+Found in species: S11 Start position relative to genome: 3256 Length: 7
+Found in species: S10 Start position relative to genome: 3256 Length: 7
+Found in species: S9 Start position relative to genome: 3256 Length: 7
+Found in species: S8 Start position relative to genome: 3256 Length: 7
+Found in species: S7 Start position relative to genome: 3256 Length: 7
+Found in species: S6 Start position relative to genome: 3256 Length: 7
+Found in species: S5 Start position relative to genome: 3256 Length: 7
+Found in species: S4 Start position relative to genome: 3256 Length: 7
+Found in species: S3 Start position relative to genome: 3256 Length: 7
+Found in species: S2 Start position relative to genome: 3256 Length: 7
+Found in species: S1 Start position relative to genome: 3254 Length: 7
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 42
+Start position relative to MSA: 3619
+End position relative to MSA: 3622
+Length: 3
+Found in species: S11 Start position relative to genome: 3262 Length: 3
+Found in species: S10 Start position relative to genome: 3262 Length: 3
+Found in species: S9 Start position relative to genome: 3262 Length: 3
+Found in species: S8 Start position relative to genome: 3262 Length: 3
+Found in species: S7 Start position relative to genome: 3262 Length: 3
+Found in species: S6 Start position relative to genome: 3262 Length: 3
+Found in species: S5 Start position relative to genome: 3262 Length: 3
+Found in species: S4 Start position relative to genome: 3262 Length: 3
+Found in species: S3 Start position relative to genome: 3262 Length: 3
+Found in species: S2 Start position relative to genome: 3262 Length: 3
+Found in species: S1 Start position relative to genome: 3260 Length: 3
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 43
+Start position relative to MSA: 3663
+End position relative to MSA: 3670
+Length: 7
+Found in species: S11 Start position relative to genome: 3303 Length: 7
+Found in species: S10 Start position relative to genome: 3303 Length: 7
+Found in species: S9 Start position relative to genome: 3303 Length: 7
+Found in species: S8 Start position relative to genome: 3303 Length: 7
+Found in species: S7 Start position relative to genome: 3303 Length: 7
+Found in species: S6 Start position relative to genome: 3303 Length: 7
+Found in species: S5 Start position relative to genome: 3303 Length: 7
+Found in species: S4 Start position relative to genome: 3303 Length: 7
+Found in species: S3 Start position relative to genome: 3303 Length: 7
+Found in species: S2 Start position relative to genome: 3303 Length: 7
+Found in species: S1 Start position relative to genome: 3301 Length: 7
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 44
+Start position relative to MSA: 3696
+End position relative to MSA: 3717
+Length: 21
+Found in species: S11 Start position relative to genome: 3329 Length: 21
+Found in species: S10 Start position relative to genome: 3329 Length: 21
+Found in species: S9 Start position relative to genome: 3329 Length: 21
+Found in species: S8 Start position relative to genome: 3329 Length: 21
+Found in species: S7 Start position relative to genome: 3329 Length: 21
+Found in species: S6 Start position relative to genome: 3329 Length: 21
+Found in species: S5 Start position relative to genome: 3329 Length: 21
+Found in species: S4 Start position relative to genome: 3329 Length: 21
+Found in species: S3 Start position relative to genome: 3329 Length: 21
+Found in species: S2 Start position relative to genome: 3329 Length: 21
+Found in species: S1 Start position relative to genome: 3327 Length: 21
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 45
+Start position relative to MSA: 3749
+End position relative to MSA: 3774
+Length: 25
+Found in species: S11 Start position relative to genome: 3361 Length: 25
+Found in species: S10 Start position relative to genome: 3361 Length: 25
+Found in species: S9 Start position relative to genome: 3361 Length: 25
+Found in species: S8 Start position relative to genome: 3361 Length: 25
+Found in species: S7 Start position relative to genome: 3361 Length: 25
+Found in species: S6 Start position relative to genome: 3361 Length: 25
+Found in species: S5 Start position relative to genome: 3361 Length: 25
+Found in species: S4 Start position relative to genome: 3361 Length: 25
+Found in species: S3 Start position relative to genome: 3361 Length: 25
+Found in species: S2 Start position relative to genome: 3361 Length: 25
+Found in species: S1 Start position relative to genome: 3359 Length: 25
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 46
+Start position relative to MSA: 3777
+End position relative to MSA: 3781
+Length: 4
+Found in species: S11 Start position relative to genome: 3364 Length: 4
+Found in species: S10 Start position relative to genome: 3364 Length: 4
+Found in species: S9 Start position relative to genome: 3364 Length: 4
+Found in species: S8 Start position relative to genome: 3364 Length: 4
+Found in species: S7 Start position relative to genome: 3364 Length: 4
+Found in species: S6 Start position relative to genome: 3364 Length: 4
+Found in species: S5 Start position relative to genome: 3364 Length: 4
+Found in species: S4 Start position relative to genome: 3364 Length: 4
+Found in species: S3 Start position relative to genome: 3364 Length: 4
+Found in species: S2 Start position relative to genome: 3364 Length: 4
+Found in species: S1 Start position relative to genome: 3362 Length: 4
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 47
+Start position relative to MSA: 3806
+End position relative to MSA: 3809
+Length: 3
+Found in species: S11 Start position relative to genome: 3389 Length: 3
+Found in species: S10 Start position relative to genome: 3389 Length: 3
+Found in species: S9 Start position relative to genome: 3389 Length: 3
+Found in species: S8 Start position relative to genome: 3389 Length: 3
+Found in species: S7 Start position relative to genome: 3389 Length: 3
+Found in species: S6 Start position relative to genome: 3389 Length: 3
+Found in species: S5 Start position relative to genome: 3389 Length: 3
+Found in species: S4 Start position relative to genome: 3389 Length: 3
+Found in species: S3 Start position relative to genome: 3389 Length: 3
+Found in species: S2 Start position relative to genome: 3389 Length: 3
+Found in species: S1 Start position relative to genome: 3387 Length: 3
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 48
+Start position relative to MSA: 3839
+End position relative to MSA: 3855
+Length: 16
+Found in species: S11 Start position relative to genome: 3419 Length: 16
+Found in species: S10 Start position relative to genome: 3419 Length: 16
+Found in species: S9 Start position relative to genome: 3419 Length: 16
+Found in species: S8 Start position relative to genome: 3419 Length: 16
+Found in species: S7 Start position relative to genome: 3419 Length: 16
+Found in species: S6 Start position relative to genome: 3419 Length: 16
+Found in species: S5 Start position relative to genome: 3419 Length: 16
+Found in species: S4 Start position relative to genome: 3419 Length: 16
+Found in species: S3 Start position relative to genome: 3419 Length: 16
+Found in species: S2 Start position relative to genome: 3419 Length: 16
+Found in species: S1 Start position relative to genome: 3417 Length: 16
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 49
+Start position relative to MSA: 3860
+End position relative to MSA: 3866
+Length: 6
+Found in species: S11 Start position relative to genome: 3424 Length: 6
+Found in species: S10 Start position relative to genome: 3424 Length: 6
+Found in species: S9 Start position relative to genome: 3424 Length: 6
+Found in species: S8 Start position relative to genome: 3424 Length: 6
+Found in species: S7 Start position relative to genome: 3424 Length: 6
+Found in species: S6 Start position relative to genome: 3424 Length: 6
+Found in species: S5 Start position relative to genome: 3424 Length: 6
+Found in species: S4 Start position relative to genome: 3424 Length: 6
+Found in species: S3 Start position relative to genome: 3424 Length: 6
+Found in species: S2 Start position relative to genome: 3424 Length: 6
+Found in species: S1 Start position relative to genome: 3422 Length: 6
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 50
+Start position relative to MSA: 3901
+End position relative to MSA: 3913
+Length: 12
+Found in species: S11 Start position relative to genome: 3459 Length: 12
+Found in species: S10 Start position relative to genome: 3459 Length: 12
+Found in species: S9 Start position relative to genome: 3459 Length: 12
+Found in species: S8 Start position relative to genome: 3459 Length: 12
+Found in species: S7 Start position relative to genome: 3459 Length: 12
+Found in species: S6 Start position relative to genome: 3459 Length: 12
+Found in species: S5 Start position relative to genome: 3459 Length: 12
+Found in species: S4 Start position relative to genome: 3459 Length: 12
+Found in species: S3 Start position relative to genome: 3459 Length: 12
+Found in species: S2 Start position relative to genome: 3459 Length: 12
+Found in species: S1 Start position relative to genome: 3457 Length: 12
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 51
+Start position relative to MSA: 3917
+End position relative to MSA: 3939
+Length: 22
+Found in species: S11 Start position relative to genome: 3463 Length: 22
+Found in species: S10 Start position relative to genome: 3463 Length: 22
+Found in species: S9 Start position relative to genome: 3463 Length: 22
+Found in species: S8 Start position relative to genome: 3463 Length: 22
+Found in species: S7 Start position relative to genome: 3463 Length: 22
+Found in species: S6 Start position relative to genome: 3463 Length: 22
+Found in species: S5 Start position relative to genome: 3463 Length: 22
+Found in species: S4 Start position relative to genome: 3463 Length: 22
+Found in species: S3 Start position relative to genome: 3463 Length: 22
+Found in species: S2 Start position relative to genome: 3463 Length: 22
+Found in species: S1 Start position relative to genome: 3461 Length: 22
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 52
+Start position relative to MSA: 3946
+End position relative to MSA: 3947
+Length: 1
+Found in species: S11 Start position relative to genome: 3470 Length: 1
+Found in species: S10 Start position relative to genome: 3470 Length: 1
+Found in species: S9 Start position relative to genome: 3470 Length: 1
+Found in species: S8 Start position relative to genome: 3470 Length: 1
+Found in species: S7 Start position relative to genome: 3470 Length: 1
+Found in species: S6 Start position relative to genome: 3470 Length: 1
+Found in species: S5 Start position relative to genome: 3470 Length: 1
+Found in species: S4 Start position relative to genome: 3470 Length: 1
+Found in species: S3 Start position relative to genome: 3470 Length: 1
+Found in species: S2 Start position relative to genome: 3470 Length: 1
+Found in species: S1 Start position relative to genome: 3468 Length: 1
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 53
+Start position relative to MSA: 3953
+End position relative to MSA: 3970
+Length: 17
+Found in species: S11 Start position relative to genome: 3476 Length: 17
+Found in species: S10 Start position relative to genome: 3476 Length: 17
+Found in species: S9 Start position relative to genome: 3476 Length: 17
+Found in species: S8 Start position relative to genome: 3476 Length: 17
+Found in species: S7 Start position relative to genome: 3476 Length: 17
+Found in species: S6 Start position relative to genome: 3476 Length: 17
+Found in species: S5 Start position relative to genome: 3476 Length: 17
+Found in species: S4 Start position relative to genome: 3476 Length: 17
+Found in species: S3 Start position relative to genome: 3476 Length: 17
+Found in species: S2 Start position relative to genome: 3476 Length: 17
+Found in species: S1 Start position relative to genome: 3474 Length: 17
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 54
+Start position relative to MSA: 3993
+End position relative to MSA: 3996
+Length: 3
+Found in species: S11 Start position relative to genome: 3499 Length: 3
+Found in species: S10 Start position relative to genome: 3499 Length: 3
+Found in species: S9 Start position relative to genome: 3499 Length: 3
+Found in species: S8 Start position relative to genome: 3499 Length: 3
+Found in species: S7 Start position relative to genome: 3499 Length: 3
+Found in species: S6 Start position relative to genome: 3499 Length: 3
+Found in species: S5 Start position relative to genome: 3499 Length: 3
+Found in species: S4 Start position relative to genome: 3499 Length: 3
+Found in species: S3 Start position relative to genome: 3499 Length: 3
+Found in species: S2 Start position relative to genome: 3499 Length: 3
+Found in species: S1 Start position relative to genome: 3497 Length: 3
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 55
+Start position relative to MSA: 4007
+End position relative to MSA: 4019
+Length: 12
+Found in species: S11 Start position relative to genome: 3510 Length: 12
+Found in species: S10 Start position relative to genome: 3510 Length: 12
+Found in species: S9 Start position relative to genome: 3510 Length: 12
+Found in species: S8 Start position relative to genome: 3510 Length: 12
+Found in species: S7 Start position relative to genome: 3510 Length: 12
+Found in species: S6 Start position relative to genome: 3510 Length: 12
+Found in species: S5 Start position relative to genome: 3510 Length: 12
+Found in species: S4 Start position relative to genome: 3510 Length: 12
+Found in species: S3 Start position relative to genome: 3510 Length: 12
+Found in species: S2 Start position relative to genome: 3510 Length: 12
+Found in species: S1 Start position relative to genome: 3508 Length: 12
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 56
+Start position relative to MSA: 4133
+End position relative to MSA: 4136
+Length: 3
+Found in species: S11 Start position relative to genome: 3624 Length: 3
+Found in species: S10 Start position relative to genome: 3624 Length: 3
+Found in species: S9 Start position relative to genome: 3624 Length: 3
+Found in species: S8 Start position relative to genome: 3624 Length: 3
+Found in species: S7 Start position relative to genome: 3624 Length: 3
+Found in species: S6 Start position relative to genome: 3624 Length: 3
+Found in species: S5 Start position relative to genome: 3624 Length: 3
+Found in species: S4 Start position relative to genome: 3624 Length: 3
+Found in species: S3 Start position relative to genome: 3624 Length: 3
+Found in species: S2 Start position relative to genome: 3624 Length: 3
+Found in species: S1 Start position relative to genome: 3622 Length: 3
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 57
+Start position relative to MSA: 4187
+End position relative to MSA: 4202
+Length: 15
+Found in species: S11 Start position relative to genome: 3675 Length: 15
+Found in species: S10 Start position relative to genome: 3675 Length: 15
+Found in species: S9 Start position relative to genome: 3675 Length: 15
+Found in species: S8 Start position relative to genome: 3675 Length: 15
+Found in species: S7 Start position relative to genome: 3675 Length: 15
+Found in species: S6 Start position relative to genome: 3675 Length: 15
+Found in species: S5 Start position relative to genome: 3675 Length: 15
+Found in species: S4 Start position relative to genome: 3675 Length: 15
+Found in species: S3 Start position relative to genome: 3675 Length: 15
+Found in species: S2 Start position relative to genome: 3675 Length: 15
+Found in species: S1 Start position relative to genome: 3673 Length: 15
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 58
+Start position relative to MSA: 4319
+End position relative to MSA: 4328
+Length: 9
+Found in species: S11 Start position relative to genome: 3792 Length: 9
+Found in species: S10 Start position relative to genome: 3792 Length: 9
+Found in species: S9 Start position relative to genome: 3792 Length: 9
+Found in species: S8 Start position relative to genome: 3792 Length: 9
+Found in species: S7 Start position relative to genome: 3792 Length: 9
+Found in species: S6 Start position relative to genome: 3792 Length: 9
+Found in species: S5 Start position relative to genome: 3792 Length: 9
+Found in species: S4 Start position relative to genome: 3792 Length: 9
+Found in species: S3 Start position relative to genome: 3792 Length: 9
+Found in species: S2 Start position relative to genome: 3792 Length: 9
+Found in species: S1 Start position relative to genome: 3790 Length: 9
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 59
+Start position relative to MSA: 4337
+End position relative to MSA: 4340
+Length: 3
+Found in species: S11 Start position relative to genome: 3801 Length: 3
+Found in species: S10 Start position relative to genome: 3801 Length: 3
+Found in species: S9 Start position relative to genome: 3801 Length: 3
+Found in species: S8 Start position relative to genome: 3801 Length: 3
+Found in species: S7 Start position relative to genome: 3801 Length: 3
+Found in species: S6 Start position relative to genome: 3801 Length: 3
+Found in species: S5 Start position relative to genome: 3801 Length: 3
+Found in species: S4 Start position relative to genome: 3801 Length: 3
+Found in species: S3 Start position relative to genome: 3801 Length: 3
+Found in species: S2 Start position relative to genome: 3801 Length: 3
+Found in species: S1 Start position relative to genome: 3799 Length: 3
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 60
+Start position relative to MSA: 4344
+End position relative to MSA: 4348
+Length: 4
+Found in species: S11 Start position relative to genome: 3805 Length: 4
+Found in species: S10 Start position relative to genome: 3805 Length: 4
+Found in species: S9 Start position relative to genome: 3805 Length: 4
+Found in species: S8 Start position relative to genome: 3805 Length: 4
+Found in species: S7 Start position relative to genome: 3805 Length: 4
+Found in species: S6 Start position relative to genome: 3805 Length: 4
+Found in species: S5 Start position relative to genome: 3805 Length: 4
+Found in species: S4 Start position relative to genome: 3805 Length: 4
+Found in species: S3 Start position relative to genome: 3805 Length: 4
+Found in species: S2 Start position relative to genome: 3805 Length: 4
+Found in species: S1 Start position relative to genome: 3803 Length: 4
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 61
+Start position relative to MSA: 4352
+End position relative to MSA: 4353
+Length: 1
+Found in species: S11 Start position relative to genome: 3809 Length: 1
+Found in species: S10 Start position relative to genome: 3809 Length: 1
+Found in species: S9 Start position relative to genome: 3809 Length: 1
+Found in species: S8 Start position relative to genome: 3809 Length: 1
+Found in species: S7 Start position relative to genome: 3809 Length: 1
+Found in species: S6 Start position relative to genome: 3809 Length: 1
+Found in species: S5 Start position relative to genome: 3809 Length: 1
+Found in species: S4 Start position relative to genome: 3809 Length: 1
+Found in species: S3 Start position relative to genome: 3809 Length: 1
+Found in species: S2 Start position relative to genome: 3809 Length: 1
+Found in species: S1 Start position relative to genome: 3807 Length: 1
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 62
+Start position relative to MSA: 4361
+End position relative to MSA: 4370
+Length: 9
+Found in species: S11 Start position relative to genome: 3817 Length: 9
+Found in species: S10 Start position relative to genome: 3817 Length: 9
+Found in species: S9 Start position relative to genome: 3817 Length: 9
+Found in species: S8 Start position relative to genome: 3817 Length: 9
+Found in species: S7 Start position relative to genome: 3817 Length: 9
+Found in species: S6 Start position relative to genome: 3817 Length: 9
+Found in species: S5 Start position relative to genome: 3817 Length: 9
+Found in species: S4 Start position relative to genome: 3817 Length: 9
+Found in species: S3 Start position relative to genome: 3817 Length: 9
+Found in species: S2 Start position relative to genome: 3817 Length: 9
+Found in species: S1 Start position relative to genome: 3815 Length: 9
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 63
+Start position relative to MSA: 4371
+End position relative to MSA: 4375
+Length: 4
+Found in species: S11 Start position relative to genome: 3818 Length: 4
+Found in species: S10 Start position relative to genome: 3818 Length: 4
+Found in species: S9 Start position relative to genome: 3818 Length: 4
+Found in species: S8 Start position relative to genome: 3818 Length: 4
+Found in species: S7 Start position relative to genome: 3818 Length: 4
+Found in species: S6 Start position relative to genome: 3818 Length: 4
+Found in species: S5 Start position relative to genome: 3818 Length: 4
+Found in species: S4 Start position relative to genome: 3818 Length: 4
+Found in species: S3 Start position relative to genome: 3818 Length: 4
+Found in species: S2 Start position relative to genome: 3818 Length: 4
+Found in species: S1 Start position relative to genome: 3816 Length: 4
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 64
+Start position relative to MSA: 4392
+End position relative to MSA: 4450
+Length: 58
+Found in species: S11 Start position relative to genome: 3835 Length: 58
+Found in species: S10 Start position relative to genome: 3835 Length: 58
+Found in species: S9 Start position relative to genome: 3835 Length: 58
+Found in species: S8 Start position relative to genome: 3835 Length: 58
+Found in species: S7 Start position relative to genome: 3835 Length: 58
+Found in species: S6 Start position relative to genome: 3835 Length: 58
+Found in species: S5 Start position relative to genome: 3835 Length: 58
+Found in species: S4 Start position relative to genome: 3835 Length: 58
+Found in species: S3 Start position relative to genome: 3835 Length: 58
+Found in species: S2 Start position relative to genome: 3835 Length: 58
+Found in species: S1 Start position relative to genome: 3833 Length: 58
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 65
+Start position relative to MSA: 4465
+End position relative to MSA: 4468
+Length: 3
+Found in species: S11 Start position relative to genome: 3850 Length: 3
+Found in species: S10 Start position relative to genome: 3850 Length: 3
+NOT FOUND in species: S1,S2,S3,S4,S5,S6,S7,S8,S9,
+ENDCHARACTER
+
+character number: 66
+Start position relative to MSA: 4479
+End position relative to MSA: 4550
+Length: 71
+Found in species: S11 Start position relative to genome: 3861 Length: 71
+Found in species: S10 Start position relative to genome: 3861 Length: 71
+Found in species: S9 Start position relative to genome: 3864 Length: 71
+Found in species: S8 Start position relative to genome: 3864 Length: 71
+Found in species: S7 Start position relative to genome: 3864 Length: 71
+Found in species: S6 Start position relative to genome: 3864 Length: 71
+Found in species: S5 Start position relative to genome: 3864 Length: 71
+Found in species: S4 Start position relative to genome: 3864 Length: 71
+Found in species: S3 Start position relative to genome: 3864 Length: 71
+Found in species: S2 Start position relative to genome: 3864 Length: 71
+Found in species: S1 Start position relative to genome: 3862 Length: 71
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 67
+Start position relative to MSA: 4560
+End position relative to MSA: 4572
+Length: 12
+Found in species: S11 Start position relative to genome: 3871 Length: 12
+Found in species: S10 Start position relative to genome: 3871 Length: 12
+Found in species: S9 Start position relative to genome: 3874 Length: 12
+Found in species: S8 Start position relative to genome: 3874 Length: 12
+Found in species: S7 Start position relative to genome: 3874 Length: 12
+Found in species: S6 Start position relative to genome: 3874 Length: 12
+Found in species: S5 Start position relative to genome: 3874 Length: 12
+Found in species: S4 Start position relative to genome: 3874 Length: 12
+Found in species: S3 Start position relative to genome: 3874 Length: 12
+Found in species: S2 Start position relative to genome: 3874 Length: 12
+Found in species: S1 Start position relative to genome: 3872 Length: 12
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 68
+Start position relative to MSA: 4593
+End position relative to MSA: 4596
+Length: 3
+Found in species: S11 Start position relative to genome: 3892 Length: 3
+Found in species: S10 Start position relative to genome: 3892 Length: 3
+Found in species: S9 Start position relative to genome: 3895 Length: 3
+Found in species: S8 Start position relative to genome: 3895 Length: 3
+Found in species: S7 Start position relative to genome: 3895 Length: 3
+Found in species: S6 Start position relative to genome: 3895 Length: 3
+Found in species: S5 Start position relative to genome: 3895 Length: 3
+Found in species: S4 Start position relative to genome: 3895 Length: 3
+Found in species: S3 Start position relative to genome: 3895 Length: 3
+Found in species: S2 Start position relative to genome: 3895 Length: 3
+Found in species: S1 Start position relative to genome: 3893 Length: 3
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 69
+Start position relative to MSA: 4605
+End position relative to MSA: 4607
+Length: 2
+Found in species: S11 Start position relative to genome: 3901 Length: 2
+Found in species: S10 Start position relative to genome: 3901 Length: 2
+Found in species: S9 Start position relative to genome: 3904 Length: 2
+Found in species: S8 Start position relative to genome: 3904 Length: 2
+Found in species: S7 Start position relative to genome: 3904 Length: 2
+Found in species: S6 Start position relative to genome: 3904 Length: 2
+Found in species: S5 Start position relative to genome: 3904 Length: 2
+Found in species: S4 Start position relative to genome: 3904 Length: 2
+Found in species: S3 Start position relative to genome: 3904 Length: 2
+Found in species: S2 Start position relative to genome: 3904 Length: 2
+Found in species: S1 Start position relative to genome: 3902 Length: 2
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 70
+Start position relative to MSA: 4641
+End position relative to MSA: 4662
+Length: 21
+Found in species: S11 Start position relative to genome: 3935 Length: 21
+Found in species: S10 Start position relative to genome: 3935 Length: 21
+Found in species: S9 Start position relative to genome: 3938 Length: 21
+Found in species: S8 Start position relative to genome: 3938 Length: 21
+Found in species: S7 Start position relative to genome: 3938 Length: 21
+Found in species: S6 Start position relative to genome: 3938 Length: 21
+Found in species: S5 Start position relative to genome: 3938 Length: 21
+Found in species: S4 Start position relative to genome: 3938 Length: 21
+Found in species: S3 Start position relative to genome: 3938 Length: 21
+Found in species: S2 Start position relative to genome: 3938 Length: 21
+Found in species: S1 Start position relative to genome: 3936 Length: 21
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 71
+Start position relative to MSA: 4696
+End position relative to MSA: 4700
+Length: 4
+Found in species: S11 Start position relative to genome: 3969 Length: 4
+Found in species: S10 Start position relative to genome: 3969 Length: 4
+Found in species: S9 Start position relative to genome: 3972 Length: 4
+Found in species: S8 Start position relative to genome: 3972 Length: 4
+Found in species: S7 Start position relative to genome: 3972 Length: 4
+Found in species: S6 Start position relative to genome: 3972 Length: 4
+Found in species: S5 Start position relative to genome: 3972 Length: 4
+Found in species: S4 Start position relative to genome: 3972 Length: 4
+Found in species: S3 Start position relative to genome: 3972 Length: 4
+Found in species: S2 Start position relative to genome: 3972 Length: 4
+Found in species: S1 Start position relative to genome: 3970 Length: 4
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 72
+Start position relative to MSA: 4829
+End position relative to MSA: 4835
+Length: 6
+Found in species: S11 Start position relative to genome: 4098 Length: 6
+Found in species: S10 Start position relative to genome: 4098 Length: 6
+Found in species: S9 Start position relative to genome: 4101 Length: 6
+Found in species: S8 Start position relative to genome: 4101 Length: 6
+Found in species: S7 Start position relative to genome: 4101 Length: 6
+Found in species: S6 Start position relative to genome: 4101 Length: 6
+Found in species: S5 Start position relative to genome: 4101 Length: 6
+Found in species: S4 Start position relative to genome: 4101 Length: 6
+Found in species: S3 Start position relative to genome: 4101 Length: 6
+Found in species: S2 Start position relative to genome: 4101 Length: 6
+Found in species: S1 Start position relative to genome: 4099 Length: 6
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 73
+Start position relative to MSA: 4856
+End position relative to MSA: 4857
+Length: 1
+Found in species: S11 Start position relative to genome: 4119 Length: 1
+Found in species: S10 Start position relative to genome: 4119 Length: 1
+Found in species: S9 Start position relative to genome: 4122 Length: 1
+Found in species: S8 Start position relative to genome: 4122 Length: 1
+Found in species: S7 Start position relative to genome: 4122 Length: 1
+Found in species: S6 Start position relative to genome: 4122 Length: 1
+Found in species: S5 Start position relative to genome: 4122 Length: 1
+Found in species: S4 Start position relative to genome: 4122 Length: 1
+Found in species: S3 Start position relative to genome: 4122 Length: 1
+Found in species: S2 Start position relative to genome: 4122 Length: 1
+Found in species: S1 Start position relative to genome: 4120 Length: 1
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 74
+Start position relative to MSA: 4859
+End position relative to MSA: 4891
+Length: 32
+Found in species: S11 Start position relative to genome: 4121 Length: 32
+Found in species: S10 Start position relative to genome: 4121 Length: 32
+Found in species: S9 Start position relative to genome: 4124 Length: 32
+Found in species: S8 Start position relative to genome: 4124 Length: 32
+Found in species: S7 Start position relative to genome: 4124 Length: 32
+Found in species: S6 Start position relative to genome: 4124 Length: 32
+Found in species: S5 Start position relative to genome: 4124 Length: 32
+Found in species: S4 Start position relative to genome: 4124 Length: 32
+Found in species: S3 Start position relative to genome: 4124 Length: 32
+Found in species: S2 Start position relative to genome: 4124 Length: 32
+Found in species: S1 Start position relative to genome: 4122 Length: 32
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 75
+Start position relative to MSA: 4892
+End position relative to MSA: 4982
+Length: 90
+Found in species: S11 Start position relative to genome: 4122 Length: 90
+Found in species: S10 Start position relative to genome: 4122 Length: 90
+Found in species: S9 Start position relative to genome: 4125 Length: 90
+Found in species: S8 Start position relative to genome: 4125 Length: 90
+Found in species: S7 Start position relative to genome: 4125 Length: 90
+Found in species: S6 Start position relative to genome: 4125 Length: 90
+Found in species: S5 Start position relative to genome: 4125 Length: 90
+Found in species: S4 Start position relative to genome: 4125 Length: 90
+Found in species: S3 Start position relative to genome: 4125 Length: 90
+Found in species: S2 Start position relative to genome: 4125 Length: 90
+Found in species: S1 Start position relative to genome: 4123 Length: 90
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 76
+Start position relative to MSA: 4992
+End position relative to MSA: 5237
+Length: 245
+Found in species: S11 Start position relative to genome: 4132 Length: 245
+Found in species: S10 Start position relative to genome: 4132 Length: 245
+Found in species: S9 Start position relative to genome: 4135 Length: 245
+Found in species: S8 Start position relative to genome: 4135 Length: 245
+Found in species: S7 Start position relative to genome: 4135 Length: 245
+Found in species: S6 Start position relative to genome: 4135 Length: 245
+Found in species: S5 Start position relative to genome: 4135 Length: 245
+Found in species: S4 Start position relative to genome: 4135 Length: 245
+Found in species: S3 Start position relative to genome: 4135 Length: 245
+Found in species: S2 Start position relative to genome: 4135 Length: 245
+Found in species: S1 Start position relative to genome: 4133 Length: 245
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 77
+Start position relative to MSA: 5487
+End position relative to MSA: 5499
+Length: 12
+Found in species: S11 Start position relative to genome: 4382 Length: 12
+Found in species: S10 Start position relative to genome: 4382 Length: 12
+Found in species: S9 Start position relative to genome: 4385 Length: 12
+Found in species: S8 Start position relative to genome: 4385 Length: 12
+Found in species: S7 Start position relative to genome: 4385 Length: 12
+Found in species: S6 Start position relative to genome: 4385 Length: 12
+Found in species: S5 Start position relative to genome: 4385 Length: 12
+Found in species: S4 Start position relative to genome: 4385 Length: 12
+Found in species: S3 Start position relative to genome: 4385 Length: 12
+Found in species: S2 Start position relative to genome: 4385 Length: 12
+Found in species: S1 Start position relative to genome: 4383 Length: 12
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 78
+Start position relative to MSA: 5536
+End position relative to MSA: 5548
+Length: 12
+Found in species: S11 Start position relative to genome: 4419 Length: 12
+Found in species: S10 Start position relative to genome: 4419 Length: 12
+Found in species: S9 Start position relative to genome: 4422 Length: 12
+Found in species: S8 Start position relative to genome: 4422 Length: 12
+Found in species: S7 Start position relative to genome: 4422 Length: 12
+Found in species: S6 Start position relative to genome: 4422 Length: 12
+Found in species: S5 Start position relative to genome: 4422 Length: 12
+Found in species: S4 Start position relative to genome: 4422 Length: 12
+Found in species: S3 Start position relative to genome: 4422 Length: 12
+Found in species: S2 Start position relative to genome: 4422 Length: 12
+Found in species: S1 Start position relative to genome: 4420 Length: 12
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 79
+Start position relative to MSA: 5614
+End position relative to MSA: 5626
+Length: 12
+Found in species: S11 Start position relative to genome: 4485 Length: 12
+Found in species: S10 Start position relative to genome: 4485 Length: 12
+Found in species: S9 Start position relative to genome: 4488 Length: 12
+Found in species: S8 Start position relative to genome: 4488 Length: 12
+Found in species: S7 Start position relative to genome: 4488 Length: 12
+Found in species: S6 Start position relative to genome: 4488 Length: 12
+Found in species: S5 Start position relative to genome: 4488 Length: 12
+Found in species: S4 Start position relative to genome: 4488 Length: 12
+Found in species: S3 Start position relative to genome: 4488 Length: 12
+Found in species: S2 Start position relative to genome: 4488 Length: 12
+Found in species: S1 Start position relative to genome: 4486 Length: 12
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 80
+Start position relative to MSA: 5721
+End position relative to MSA: 5724
+Length: 3
+Found in species: S11 Start position relative to genome: 4580 Length: 3
+Found in species: S10 Start position relative to genome: 4580 Length: 3
+Found in species: S9 Start position relative to genome: 4583 Length: 3
+Found in species: S8 Start position relative to genome: 4583 Length: 3
+Found in species: S7 Start position relative to genome: 4583 Length: 3
+Found in species: S6 Start position relative to genome: 4583 Length: 3
+Found in species: S5 Start position relative to genome: 4583 Length: 3
+Found in species: S4 Start position relative to genome: 4583 Length: 3
+Found in species: S3 Start position relative to genome: 4583 Length: 3
+Found in species: S2 Start position relative to genome: 4583 Length: 3
+Found in species: S1 Start position relative to genome: 4581 Length: 3
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 81
+Start position relative to MSA: 5748
+End position relative to MSA: 5754
+Length: 6
+Found in species: S11 Start position relative to genome: 4604 Length: 6
+Found in species: S10 Start position relative to genome: 4604 Length: 6
+Found in species: S9 Start position relative to genome: 4607 Length: 6
+Found in species: S8 Start position relative to genome: 4607 Length: 6
+Found in species: S7 Start position relative to genome: 4607 Length: 6
+Found in species: S6 Start position relative to genome: 4607 Length: 6
+Found in species: S5 Start position relative to genome: 4607 Length: 6
+Found in species: S4 Start position relative to genome: 4607 Length: 6
+Found in species: S3 Start position relative to genome: 4607 Length: 6
+Found in species: S2 Start position relative to genome: 4607 Length: 6
+Found in species: S1 Start position relative to genome: 4605 Length: 6
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 82
+Start position relative to MSA: 5951
+End position relative to MSA: 5957
+Length: 6
+Found in species: S11 Start position relative to genome: 4801 Length: 6
+Found in species: S10 Start position relative to genome: 4801 Length: 6
+Found in species: S9 Start position relative to genome: 4804 Length: 6
+Found in species: S8 Start position relative to genome: 4804 Length: 6
+Found in species: S7 Start position relative to genome: 4804 Length: 6
+Found in species: S6 Start position relative to genome: 4804 Length: 6
+Found in species: S5 Start position relative to genome: 4804 Length: 6
+Found in species: S4 Start position relative to genome: 4804 Length: 6
+Found in species: S3 Start position relative to genome: 4804 Length: 6
+Found in species: S2 Start position relative to genome: 4804 Length: 6
+Found in species: S1 Start position relative to genome: 4802 Length: 6
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 83
+Start position relative to MSA: 6071
+End position relative to MSA: 6074
+Length: 3
+Found in species: S11 Start position relative to genome: 4915 Length: 3
+Found in species: S10 Start position relative to genome: 4915 Length: 3
+Found in species: S9 Start position relative to genome: 4918 Length: 3
+Found in species: S8 Start position relative to genome: 4918 Length: 3
+Found in species: S7 Start position relative to genome: 4918 Length: 3
+Found in species: S6 Start position relative to genome: 4918 Length: 3
+Found in species: S5 Start position relative to genome: 4918 Length: 3
+Found in species: S4 Start position relative to genome: 4918 Length: 3
+Found in species: S3 Start position relative to genome: 4918 Length: 3
+Found in species: S2 Start position relative to genome: 4918 Length: 3
+Found in species: S1 Start position relative to genome: 4916 Length: 3
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 84
+Start position relative to MSA: 6081
+End position relative to MSA: 6087
+Length: 6
+Found in species: S11 Start position relative to genome: 4922 Length: 6
+Found in species: S10 Start position relative to genome: 4922 Length: 6
+Found in species: S9 Start position relative to genome: 4925 Length: 6
+Found in species: S8 Start position relative to genome: 4925 Length: 6
+Found in species: S7 Start position relative to genome: 4925 Length: 6
+Found in species: S6 Start position relative to genome: 4925 Length: 6
+Found in species: S5 Start position relative to genome: 4925 Length: 6
+Found in species: S4 Start position relative to genome: 4925 Length: 6
+Found in species: S3 Start position relative to genome: 4925 Length: 6
+Found in species: S2 Start position relative to genome: 4925 Length: 6
+Found in species: S1 Start position relative to genome: 4923 Length: 6
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 85
+Start position relative to MSA: 6111
+End position relative to MSA: 6114
+Length: 3
+Found in species: S11 Start position relative to genome: 4946 Length: 3
+Found in species: S10 Start position relative to genome: 4946 Length: 3
+Found in species: S9 Start position relative to genome: 4949 Length: 3
+Found in species: S8 Start position relative to genome: 4949 Length: 3
+Found in species: S7 Start position relative to genome: 4949 Length: 3
+Found in species: S6 Start position relative to genome: 4949 Length: 3
+Found in species: S5 Start position relative to genome: 4949 Length: 3
+Found in species: S4 Start position relative to genome: 4949 Length: 3
+Found in species: S3 Start position relative to genome: 4949 Length: 3
+Found in species: S2 Start position relative to genome: 4949 Length: 3
+Found in species: S1 Start position relative to genome: 4947 Length: 3
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 86
+Start position relative to MSA: 6115
+End position relative to MSA: 6121
+Length: 6
+Found in species: S11 Start position relative to genome: 4947 Length: 6
+Found in species: S10 Start position relative to genome: 4947 Length: 6
+Found in species: S9 Start position relative to genome: 4950 Length: 6
+Found in species: S8 Start position relative to genome: 4950 Length: 6
+Found in species: S7 Start position relative to genome: 4950 Length: 6
+Found in species: S6 Start position relative to genome: 4950 Length: 6
+Found in species: S5 Start position relative to genome: 4950 Length: 6
+Found in species: S4 Start position relative to genome: 4950 Length: 6
+Found in species: S3 Start position relative to genome: 4950 Length: 6
+Found in species: S2 Start position relative to genome: 4950 Length: 6
+Found in species: S1 Start position relative to genome: 4948 Length: 6
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 87
+Start position relative to MSA: 6298
+End position relative to MSA: 6307
+Length: 9
+Found in species: S11 Start position relative to genome: 5124 Length: 9
+Found in species: S10 Start position relative to genome: 5124 Length: 9
+Found in species: S9 Start position relative to genome: 5127 Length: 9
+Found in species: S8 Start position relative to genome: 5127 Length: 9
+Found in species: S7 Start position relative to genome: 5127 Length: 9
+Found in species: S6 Start position relative to genome: 5127 Length: 9
+Found in species: S5 Start position relative to genome: 5127 Length: 9
+Found in species: S4 Start position relative to genome: 5127 Length: 9
+Found in species: S3 Start position relative to genome: 5127 Length: 9
+Found in species: S2 Start position relative to genome: 5127 Length: 9
+Found in species: S1 Start position relative to genome: 5125 Length: 9
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 88
+Start position relative to MSA: 6311
+End position relative to MSA: 6332
+Length: 21
+Found in species: S11 Start position relative to genome: 5128 Length: 21
+Found in species: S10 Start position relative to genome: 5128 Length: 21
+Found in species: S9 Start position relative to genome: 5131 Length: 21
+Found in species: S8 Start position relative to genome: 5131 Length: 21
+Found in species: S7 Start position relative to genome: 5131 Length: 21
+Found in species: S6 Start position relative to genome: 5131 Length: 21
+Found in species: S5 Start position relative to genome: 5131 Length: 21
+Found in species: S4 Start position relative to genome: 5131 Length: 21
+Found in species: S3 Start position relative to genome: 5131 Length: 21
+Found in species: S2 Start position relative to genome: 5131 Length: 21
+Found in species: S1 Start position relative to genome: 5129 Length: 21
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 89
+Start position relative to MSA: 6357
+End position relative to MSA: 6369
+Length: 12
+Found in species: S11 Start position relative to genome: 5153 Length: 12
+Found in species: S10 Start position relative to genome: 5153 Length: 12
+Found in species: S9 Start position relative to genome: 5156 Length: 12
+Found in species: S8 Start position relative to genome: 5156 Length: 12
+Found in species: S7 Start position relative to genome: 5156 Length: 12
+Found in species: S6 Start position relative to genome: 5156 Length: 12
+Found in species: S5 Start position relative to genome: 5156 Length: 12
+Found in species: S4 Start position relative to genome: 5156 Length: 12
+Found in species: S3 Start position relative to genome: 5156 Length: 12
+Found in species: S2 Start position relative to genome: 5156 Length: 12
+Found in species: S1 Start position relative to genome: 5154 Length: 12
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 90
+Start position relative to MSA: 6374
+End position relative to MSA: 6377
+Length: 3
+Found in species: S11 Start position relative to genome: 5158 Length: 3
+Found in species: S10 Start position relative to genome: 5158 Length: 3
+Found in species: S9 Start position relative to genome: 5161 Length: 3
+Found in species: S8 Start position relative to genome: 5161 Length: 3
+Found in species: S7 Start position relative to genome: 5161 Length: 3
+Found in species: S6 Start position relative to genome: 5161 Length: 3
+Found in species: S5 Start position relative to genome: 5161 Length: 3
+Found in species: S4 Start position relative to genome: 5161 Length: 3
+Found in species: S3 Start position relative to genome: 5161 Length: 3
+Found in species: S2 Start position relative to genome: 5161 Length: 3
+Found in species: S1 Start position relative to genome: 5159 Length: 3
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 91
+Start position relative to MSA: 6383
+End position relative to MSA: 6422
+Length: 39
+Found in species: S11 Start position relative to genome: 5164 Length: 39
+Found in species: S10 Start position relative to genome: 5164 Length: 39
+Found in species: S9 Start position relative to genome: 5167 Length: 39
+Found in species: S8 Start position relative to genome: 5167 Length: 39
+Found in species: S7 Start position relative to genome: 5167 Length: 39
+Found in species: S6 Start position relative to genome: 5167 Length: 39
+Found in species: S5 Start position relative to genome: 5167 Length: 39
+Found in species: S4 Start position relative to genome: 5167 Length: 39
+Found in species: S3 Start position relative to genome: 5167 Length: 39
+Found in species: S2 Start position relative to genome: 5167 Length: 39
+Found in species: S1 Start position relative to genome: 5165 Length: 39
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 92
+Start position relative to MSA: 6435
+End position relative to MSA: 6453
+Length: 18
+Found in species: S11 Start position relative to genome: 5177 Length: 18
+Found in species: S10 Start position relative to genome: 5177 Length: 18
+Found in species: S9 Start position relative to genome: 5180 Length: 18
+Found in species: S8 Start position relative to genome: 5180 Length: 18
+Found in species: S7 Start position relative to genome: 5180 Length: 18
+Found in species: S6 Start position relative to genome: 5180 Length: 18
+Found in species: S5 Start position relative to genome: 5180 Length: 18
+Found in species: S4 Start position relative to genome: 5180 Length: 18
+Found in species: S3 Start position relative to genome: 5180 Length: 18
+Found in species: S2 Start position relative to genome: 5180 Length: 18
+Found in species: S1 Start position relative to genome: 5178 Length: 18
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 93
+Start position relative to MSA: 6468
+End position relative to MSA: 6474
+Length: 6
+Found in species: S11 Start position relative to genome: 5192 Length: 6
+Found in species: S10 Start position relative to genome: 5192 Length: 6
+Found in species: S9 Start position relative to genome: 5195 Length: 6
+Found in species: S8 Start position relative to genome: 5195 Length: 6
+Found in species: S7 Start position relative to genome: 5195 Length: 6
+Found in species: S6 Start position relative to genome: 5195 Length: 6
+Found in species: S5 Start position relative to genome: 5195 Length: 6
+Found in species: S4 Start position relative to genome: 5195 Length: 6
+Found in species: S3 Start position relative to genome: 5195 Length: 6
+Found in species: S2 Start position relative to genome: 5195 Length: 6
+Found in species: S1 Start position relative to genome: 5193 Length: 6
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 94
+Start position relative to MSA: 6504
+End position relative to MSA: 6510
+Length: 6
+Found in species: S11 Start position relative to genome: 5222 Length: 6
+Found in species: S10 Start position relative to genome: 5222 Length: 6
+Found in species: S9 Start position relative to genome: 5225 Length: 6
+Found in species: S8 Start position relative to genome: 5225 Length: 6
+Found in species: S7 Start position relative to genome: 5225 Length: 6
+Found in species: S6 Start position relative to genome: 5225 Length: 6
+Found in species: S5 Start position relative to genome: 5225 Length: 6
+Found in species: S4 Start position relative to genome: 5225 Length: 6
+Found in species: S3 Start position relative to genome: 5225 Length: 6
+Found in species: S2 Start position relative to genome: 5225 Length: 6
+Found in species: S1 Start position relative to genome: 5223 Length: 6
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 95
+Start position relative to MSA: 6519
+End position relative to MSA: 6543
+Length: 24
+Found in species: S11 Start position relative to genome: 5231 Length: 24
+Found in species: S10 Start position relative to genome: 5231 Length: 24
+Found in species: S9 Start position relative to genome: 5234 Length: 24
+Found in species: S8 Start position relative to genome: 5234 Length: 24
+Found in species: S7 Start position relative to genome: 5234 Length: 24
+Found in species: S6 Start position relative to genome: 5234 Length: 24
+Found in species: S5 Start position relative to genome: 5234 Length: 24
+Found in species: S4 Start position relative to genome: 5234 Length: 24
+Found in species: S3 Start position relative to genome: 5234 Length: 24
+Found in species: S2 Start position relative to genome: 5234 Length: 24
+Found in species: S1 Start position relative to genome: 5232 Length: 24
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 96
+Start position relative to MSA: 6564
+End position relative to MSA: 6581
+Length: 17
+Found in species: S11 Start position relative to genome: 5252 Length: 17
+Found in species: S10 Start position relative to genome: 5252 Length: 17
+Found in species: S9 Start position relative to genome: 5255 Length: 17
+Found in species: S8 Start position relative to genome: 5255 Length: 17
+Found in species: S7 Start position relative to genome: 5255 Length: 17
+Found in species: S6 Start position relative to genome: 5255 Length: 17
+Found in species: S5 Start position relative to genome: 5255 Length: 17
+Found in species: S4 Start position relative to genome: 5255 Length: 17
+Found in species: S3 Start position relative to genome: 5255 Length: 17
+Found in species: S2 Start position relative to genome: 5255 Length: 17
+Found in species: S1 Start position relative to genome: 5253 Length: 17
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 97
+Start position relative to MSA: 6636
+End position relative to MSA: 6642
+Length: 6
+Found in species: S11 Start position relative to genome: 5307 Length: 6
+Found in species: S10 Start position relative to genome: 5307 Length: 6
+Found in species: S9 Start position relative to genome: 5310 Length: 6
+Found in species: S8 Start position relative to genome: 5310 Length: 6
+Found in species: S7 Start position relative to genome: 5310 Length: 6
+Found in species: S6 Start position relative to genome: 5310 Length: 6
+Found in species: S5 Start position relative to genome: 5310 Length: 6
+Found in species: S4 Start position relative to genome: 5310 Length: 6
+Found in species: S3 Start position relative to genome: 5310 Length: 6
+Found in species: S2 Start position relative to genome: 5310 Length: 6
+Found in species: S1 Start position relative to genome: 5308 Length: 6
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 98
+Start position relative to MSA: 6690
+End position relative to MSA: 6699
+Length: 9
+Found in species: S11 Start position relative to genome: 5355 Length: 9
+Found in species: S10 Start position relative to genome: 5355 Length: 9
+Found in species: S9 Start position relative to genome: 5358 Length: 9
+Found in species: S8 Start position relative to genome: 5358 Length: 9
+Found in species: S7 Start position relative to genome: 5358 Length: 9
+Found in species: S6 Start position relative to genome: 5358 Length: 9
+Found in species: S5 Start position relative to genome: 5358 Length: 9
+Found in species: S4 Start position relative to genome: 5358 Length: 9
+Found in species: S3 Start position relative to genome: 5358 Length: 9
+Found in species: S2 Start position relative to genome: 5358 Length: 9
+Found in species: S1 Start position relative to genome: 5356 Length: 9
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 99
+Start position relative to MSA: 6762
+End position relative to MSA: 6771
+Length: 9
+Found in species: S11 Start position relative to genome: 5418 Length: 9
+Found in species: S10 Start position relative to genome: 5418 Length: 9
+Found in species: S9 Start position relative to genome: 5421 Length: 9
+Found in species: S8 Start position relative to genome: 5421 Length: 9
+Found in species: S7 Start position relative to genome: 5421 Length: 9
+Found in species: S6 Start position relative to genome: 5421 Length: 9
+Found in species: S5 Start position relative to genome: 5421 Length: 9
+Found in species: S4 Start position relative to genome: 5421 Length: 9
+Found in species: S3 Start position relative to genome: 5421 Length: 9
+Found in species: S2 Start position relative to genome: 5421 Length: 9
+Found in species: S1 Start position relative to genome: 5419 Length: 9
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 100
+Start position relative to MSA: 6921
+End position relative to MSA: 6924
+Length: 3
+Found in species: S11 Start position relative to genome: 5568 Length: 3
+Found in species: S10 Start position relative to genome: 5568 Length: 3
+Found in species: S9 Start position relative to genome: 5571 Length: 3
+Found in species: S8 Start position relative to genome: 5571 Length: 3
+Found in species: S7 Start position relative to genome: 5571 Length: 3
+Found in species: S6 Start position relative to genome: 5571 Length: 3
+Found in species: S5 Start position relative to genome: 5571 Length: 3
+Found in species: S4 Start position relative to genome: 5571 Length: 3
+Found in species: S3 Start position relative to genome: 5571 Length: 3
+Found in species: S2 Start position relative to genome: 5571 Length: 3
+Found in species: S1 Start position relative to genome: 5569 Length: 3
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 101
+Start position relative to MSA: 7042
+End position relative to MSA: 7048
+Length: 6
+Found in species: S11 Start position relative to genome: 5686 Length: 6
+Found in species: S10 Start position relative to genome: 5686 Length: 6
+Found in species: S9 Start position relative to genome: 5689 Length: 6
+Found in species: S8 Start position relative to genome: 5689 Length: 6
+Found in species: S7 Start position relative to genome: 5689 Length: 6
+Found in species: S6 Start position relative to genome: 5689 Length: 6
+Found in species: S5 Start position relative to genome: 5689 Length: 6
+Found in species: S4 Start position relative to genome: 5689 Length: 6
+Found in species: S3 Start position relative to genome: 5689 Length: 6
+Found in species: S2 Start position relative to genome: 5689 Length: 6
+Found in species: S1 Start position relative to genome: 5687 Length: 6
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 102
+Start position relative to MSA: 7054
+End position relative to MSA: 7060
+Length: 6
+Found in species: S11 Start position relative to genome: 5692 Length: 6
+Found in species: S10 Start position relative to genome: 5692 Length: 6
+Found in species: S9 Start position relative to genome: 5695 Length: 6
+Found in species: S8 Start position relative to genome: 5695 Length: 6
+Found in species: S7 Start position relative to genome: 5695 Length: 6
+Found in species: S6 Start position relative to genome: 5695 Length: 6
+Found in species: S5 Start position relative to genome: 5695 Length: 6
+Found in species: S4 Start position relative to genome: 5695 Length: 6
+Found in species: S3 Start position relative to genome: 5695 Length: 6
+Found in species: S2 Start position relative to genome: 5695 Length: 6
+Found in species: S1 Start position relative to genome: 5693 Length: 6
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 103
+Start position relative to MSA: 7311
+End position relative to MSA: 7323
+Length: 12
+Found in species: S11 Start position relative to genome: 5943 Length: 12
+Found in species: S10 Start position relative to genome: 5943 Length: 12
+Found in species: S9 Start position relative to genome: 5946 Length: 12
+Found in species: S8 Start position relative to genome: 5946 Length: 12
+Found in species: S7 Start position relative to genome: 5946 Length: 12
+Found in species: S6 Start position relative to genome: 5946 Length: 12
+Found in species: S5 Start position relative to genome: 5946 Length: 12
+Found in species: S4 Start position relative to genome: 5946 Length: 12
+Found in species: S3 Start position relative to genome: 5946 Length: 12
+Found in species: S2 Start position relative to genome: 5946 Length: 12
+Found in species: S1 Start position relative to genome: 5944 Length: 12
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 104
+Start position relative to MSA: 7739
+End position relative to MSA: 7742
+Length: 3
+Found in species: S11 Start position relative to genome: 6359 Length: 3
+Found in species: S10 Start position relative to genome: 6359 Length: 3
+Found in species: S9 Start position relative to genome: 6362 Length: 3
+Found in species: S8 Start position relative to genome: 6362 Length: 3
+Found in species: S7 Start position relative to genome: 6362 Length: 3
+Found in species: S6 Start position relative to genome: 6362 Length: 3
+Found in species: S5 Start position relative to genome: 6362 Length: 3
+Found in species: S4 Start position relative to genome: 6362 Length: 3
+Found in species: S3 Start position relative to genome: 6362 Length: 3
+Found in species: S2 Start position relative to genome: 6362 Length: 3
+Found in species: S1 Start position relative to genome: 6360 Length: 3
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 105
+Start position relative to MSA: 7963
+End position relative to MSA: 7966
+Length: 3
+Found in species: S11 Start position relative to genome: 6580 Length: 3
+Found in species: S10 Start position relative to genome: 6580 Length: 3
+Found in species: S9 Start position relative to genome: 6583 Length: 3
+Found in species: S8 Start position relative to genome: 6583 Length: 3
+Found in species: S7 Start position relative to genome: 6583 Length: 3
+Found in species: S6 Start position relative to genome: 6583 Length: 3
+Found in species: S5 Start position relative to genome: 6583 Length: 3
+Found in species: S4 Start position relative to genome: 6583 Length: 3
+Found in species: S3 Start position relative to genome: 6583 Length: 3
+Found in species: S2 Start position relative to genome: 6583 Length: 3
+Found in species: S1 Start position relative to genome: 6581 Length: 3
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 106
+Start position relative to MSA: 7967
+End position relative to MSA: 7970
+Length: 3
+Found in species: S11 Start position relative to genome: 6581 Length: 3
+Found in species: S10 Start position relative to genome: 6581 Length: 3
+Found in species: S9 Start position relative to genome: 6584 Length: 3
+Found in species: S8 Start position relative to genome: 6584 Length: 3
+Found in species: S7 Start position relative to genome: 6584 Length: 3
+Found in species: S6 Start position relative to genome: 6584 Length: 3
+Found in species: S5 Start position relative to genome: 6584 Length: 3
+Found in species: S4 Start position relative to genome: 6584 Length: 3
+Found in species: S3 Start position relative to genome: 6584 Length: 3
+Found in species: S2 Start position relative to genome: 6584 Length: 3
+Found in species: S1 Start position relative to genome: 6582 Length: 3
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 107
+Start position relative to MSA: 8206
+End position relative to MSA: 8209
+Length: 3
+Found in species: S11 Start position relative to genome: 6817 Length: 3
+Found in species: S10 Start position relative to genome: 6817 Length: 3
+Found in species: S9 Start position relative to genome: 6820 Length: 3
+Found in species: S8 Start position relative to genome: 6820 Length: 3
+Found in species: S7 Start position relative to genome: 6820 Length: 3
+Found in species: S6 Start position relative to genome: 6820 Length: 3
+Found in species: S5 Start position relative to genome: 6820 Length: 3
+Found in species: S4 Start position relative to genome: 6820 Length: 3
+Found in species: S3 Start position relative to genome: 6820 Length: 3
+Found in species: S2 Start position relative to genome: 6820 Length: 3
+Found in species: S1 Start position relative to genome: 6818 Length: 3
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 108
+Start position relative to MSA: 8361
+End position relative to MSA: 8384
+Length: 23
+Found in species: S11 Start position relative to genome: 6969 Length: 23
+Found in species: S10 Start position relative to genome: 6969 Length: 23
+Found in species: S9 Start position relative to genome: 6972 Length: 23
+Found in species: S8 Start position relative to genome: 6972 Length: 23
+Found in species: S7 Start position relative to genome: 6972 Length: 23
+Found in species: S6 Start position relative to genome: 6972 Length: 23
+Found in species: S5 Start position relative to genome: 6972 Length: 23
+Found in species: S4 Start position relative to genome: 6972 Length: 23
+Found in species: S3 Start position relative to genome: 6972 Length: 23
+Found in species: S2 Start position relative to genome: 6972 Length: 23
+Found in species: S1 Start position relative to genome: 6970 Length: 23
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 109
+Start position relative to MSA: 8403
+End position relative to MSA: 8418
+Length: 15
+Found in species: S11 Start position relative to genome: 6988 Length: 15
+Found in species: S10 Start position relative to genome: 6988 Length: 15
+Found in species: S9 Start position relative to genome: 6991 Length: 15
+Found in species: S8 Start position relative to genome: 6991 Length: 15
+Found in species: S7 Start position relative to genome: 6991 Length: 15
+Found in species: S6 Start position relative to genome: 6991 Length: 15
+Found in species: S5 Start position relative to genome: 6991 Length: 15
+Found in species: S4 Start position relative to genome: 6991 Length: 15
+Found in species: S3 Start position relative to genome: 6991 Length: 15
+Found in species: S2 Start position relative to genome: 6991 Length: 15
+Found in species: S1 Start position relative to genome: 6989 Length: 15
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 110
+Start position relative to MSA: 8477
+End position relative to MSA: 8489
+Length: 12
+Found in species: S11 Start position relative to genome: 7047 Length: 12
+Found in species: S10 Start position relative to genome: 7047 Length: 12
+Found in species: S9 Start position relative to genome: 7050 Length: 12
+Found in species: S8 Start position relative to genome: 7050 Length: 12
+Found in species: S7 Start position relative to genome: 7050 Length: 12
+Found in species: S6 Start position relative to genome: 7050 Length: 12
+Found in species: S5 Start position relative to genome: 7050 Length: 12
+Found in species: S4 Start position relative to genome: 7050 Length: 12
+Found in species: S3 Start position relative to genome: 7050 Length: 12
+Found in species: S2 Start position relative to genome: 7050 Length: 12
+Found in species: S1 Start position relative to genome: 7048 Length: 12
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 111
+Start position relative to MSA: 8509
+End position relative to MSA: 8532
+Length: 23
+Found in species: S11 Start position relative to genome: 7067 Length: 23
+Found in species: S10 Start position relative to genome: 7067 Length: 23
+Found in species: S9 Start position relative to genome: 7070 Length: 23
+Found in species: S8 Start position relative to genome: 7070 Length: 23
+Found in species: S7 Start position relative to genome: 7070 Length: 23
+Found in species: S6 Start position relative to genome: 7070 Length: 23
+Found in species: S5 Start position relative to genome: 7070 Length: 23
+Found in species: S4 Start position relative to genome: 7070 Length: 23
+Found in species: S3 Start position relative to genome: 7070 Length: 23
+Found in species: S2 Start position relative to genome: 7070 Length: 23
+Found in species: S1 Start position relative to genome: 7068 Length: 23
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 112
+Start position relative to MSA: 8540
+End position relative to MSA: 8547
+Length: 7
+Found in species: S11 Start position relative to genome: 7075 Length: 7
+Found in species: S10 Start position relative to genome: 7075 Length: 7
+Found in species: S9 Start position relative to genome: 7078 Length: 7
+Found in species: S8 Start position relative to genome: 7078 Length: 7
+Found in species: S7 Start position relative to genome: 7078 Length: 7
+Found in species: S6 Start position relative to genome: 7078 Length: 7
+Found in species: S5 Start position relative to genome: 7078 Length: 7
+Found in species: S4 Start position relative to genome: 7078 Length: 7
+Found in species: S3 Start position relative to genome: 7078 Length: 7
+Found in species: S2 Start position relative to genome: 7078 Length: 7
+Found in species: S1 Start position relative to genome: 7076 Length: 7
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 113
+Start position relative to MSA: 8552
+End position relative to MSA: 8556
+Length: 4
+Found in species: S11 Start position relative to genome: 7080 Length: 4
+Found in species: S10 Start position relative to genome: 7080 Length: 4
+Found in species: S9 Start position relative to genome: 7083 Length: 4
+Found in species: S8 Start position relative to genome: 7083 Length: 4
+Found in species: S7 Start position relative to genome: 7083 Length: 4
+Found in species: S6 Start position relative to genome: 7083 Length: 4
+Found in species: S5 Start position relative to genome: 7083 Length: 4
+Found in species: S4 Start position relative to genome: 7083 Length: 4
+Found in species: S3 Start position relative to genome: 7083 Length: 4
+Found in species: S2 Start position relative to genome: 7083 Length: 4
+Found in species: S1 Start position relative to genome: 7081 Length: 4
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 114
+Start position relative to MSA: 8581
+End position relative to MSA: 8588
+Length: 7
+Found in species: S11 Start position relative to genome: 7105 Length: 7
+Found in species: S10 Start position relative to genome: 7105 Length: 7
+Found in species: S9 Start position relative to genome: 7108 Length: 7
+Found in species: S8 Start position relative to genome: 7108 Length: 7
+Found in species: S7 Start position relative to genome: 7108 Length: 7
+Found in species: S6 Start position relative to genome: 7108 Length: 7
+Found in species: S5 Start position relative to genome: 7108 Length: 7
+Found in species: S4 Start position relative to genome: 7108 Length: 7
+Found in species: S3 Start position relative to genome: 7108 Length: 7
+Found in species: S2 Start position relative to genome: 7108 Length: 7
+Found in species: S1 Start position relative to genome: 7106 Length: 7
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 115
+Start position relative to MSA: 8596
+End position relative to MSA: 8597
+Length: 1
+Found in species: S11 Start position relative to genome: 7113 Length: 1
+Found in species: S10 Start position relative to genome: 7113 Length: 1
+Found in species: S9 Start position relative to genome: 7116 Length: 1
+Found in species: S8 Start position relative to genome: 7116 Length: 1
+Found in species: S6 Start position relative to genome: 7116 Length: 1
+Found in species: S5 Start position relative to genome: 7116 Length: 1
+Found in species: S4 Start position relative to genome: 7116 Length: 1
+Found in species: S3 Start position relative to genome: 7116 Length: 1
+Found in species: S2 Start position relative to genome: 7116 Length: 1
+Found in species: S1 Start position relative to genome: 7114 Length: 1
+NOT FOUND in species: S7,
+ENDCHARACTER
+
+character number: 116
+Start position relative to MSA: 8619
+End position relative to MSA: 8702
+Length: 83
+Found in species: S11 Start position relative to genome: 7135 Length: 83
+Found in species: S10 Start position relative to genome: 7135 Length: 83
+Found in species: S9 Start position relative to genome: 7138 Length: 83
+Found in species: S8 Start position relative to genome: 7138 Length: 83
+Found in species: S7 Start position relative to genome: 7139 Length: 83
+Found in species: S6 Start position relative to genome: 7138 Length: 83
+Found in species: S5 Start position relative to genome: 7138 Length: 83
+Found in species: S4 Start position relative to genome: 7138 Length: 83
+Found in species: S3 Start position relative to genome: 7138 Length: 83
+Found in species: S2 Start position relative to genome: 7138 Length: 83
+Found in species: S1 Start position relative to genome: 7136 Length: 83
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 117
+Start position relative to MSA: 8703
+End position relative to MSA: 8704
+Length: 1
+Found in species: S11 Start position relative to genome: 7136 Length: 1
+Found in species: S10 Start position relative to genome: 7136 Length: 1
+Found in species: S9 Start position relative to genome: 7139 Length: 1
+Found in species: S8 Start position relative to genome: 7139 Length: 1
+Found in species: S7 Start position relative to genome: 7140 Length: 1
+Found in species: S6 Start position relative to genome: 7139 Length: 1
+Found in species: S5 Start position relative to genome: 7139 Length: 1
+Found in species: S4 Start position relative to genome: 7139 Length: 1
+Found in species: S3 Start position relative to genome: 7139 Length: 1
+Found in species: S2 Start position relative to genome: 7139 Length: 1
+Found in species: S1 Start position relative to genome: 7137 Length: 1
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 118
+Start position relative to MSA: 8722
+End position relative to MSA: 8723
+Length: 1
+Found in species: S11 Start position relative to genome: 7154 Length: 1
+Found in species: S10 Start position relative to genome: 7154 Length: 1
+Found in species: S9 Start position relative to genome: 7157 Length: 1
+Found in species: S8 Start position relative to genome: 7157 Length: 1
+Found in species: S7 Start position relative to genome: 7158 Length: 1
+Found in species: S6 Start position relative to genome: 7157 Length: 1
+Found in species: S5 Start position relative to genome: 7157 Length: 1
+Found in species: S4 Start position relative to genome: 7157 Length: 1
+Found in species: S3 Start position relative to genome: 7157 Length: 1
+Found in species: S2 Start position relative to genome: 7157 Length: 1
+Found in species: S1 Start position relative to genome: 7155 Length: 1
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 119
+Start position relative to MSA: 8728
+End position relative to MSA: 8731
+Length: 3
+Found in species: S11 Start position relative to genome: 7159 Length: 3
+Found in species: S10 Start position relative to genome: 7159 Length: 3
+Found in species: S9 Start position relative to genome: 7162 Length: 3
+Found in species: S8 Start position relative to genome: 7162 Length: 3
+Found in species: S7 Start position relative to genome: 7163 Length: 3
+Found in species: S6 Start position relative to genome: 7162 Length: 3
+Found in species: S5 Start position relative to genome: 7162 Length: 3
+Found in species: S4 Start position relative to genome: 7162 Length: 3
+Found in species: S3 Start position relative to genome: 7162 Length: 3
+Found in species: S2 Start position relative to genome: 7162 Length: 3
+Found in species: S1 Start position relative to genome: 7160 Length: 3
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 120
+Start position relative to MSA: 8756
+End position relative to MSA: 8764
+Length: 8
+Found in species: S6 Start position relative to genome: 7187 Length: 8
+NOT FOUND in species: S1,S2,S3,S4,S5,S7,S8,S9,S10,S11,
+ENDCHARACTER
+
+character number: 121
+Start position relative to MSA: 8757
+End position relative to MSA: 8761
+Length: 4
+Found in species: S11 Start position relative to genome: 7185 Length: 4
+Found in species: S10 Start position relative to genome: 7185 Length: 4
+Found in species: S9 Start position relative to genome: 7188 Length: 4
+Found in species: S8 Start position relative to genome: 7188 Length: 4
+Found in species: S7 Start position relative to genome: 7189 Length: 4
+Found in species: S5 Start position relative to genome: 7188 Length: 4
+Found in species: S4 Start position relative to genome: 7188 Length: 4
+Found in species: S3 Start position relative to genome: 7188 Length: 4
+Found in species: S2 Start position relative to genome: 7188 Length: 4
+Found in species: S1 Start position relative to genome: 7186 Length: 4
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 122
+Start position relative to MSA: 8769
+End position relative to MSA: 8779
+Length: 10
+Found in species: S11 Start position relative to genome: 7193 Length: 10
+Found in species: S10 Start position relative to genome: 7193 Length: 10
+Found in species: S9 Start position relative to genome: 7196 Length: 10
+Found in species: S8 Start position relative to genome: 7196 Length: 10
+Found in species: S7 Start position relative to genome: 7197 Length: 10
+Found in species: S6 Start position relative to genome: 7192 Length: 10
+Found in species: S5 Start position relative to genome: 7196 Length: 10
+Found in species: S4 Start position relative to genome: 7196 Length: 10
+Found in species: S3 Start position relative to genome: 7196 Length: 10
+Found in species: S2 Start position relative to genome: 7196 Length: 10
+Found in species: S1 Start position relative to genome: 7194 Length: 10
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 123
+Start position relative to MSA: 8792
+End position relative to MSA: 8798
+Length: 6
+Found in species: S11 Start position relative to genome: 7206 Length: 6
+Found in species: S10 Start position relative to genome: 7206 Length: 6
+Found in species: S9 Start position relative to genome: 7209 Length: 6
+Found in species: S8 Start position relative to genome: 7209 Length: 6
+Found in species: S7 Start position relative to genome: 7210 Length: 6
+Found in species: S6 Start position relative to genome: 7205 Length: 6
+Found in species: S5 Start position relative to genome: 7209 Length: 6
+Found in species: S4 Start position relative to genome: 7209 Length: 6
+Found in species: S3 Start position relative to genome: 7209 Length: 6
+Found in species: S2 Start position relative to genome: 7209 Length: 6
+Found in species: S1 Start position relative to genome: 7207 Length: 6
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 124
+Start position relative to MSA: 8801
+End position relative to MSA: 8807
+Length: 6
+Found in species: S11 Start position relative to genome: 7209 Length: 6
+Found in species: S10 Start position relative to genome: 7209 Length: 6
+Found in species: S9 Start position relative to genome: 7212 Length: 6
+Found in species: S8 Start position relative to genome: 7212 Length: 6
+Found in species: S7 Start position relative to genome: 7213 Length: 6
+Found in species: S6 Start position relative to genome: 7208 Length: 6
+Found in species: S5 Start position relative to genome: 7212 Length: 6
+Found in species: S4 Start position relative to genome: 7212 Length: 6
+Found in species: S3 Start position relative to genome: 7212 Length: 6
+Found in species: S2 Start position relative to genome: 7212 Length: 6
+Found in species: S1 Start position relative to genome: 7210 Length: 6
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 125
+Start position relative to MSA: 8818
+End position relative to MSA: 8819
+Length: 1
+Found in species: S11 Start position relative to genome: 7220 Length: 1
+Found in species: S10 Start position relative to genome: 7220 Length: 1
+Found in species: S9 Start position relative to genome: 7223 Length: 1
+Found in species: S8 Start position relative to genome: 7223 Length: 1
+Found in species: S7 Start position relative to genome: 7224 Length: 1
+Found in species: S6 Start position relative to genome: 7219 Length: 1
+Found in species: S5 Start position relative to genome: 7223 Length: 1
+Found in species: S4 Start position relative to genome: 7223 Length: 1
+Found in species: S3 Start position relative to genome: 7223 Length: 1
+Found in species: S2 Start position relative to genome: 7223 Length: 1
+Found in species: S1 Start position relative to genome: 7221 Length: 1
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 126
+Start position relative to MSA: 8838
+End position relative to MSA: 8851
+Length: 13
+Found in species: S11 Start position relative to genome: 7239 Length: 13
+Found in species: S10 Start position relative to genome: 7239 Length: 13
+Found in species: S9 Start position relative to genome: 7242 Length: 13
+Found in species: S8 Start position relative to genome: 7242 Length: 13
+Found in species: S7 Start position relative to genome: 7243 Length: 13
+Found in species: S6 Start position relative to genome: 7238 Length: 13
+Found in species: S5 Start position relative to genome: 7242 Length: 13
+Found in species: S4 Start position relative to genome: 7242 Length: 13
+Found in species: S3 Start position relative to genome: 7242 Length: 13
+Found in species: S2 Start position relative to genome: 7242 Length: 13
+Found in species: S1 Start position relative to genome: 7240 Length: 13
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 127
+Start position relative to MSA: 8864
+End position relative to MSA: 8865
+Length: 1
+Found in species: S11 Start position relative to genome: 7252 Length: 1
+Found in species: S10 Start position relative to genome: 7252 Length: 1
+Found in species: S9 Start position relative to genome: 7255 Length: 1
+Found in species: S8 Start position relative to genome: 7255 Length: 1
+Found in species: S7 Start position relative to genome: 7256 Length: 1
+Found in species: S6 Start position relative to genome: 7251 Length: 1
+Found in species: S5 Start position relative to genome: 7255 Length: 1
+Found in species: S4 Start position relative to genome: 7255 Length: 1
+Found in species: S3 Start position relative to genome: 7255 Length: 1
+Found in species: S2 Start position relative to genome: 7255 Length: 1
+Found in species: S1 Start position relative to genome: 7253 Length: 1
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 128
+Start position relative to MSA: 8872
+End position relative to MSA: 8873
+Length: 1
+Found in species: S11 Start position relative to genome: 7259 Length: 1
+Found in species: S10 Start position relative to genome: 7259 Length: 1
+Found in species: S9 Start position relative to genome: 7262 Length: 1
+Found in species: S8 Start position relative to genome: 7262 Length: 1
+Found in species: S7 Start position relative to genome: 7263 Length: 1
+Found in species: S6 Start position relative to genome: 7258 Length: 1
+Found in species: S5 Start position relative to genome: 7262 Length: 1
+Found in species: S4 Start position relative to genome: 7262 Length: 1
+Found in species: S3 Start position relative to genome: 7262 Length: 1
+Found in species: S2 Start position relative to genome: 7262 Length: 1
+Found in species: S1 Start position relative to genome: 7260 Length: 1
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 129
+Start position relative to MSA: 8884
+End position relative to MSA: 8888
+Length: 4
+Found in species: S11 Start position relative to genome: 7270 Length: 4
+Found in species: S10 Start position relative to genome: 7270 Length: 4
+Found in species: S9 Start position relative to genome: 7273 Length: 4
+Found in species: S8 Start position relative to genome: 7273 Length: 4
+Found in species: S7 Start position relative to genome: 7274 Length: 4
+Found in species: S6 Start position relative to genome: 7269 Length: 4
+Found in species: S5 Start position relative to genome: 7273 Length: 4
+Found in species: S4 Start position relative to genome: 7273 Length: 4
+Found in species: S3 Start position relative to genome: 7273 Length: 4
+Found in species: S2 Start position relative to genome: 7273 Length: 4
+Found in species: S1 Start position relative to genome: 7271 Length: 4
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 130
+Start position relative to MSA: 8889
+End position relative to MSA: 8895
+Length: 6
+Found in species: S11 Start position relative to genome: 7271 Length: 6
+Found in species: S10 Start position relative to genome: 7271 Length: 6
+Found in species: S9 Start position relative to genome: 7274 Length: 6
+Found in species: S8 Start position relative to genome: 7274 Length: 6
+Found in species: S7 Start position relative to genome: 7275 Length: 6
+Found in species: S6 Start position relative to genome: 7270 Length: 6
+Found in species: S5 Start position relative to genome: 7274 Length: 6
+Found in species: S4 Start position relative to genome: 7274 Length: 6
+Found in species: S3 Start position relative to genome: 7274 Length: 6
+Found in species: S2 Start position relative to genome: 7274 Length: 6
+Found in species: S1 Start position relative to genome: 7272 Length: 6
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 131
+Start position relative to MSA: 8899
+End position relative to MSA: 8901
+Length: 2
+Found in species: S11 Start position relative to genome: 7275 Length: 2
+Found in species: S10 Start position relative to genome: 7275 Length: 2
+Found in species: S9 Start position relative to genome: 7278 Length: 2
+Found in species: S8 Start position relative to genome: 7278 Length: 2
+Found in species: S7 Start position relative to genome: 7279 Length: 2
+Found in species: S6 Start position relative to genome: 7274 Length: 2
+Found in species: S5 Start position relative to genome: 7278 Length: 2
+Found in species: S4 Start position relative to genome: 7278 Length: 2
+Found in species: S3 Start position relative to genome: 7278 Length: 2
+Found in species: S2 Start position relative to genome: 7278 Length: 2
+Found in species: S1 Start position relative to genome: 7276 Length: 2
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 132
+Start position relative to MSA: 8904
+End position relative to MSA: 8926
+Length: 22
+Found in species: S11 Start position relative to genome: 7278 Length: 22
+Found in species: S10 Start position relative to genome: 7278 Length: 22
+Found in species: S9 Start position relative to genome: 7281 Length: 22
+Found in species: S8 Start position relative to genome: 7281 Length: 22
+Found in species: S7 Start position relative to genome: 7282 Length: 22
+Found in species: S6 Start position relative to genome: 7277 Length: 22
+Found in species: S5 Start position relative to genome: 7281 Length: 22
+Found in species: S4 Start position relative to genome: 7281 Length: 22
+Found in species: S3 Start position relative to genome: 7281 Length: 22
+Found in species: S2 Start position relative to genome: 7281 Length: 22
+Found in species: S1 Start position relative to genome: 7279 Length: 22
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 133
+Start position relative to MSA: 8953
+End position relative to MSA: 8967
+Length: 14
+Found in species: S10 Start position relative to genome: 7305 Length: 14
+Found in species: S7 Start position relative to genome: 7309 Length: 14
+Found in species: S6 Start position relative to genome: 7304 Length: 14
+Found in species: S5 Start position relative to genome: 7308 Length: 14
+Found in species: S4 Start position relative to genome: 7308 Length: 14
+Found in species: S3 Start position relative to genome: 7308 Length: 14
+Found in species: S2 Start position relative to genome: 7308 Length: 14
+Found in species: S1 Start position relative to genome: 7306 Length: 14
+NOT FOUND in species: S11,
+ENDCHARACTER
+
+character number: 134
+Start position relative to MSA: 8953
+End position relative to MSA: 8968
+Length: 15
+Found in species: S9 Start position relative to genome: 7308 Length: 15
+Found in species: S8 Start position relative to genome: 7308 Length: 15
+NOT FOUND in species: S1,S2,S3,S4,S5,S6,S7,S10,S11,
+ENDCHARACTER
+
+character number: 135
+Start position relative to MSA: 8954
+End position relative to MSA: 8967
+Length: 13
+Found in species: S11 Start position relative to genome: 7306 Length: 13
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 136
+Start position relative to MSA: 8972
+End position relative to MSA: 8974
+Length: 2
+Found in species: S11 Start position relative to genome: 7311 Length: 2
+Found in species: S10 Start position relative to genome: 7310 Length: 2
+Found in species: S9 Start position relative to genome: 7312 Length: 2
+Found in species: S8 Start position relative to genome: 7312 Length: 2
+Found in species: S7 Start position relative to genome: 7314 Length: 2
+Found in species: S6 Start position relative to genome: 7309 Length: 2
+Found in species: S5 Start position relative to genome: 7313 Length: 2
+Found in species: S4 Start position relative to genome: 7313 Length: 2
+Found in species: S3 Start position relative to genome: 7313 Length: 2
+Found in species: S2 Start position relative to genome: 7313 Length: 2
+Found in species: S1 Start position relative to genome: 7311 Length: 2
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 137
+Start position relative to MSA: 8983
+End position relative to MSA: 8991
+Length: 8
+Found in species: S11 Start position relative to genome: 7320 Length: 8
+Found in species: S10 Start position relative to genome: 7319 Length: 8
+Found in species: S9 Start position relative to genome: 7321 Length: 8
+Found in species: S8 Start position relative to genome: 7321 Length: 8
+Found in species: S7 Start position relative to genome: 7323 Length: 8
+Found in species: S6 Start position relative to genome: 7318 Length: 8
+Found in species: S5 Start position relative to genome: 7322 Length: 8
+Found in species: S4 Start position relative to genome: 7322 Length: 8
+Found in species: S3 Start position relative to genome: 7322 Length: 8
+Found in species: S2 Start position relative to genome: 7322 Length: 8
+Found in species: S1 Start position relative to genome: 7320 Length: 8
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 138
+Start position relative to MSA: 9014
+End position relative to MSA: 9020
+Length: 6
+Found in species: S11 Start position relative to genome: 7343 Length: 6
+Found in species: S10 Start position relative to genome: 7342 Length: 6
+Found in species: S9 Start position relative to genome: 7344 Length: 6
+Found in species: S8 Start position relative to genome: 7344 Length: 6
+Found in species: S7 Start position relative to genome: 7346 Length: 6
+Found in species: S6 Start position relative to genome: 7341 Length: 6
+Found in species: S5 Start position relative to genome: 7345 Length: 6
+Found in species: S4 Start position relative to genome: 7345 Length: 6
+Found in species: S3 Start position relative to genome: 7345 Length: 6
+Found in species: S2 Start position relative to genome: 7345 Length: 6
+Found in species: S1 Start position relative to genome: 7343 Length: 6
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 139
+Start position relative to MSA: 9024
+End position relative to MSA: 9036
+Length: 12
+Found in species: S11 Start position relative to genome: 7347 Length: 12
+Found in species: S10 Start position relative to genome: 7346 Length: 12
+Found in species: S9 Start position relative to genome: 7348 Length: 12
+Found in species: S8 Start position relative to genome: 7348 Length: 12
+Found in species: S7 Start position relative to genome: 7350 Length: 12
+Found in species: S6 Start position relative to genome: 7345 Length: 12
+Found in species: S5 Start position relative to genome: 7349 Length: 12
+Found in species: S4 Start position relative to genome: 7349 Length: 12
+Found in species: S3 Start position relative to genome: 7349 Length: 12
+Found in species: S2 Start position relative to genome: 7349 Length: 12
+Found in species: S1 Start position relative to genome: 7347 Length: 12
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 140
+Start position relative to MSA: 9043
+End position relative to MSA: 9052
+Length: 9
+Found in species: S11 Start position relative to genome: 7354 Length: 9
+Found in species: S10 Start position relative to genome: 7353 Length: 9
+Found in species: S9 Start position relative to genome: 7355 Length: 9
+Found in species: S8 Start position relative to genome: 7355 Length: 9
+Found in species: S7 Start position relative to genome: 7357 Length: 9
+Found in species: S6 Start position relative to genome: 7352 Length: 9
+Found in species: S5 Start position relative to genome: 7356 Length: 9
+Found in species: S4 Start position relative to genome: 7356 Length: 9
+Found in species: S3 Start position relative to genome: 7356 Length: 9
+Found in species: S2 Start position relative to genome: 7356 Length: 9
+Found in species: S1 Start position relative to genome: 7354 Length: 9
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 141
+Start position relative to MSA: 9055
+End position relative to MSA: 9057
+Length: 2
+Found in species: S11 Start position relative to genome: 7357 Length: 2
+Found in species: S10 Start position relative to genome: 7356 Length: 2
+Found in species: S9 Start position relative to genome: 7358 Length: 2
+Found in species: S8 Start position relative to genome: 7358 Length: 2
+Found in species: S7 Start position relative to genome: 7360 Length: 2
+Found in species: S6 Start position relative to genome: 7355 Length: 2
+Found in species: S5 Start position relative to genome: 7359 Length: 2
+Found in species: S4 Start position relative to genome: 7359 Length: 2
+Found in species: S3 Start position relative to genome: 7359 Length: 2
+Found in species: S2 Start position relative to genome: 7359 Length: 2
+Found in species: S1 Start position relative to genome: 7357 Length: 2
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 142
+Start position relative to MSA: 9065
+End position relative to MSA: 9073
+Length: 8
+Found in species: S11 Start position relative to genome: 7365 Length: 8
+Found in species: S10 Start position relative to genome: 7364 Length: 8
+Found in species: S9 Start position relative to genome: 7366 Length: 8
+Found in species: S8 Start position relative to genome: 7366 Length: 8
+Found in species: S7 Start position relative to genome: 7368 Length: 8
+Found in species: S6 Start position relative to genome: 7363 Length: 8
+Found in species: S5 Start position relative to genome: 7367 Length: 8
+Found in species: S4 Start position relative to genome: 7367 Length: 8
+Found in species: S3 Start position relative to genome: 7367 Length: 8
+Found in species: S2 Start position relative to genome: 7367 Length: 8
+Found in species: S1 Start position relative to genome: 7365 Length: 8
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 143
+Start position relative to MSA: 9082
+End position relative to MSA: 9094
+Length: 12
+Found in species: S11 Start position relative to genome: 7374 Length: 12
+Found in species: S10 Start position relative to genome: 7373 Length: 12
+Found in species: S9 Start position relative to genome: 7375 Length: 12
+Found in species: S8 Start position relative to genome: 7375 Length: 12
+Found in species: S7 Start position relative to genome: 7377 Length: 12
+Found in species: S6 Start position relative to genome: 7372 Length: 12
+Found in species: S5 Start position relative to genome: 7376 Length: 12
+Found in species: S4 Start position relative to genome: 7376 Length: 12
+Found in species: S3 Start position relative to genome: 7376 Length: 12
+Found in species: S2 Start position relative to genome: 7376 Length: 12
+Found in species: S1 Start position relative to genome: 7374 Length: 12
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 144
+Start position relative to MSA: 9109
+End position relative to MSA: 9120
+Length: 11
+Found in species: S11 Start position relative to genome: 7389 Length: 11
+Found in species: S10 Start position relative to genome: 7388 Length: 11
+Found in species: S9 Start position relative to genome: 7390 Length: 11
+Found in species: S8 Start position relative to genome: 7390 Length: 11
+Found in species: S7 Start position relative to genome: 7392 Length: 11
+Found in species: S6 Start position relative to genome: 7387 Length: 11
+Found in species: S5 Start position relative to genome: 7391 Length: 11
+Found in species: S4 Start position relative to genome: 7391 Length: 11
+Found in species: S3 Start position relative to genome: 7391 Length: 11
+Found in species: S2 Start position relative to genome: 7391 Length: 11
+Found in species: S1 Start position relative to genome: 7389 Length: 11
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 145
+Start position relative to MSA: 9129
+End position relative to MSA: 9171
+Length: 42
+Found in species: S11 Start position relative to genome: 7398 Length: 42
+Found in species: S10 Start position relative to genome: 7397 Length: 42
+Found in species: S9 Start position relative to genome: 7399 Length: 42
+Found in species: S8 Start position relative to genome: 7399 Length: 42
+Found in species: S7 Start position relative to genome: 7401 Length: 42
+Found in species: S6 Start position relative to genome: 7396 Length: 42
+Found in species: S5 Start position relative to genome: 7400 Length: 42
+Found in species: S4 Start position relative to genome: 7400 Length: 42
+Found in species: S3 Start position relative to genome: 7400 Length: 42
+Found in species: S2 Start position relative to genome: 7400 Length: 42
+Found in species: S1 Start position relative to genome: 7398 Length: 42
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 146
+Start position relative to MSA: 9186
+End position relative to MSA: 9187
+Length: 1
+Found in species: S11 Start position relative to genome: 7413 Length: 1
+Found in species: S10 Start position relative to genome: 7412 Length: 1
+Found in species: S9 Start position relative to genome: 7414 Length: 1
+Found in species: S8 Start position relative to genome: 7414 Length: 1
+Found in species: S7 Start position relative to genome: 7416 Length: 1
+Found in species: S6 Start position relative to genome: 7411 Length: 1
+Found in species: S5 Start position relative to genome: 7415 Length: 1
+Found in species: S4 Start position relative to genome: 7415 Length: 1
+Found in species: S3 Start position relative to genome: 7415 Length: 1
+Found in species: S2 Start position relative to genome: 7415 Length: 1
+Found in species: S1 Start position relative to genome: 7413 Length: 1
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 147
+Start position relative to MSA: 9240
+End position relative to MSA: 9247
+Length: 7
+Found in species: S11 Start position relative to genome: 7466 Length: 7
+Found in species: S10 Start position relative to genome: 7465 Length: 7
+Found in species: S9 Start position relative to genome: 7467 Length: 7
+Found in species: S8 Start position relative to genome: 7467 Length: 7
+Found in species: S7 Start position relative to genome: 7469 Length: 7
+Found in species: S6 Start position relative to genome: 7464 Length: 7
+Found in species: S5 Start position relative to genome: 7468 Length: 7
+Found in species: S4 Start position relative to genome: 7468 Length: 7
+Found in species: S3 Start position relative to genome: 7468 Length: 7
+Found in species: S2 Start position relative to genome: 7468 Length: 7
+Found in species: S1 Start position relative to genome: 7466 Length: 7
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 148
+Start position relative to MSA: 9264
+End position relative to MSA: 9270
+Length: 6
+Found in species: S11 Start position relative to genome: 7483 Length: 6
+Found in species: S10 Start position relative to genome: 7482 Length: 6
+Found in species: S9 Start position relative to genome: 7484 Length: 6
+Found in species: S8 Start position relative to genome: 7484 Length: 6
+Found in species: S7 Start position relative to genome: 7486 Length: 6
+Found in species: S6 Start position relative to genome: 7481 Length: 6
+Found in species: S5 Start position relative to genome: 7485 Length: 6
+Found in species: S4 Start position relative to genome: 7485 Length: 6
+Found in species: S3 Start position relative to genome: 7485 Length: 6
+Found in species: S2 Start position relative to genome: 7485 Length: 6
+Found in species: S1 Start position relative to genome: 7483 Length: 6
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 149
+Start position relative to MSA: 9298
+End position relative to MSA: 9376
+Length: 78
+Found in species: S11 Start position relative to genome: 7511 Length: 78
+Found in species: S10 Start position relative to genome: 7510 Length: 78
+Found in species: S9 Start position relative to genome: 7512 Length: 78
+Found in species: S8 Start position relative to genome: 7512 Length: 78
+Found in species: S7 Start position relative to genome: 7514 Length: 78
+Found in species: S6 Start position relative to genome: 7509 Length: 78
+Found in species: S5 Start position relative to genome: 7513 Length: 78
+Found in species: S4 Start position relative to genome: 7513 Length: 78
+Found in species: S3 Start position relative to genome: 7513 Length: 78
+Found in species: S2 Start position relative to genome: 7513 Length: 78
+Found in species: S1 Start position relative to genome: 7511 Length: 78
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 150
+Start position relative to MSA: 9393
+End position relative to MSA: 9413
+Length: 20
+Found in species: S11 Start position relative to genome: 7528 Length: 20
+Found in species: S10 Start position relative to genome: 7527 Length: 20
+Found in species: S9 Start position relative to genome: 7529 Length: 20
+Found in species: S8 Start position relative to genome: 7529 Length: 20
+Found in species: S7 Start position relative to genome: 7531 Length: 20
+Found in species: S6 Start position relative to genome: 7526 Length: 20
+Found in species: S5 Start position relative to genome: 7530 Length: 20
+Found in species: S4 Start position relative to genome: 7530 Length: 20
+Found in species: S3 Start position relative to genome: 7530 Length: 20
+Found in species: S2 Start position relative to genome: 7530 Length: 20
+Found in species: S1 Start position relative to genome: 7528 Length: 20
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 151
+Start position relative to MSA: 9423
+End position relative to MSA: 9424
+Length: 1
+Found in species: S11 Start position relative to genome: 7538 Length: 1
+Found in species: S10 Start position relative to genome: 7537 Length: 1
+Found in species: S9 Start position relative to genome: 7539 Length: 1
+Found in species: S8 Start position relative to genome: 7539 Length: 1
+Found in species: S7 Start position relative to genome: 7541 Length: 1
+Found in species: S6 Start position relative to genome: 7536 Length: 1
+Found in species: S5 Start position relative to genome: 7540 Length: 1
+Found in species: S4 Start position relative to genome: 7540 Length: 1
+Found in species: S3 Start position relative to genome: 7540 Length: 1
+Found in species: S2 Start position relative to genome: 7540 Length: 1
+Found in species: S1 Start position relative to genome: 7538 Length: 1
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 152
+Start position relative to MSA: 9426
+End position relative to MSA: 9454
+Length: 28
+Found in species: S11 Start position relative to genome: 7540 Length: 28
+Found in species: S10 Start position relative to genome: 7539 Length: 28
+Found in species: S9 Start position relative to genome: 7541 Length: 28
+Found in species: S8 Start position relative to genome: 7541 Length: 28
+Found in species: S7 Start position relative to genome: 7543 Length: 28
+Found in species: S6 Start position relative to genome: 7538 Length: 28
+Found in species: S5 Start position relative to genome: 7542 Length: 28
+Found in species: S4 Start position relative to genome: 7542 Length: 28
+Found in species: S3 Start position relative to genome: 7542 Length: 28
+Found in species: S2 Start position relative to genome: 7542 Length: 28
+Found in species: S1 Start position relative to genome: 7540 Length: 28
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 153
+Start position relative to MSA: 9474
+End position relative to MSA: 9510
+Length: 36
+Found in species: S11 Start position relative to genome: 7560 Length: 36
+Found in species: S10 Start position relative to genome: 7559 Length: 36
+Found in species: S9 Start position relative to genome: 7561 Length: 36
+Found in species: S8 Start position relative to genome: 7561 Length: 36
+Found in species: S7 Start position relative to genome: 7563 Length: 36
+Found in species: S6 Start position relative to genome: 7558 Length: 36
+Found in species: S5 Start position relative to genome: 7562 Length: 36
+Found in species: S4 Start position relative to genome: 7562 Length: 36
+Found in species: S3 Start position relative to genome: 7562 Length: 36
+Found in species: S2 Start position relative to genome: 7562 Length: 36
+Found in species: S1 Start position relative to genome: 7560 Length: 36
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 154
+Start position relative to MSA: 9528
+End position relative to MSA: 9541
+Length: 13
+Found in species: S11 Start position relative to genome: 7578 Length: 13
+Found in species: S10 Start position relative to genome: 7577 Length: 13
+Found in species: S9 Start position relative to genome: 7579 Length: 13
+Found in species: S8 Start position relative to genome: 7579 Length: 13
+Found in species: S7 Start position relative to genome: 7581 Length: 13
+Found in species: S6 Start position relative to genome: 7576 Length: 13
+Found in species: S5 Start position relative to genome: 7580 Length: 13
+Found in species: S4 Start position relative to genome: 7580 Length: 13
+Found in species: S3 Start position relative to genome: 7580 Length: 13
+Found in species: S2 Start position relative to genome: 7580 Length: 13
+Found in species: S1 Start position relative to genome: 7578 Length: 13
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 155
+Start position relative to MSA: 9602
+End position relative to MSA: 9603
+Length: 1
+Found in species: S11 Start position relative to genome: 7639 Length: 1
+Found in species: S10 Start position relative to genome: 7638 Length: 1
+Found in species: S9 Start position relative to genome: 7640 Length: 1
+Found in species: S8 Start position relative to genome: 7640 Length: 1
+Found in species: S7 Start position relative to genome: 7642 Length: 1
+Found in species: S6 Start position relative to genome: 7637 Length: 1
+Found in species: S5 Start position relative to genome: 7641 Length: 1
+Found in species: S4 Start position relative to genome: 7641 Length: 1
+Found in species: S3 Start position relative to genome: 7641 Length: 1
+Found in species: S2 Start position relative to genome: 7641 Length: 1
+Found in species: S1 Start position relative to genome: 7639 Length: 1
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 156
+Start position relative to MSA: 9607
+End position relative to MSA: 9630
+Length: 23
+Found in species: S11 Start position relative to genome: 7643 Length: 23
+Found in species: S10 Start position relative to genome: 7642 Length: 23
+Found in species: S9 Start position relative to genome: 7644 Length: 23
+Found in species: S8 Start position relative to genome: 7644 Length: 23
+Found in species: S7 Start position relative to genome: 7646 Length: 23
+Found in species: S6 Start position relative to genome: 7641 Length: 23
+Found in species: S5 Start position relative to genome: 7645 Length: 23
+Found in species: S4 Start position relative to genome: 7645 Length: 23
+Found in species: S3 Start position relative to genome: 7645 Length: 23
+Found in species: S2 Start position relative to genome: 7645 Length: 23
+Found in species: S1 Start position relative to genome: 7643 Length: 23
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 157
+Start position relative to MSA: 9645
+End position relative to MSA: 9649
+Length: 4
+Found in species: S11 Start position relative to genome: 7658 Length: 4
+Found in species: S10 Start position relative to genome: 7657 Length: 4
+Found in species: S9 Start position relative to genome: 7659 Length: 4
+Found in species: S8 Start position relative to genome: 7659 Length: 4
+Found in species: S7 Start position relative to genome: 7661 Length: 4
+Found in species: S6 Start position relative to genome: 7656 Length: 4
+Found in species: S5 Start position relative to genome: 7660 Length: 4
+Found in species: S4 Start position relative to genome: 7660 Length: 4
+Found in species: S3 Start position relative to genome: 7660 Length: 4
+Found in species: S2 Start position relative to genome: 7660 Length: 4
+Found in species: S1 Start position relative to genome: 7658 Length: 4
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 158
+Start position relative to MSA: 9669
+End position relative to MSA: 9680
+Length: 11
+Found in species: S11 Start position relative to genome: 7678 Length: 11
+Found in species: S10 Start position relative to genome: 7677 Length: 11
+Found in species: S9 Start position relative to genome: 7679 Length: 11
+Found in species: S8 Start position relative to genome: 7679 Length: 11
+Found in species: S7 Start position relative to genome: 7681 Length: 11
+Found in species: S6 Start position relative to genome: 7676 Length: 11
+Found in species: S5 Start position relative to genome: 7680 Length: 11
+Found in species: S4 Start position relative to genome: 7680 Length: 11
+Found in species: S3 Start position relative to genome: 7680 Length: 11
+Found in species: S2 Start position relative to genome: 7680 Length: 11
+Found in species: S1 Start position relative to genome: 7678 Length: 11
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 159
+Start position relative to MSA: 9691
+End position relative to MSA: 9702
+Length: 11
+Found in species: S11 Start position relative to genome: 7689 Length: 11
+Found in species: S10 Start position relative to genome: 7688 Length: 11
+Found in species: S9 Start position relative to genome: 7690 Length: 11
+Found in species: S8 Start position relative to genome: 7690 Length: 11
+Found in species: S7 Start position relative to genome: 7692 Length: 11
+Found in species: S6 Start position relative to genome: 7687 Length: 11
+Found in species: S5 Start position relative to genome: 7691 Length: 11
+Found in species: S4 Start position relative to genome: 7691 Length: 11
+Found in species: S3 Start position relative to genome: 7691 Length: 11
+Found in species: S2 Start position relative to genome: 7691 Length: 11
+Found in species: S1 Start position relative to genome: 7689 Length: 11
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 160
+Start position relative to MSA: 9722
+End position relative to MSA: 9727
+Length: 5
+Found in species: S11 Start position relative to genome: 7709 Length: 5
+Found in species: S10 Start position relative to genome: 7708 Length: 5
+Found in species: S9 Start position relative to genome: 7710 Length: 5
+Found in species: S8 Start position relative to genome: 7710 Length: 5
+Found in species: S7 Start position relative to genome: 7712 Length: 5
+Found in species: S6 Start position relative to genome: 7707 Length: 5
+Found in species: S5 Start position relative to genome: 7711 Length: 5
+Found in species: S4 Start position relative to genome: 7711 Length: 5
+Found in species: S3 Start position relative to genome: 7711 Length: 5
+Found in species: S2 Start position relative to genome: 7711 Length: 5
+Found in species: S1 Start position relative to genome: 7709 Length: 5
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 161
+Start position relative to MSA: 9731
+End position relative to MSA: 9732
+Length: 1
+Found in species: S11 Start position relative to genome: 7713 Length: 1
+Found in species: S10 Start position relative to genome: 7712 Length: 1
+Found in species: S9 Start position relative to genome: 7714 Length: 1
+Found in species: S8 Start position relative to genome: 7714 Length: 1
+Found in species: S7 Start position relative to genome: 7716 Length: 1
+Found in species: S6 Start position relative to genome: 7711 Length: 1
+Found in species: S5 Start position relative to genome: 7715 Length: 1
+Found in species: S4 Start position relative to genome: 7715 Length: 1
+Found in species: S3 Start position relative to genome: 7715 Length: 1
+Found in species: S2 Start position relative to genome: 7715 Length: 1
+Found in species: S1 Start position relative to genome: 7713 Length: 1
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 162
+Start position relative to MSA: 9743
+End position relative to MSA: 9754
+Length: 11
+Found in species: S11 Start position relative to genome: 7724 Length: 11
+Found in species: S10 Start position relative to genome: 7723 Length: 11
+Found in species: S9 Start position relative to genome: 7725 Length: 11
+Found in species: S8 Start position relative to genome: 7725 Length: 11
+Found in species: S7 Start position relative to genome: 7727 Length: 11
+Found in species: S6 Start position relative to genome: 7722 Length: 11
+Found in species: S5 Start position relative to genome: 7726 Length: 11
+Found in species: S4 Start position relative to genome: 7726 Length: 11
+Found in species: S3 Start position relative to genome: 7726 Length: 11
+Found in species: S2 Start position relative to genome: 7726 Length: 11
+Found in species: S1 Start position relative to genome: 7724 Length: 11
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 163
+Start position relative to MSA: 9773
+End position relative to MSA: 9782
+Length: 9
+Found in species: S11 Start position relative to genome: 7743 Length: 9
+Found in species: S10 Start position relative to genome: 7742 Length: 9
+Found in species: S9 Start position relative to genome: 7744 Length: 9
+Found in species: S8 Start position relative to genome: 7744 Length: 9
+Found in species: S7 Start position relative to genome: 7746 Length: 9
+Found in species: S6 Start position relative to genome: 7741 Length: 9
+Found in species: S5 Start position relative to genome: 7745 Length: 9
+Found in species: S4 Start position relative to genome: 7745 Length: 9
+Found in species: S3 Start position relative to genome: 7745 Length: 9
+Found in species: S2 Start position relative to genome: 7745 Length: 9
+Found in species: S1 Start position relative to genome: 7743 Length: 9
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 164
+Start position relative to MSA: 9818
+End position relative to MSA: 9822
+Length: 4
+Found in species: S11 Start position relative to genome: 7779 Length: 4
+Found in species: S10 Start position relative to genome: 7778 Length: 4
+Found in species: S9 Start position relative to genome: 7780 Length: 4
+Found in species: S8 Start position relative to genome: 7780 Length: 4
+Found in species: S7 Start position relative to genome: 7782 Length: 4
+Found in species: S6 Start position relative to genome: 7777 Length: 4
+Found in species: S5 Start position relative to genome: 7781 Length: 4
+Found in species: S4 Start position relative to genome: 7781 Length: 4
+Found in species: S3 Start position relative to genome: 7781 Length: 4
+Found in species: S2 Start position relative to genome: 7781 Length: 4
+Found in species: S1 Start position relative to genome: 7779 Length: 4
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 165
+Start position relative to MSA: 9826
+End position relative to MSA: 9827
+Length: 1
+Found in species: S11 Start position relative to genome: 7783 Length: 1
+Found in species: S10 Start position relative to genome: 7782 Length: 1
+Found in species: S9 Start position relative to genome: 7784 Length: 1
+Found in species: S8 Start position relative to genome: 7784 Length: 1
+Found in species: S7 Start position relative to genome: 7786 Length: 1
+Found in species: S6 Start position relative to genome: 7781 Length: 1
+Found in species: S5 Start position relative to genome: 7785 Length: 1
+Found in species: S4 Start position relative to genome: 7785 Length: 1
+Found in species: S3 Start position relative to genome: 7785 Length: 1
+Found in species: S2 Start position relative to genome: 7785 Length: 1
+Found in species: S1 Start position relative to genome: 7783 Length: 1
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 166
+Start position relative to MSA: 9832
+End position relative to MSA: 12356
+Length: 2524
+Found in species: S1 Start position relative to genome: 7788 Length: 2524
+NOT FOUND in species: S2,S3,S4,S5,S6,S7,S8,S9,S10,S11,
+ENDCHARACTER
+
+character number: 167
+Start position relative to MSA: 9838
+End position relative to MSA: 9843
+Length: 5
+Found in species: S11 Start position relative to genome: 7794 Length: 5
+Found in species: S10 Start position relative to genome: 7793 Length: 5
+Found in species: S9 Start position relative to genome: 7795 Length: 5
+Found in species: S8 Start position relative to genome: 7795 Length: 5
+Found in species: S7 Start position relative to genome: 7797 Length: 5
+Found in species: S6 Start position relative to genome: 7792 Length: 5
+Found in species: S5 Start position relative to genome: 7796 Length: 5
+Found in species: S4 Start position relative to genome: 7796 Length: 5
+Found in species: S3 Start position relative to genome: 7796 Length: 5
+Found in species: S2 Start position relative to genome: 7796 Length: 5
+NOT FOUND in species: 
+ENDCHARACTER
+
+character number: 168
+Start position relative to MSA: 9862
+End position relative to MSA: 12356
+Length: 2494
+Found in species: S11 Start position relative to genome: 7813 Length: 2494
+Found in species: S10 Start position relative to genome: 7812 Length: 2494
+Found in species: S9 Start position relative to genome: 7814 Length: 2494
+Found in species: S8 Start position relative to genome: 7814 Length: 2494
+Found in species: S7 Start position relative to genome: 7816 Length: 2494
+Found in species: S6 Start position relative to genome: 7811 Length: 2494
+Found in species: S5 Start position relative to genome: 7815 Length: 2494
+Found in species: S4 Start position relative to genome: 7815 Length: 2494
+Found in species: S3 Start position relative to genome: 7815 Length: 2494
+Found in species: S2 Start position relative to genome: 7815 Length: 2494
+NOT FOUND in species: 
+ENDCHARACTER
+

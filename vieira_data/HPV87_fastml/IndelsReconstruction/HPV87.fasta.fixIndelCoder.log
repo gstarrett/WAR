@@ -1,0 +1,18 @@
+START OF LOG FILE
+Seq /Volumes/Samsung_X5/Val_HPV_evolution/revisions/HPV87_fastml/HPV87.fasta.fix
+numberOfSeqs=4
+seqLen=12356
+
+Step (1) readSequenceIntoGaps...
+ All MSA gaps are sorted by coordinates
+ Sort by: I =(i1,i2), K =(k1,k2), I<K iff i1<k1 or i1=k1 and i2<k2
+
+There are 547 gaps
+
+Step (2) delimitationOfCharacters... Simple Coding (SIC)
+ Finding the required positions(=characters) in the coded sequence
+ The number of characters <= the number of found gaps (each character may include several gaps)
+
+There were 142 characters
+
+Step (3) determinationCharacterState... 

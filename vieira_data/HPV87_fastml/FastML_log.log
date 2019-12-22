@@ -1,0 +1,41 @@
+
+
+========================================= NEW FASTML RUN STARTED ===========================================
+COMMAND: perl /Users/starrettgj/soft/FastML.v3.1/www/fastml/FastML_Wrapper.pl --MSA_file HPV87.fasta --seqType nuc --Tree HPV87.nwk --outDir ./HPV87_fastml --SubMatrix GTR
+FULL RUNNING PARAMETERS (INCLUDING DEFAULTS):
+--MSA_File ./HPV87_fastml/HPV87.fasta --outDir ./HPV87_fastml/ --seqType nuc --Tree ./HPV87_fastml/HPV87.nwk --TreeAlg NJ --SubMatrix GTR --OptimizeBL YES --UseGamma YES --Alpha  --jointReconstruction YES --indelReconstruction BOTH --indelCutOff 0.5
+
+RunFastML: running cd ./HPV87_fastml/; /Users/starrettgj/soft/FastML.v3.1/www/fastml/../../programs/fastml/fastml -s ./HPV87_fastml/HPV87.fasta -mg -qf -t ./HPV87_fastml/HPV87.nwk -g > ./HPV87_fastml/fastml.std
+
+The file seq.marginal.txt or prob.marginal.txt was not created.
+
+	FASTML EXIT ON ERROR:
+FASTML failed to run, one of the files seq.marginal.txt or prob.marginal.txt were not created...
+
+
+Exit Time: 11:43:27 20-12-2019
+
+
+========================================= NEW FASTML RUN STARTED ===========================================
+COMMAND: perl /Users/starrettgj/soft/FastML.v3.1/www/fastml/FastML_Wrapper.pl --MSA_file HPV87.fasta --seqType nuc --Tree HPV87.nwk --outDir /Volumes/Samsung_X5/Val_HPV_evolution/revisions/HPV87_fastml --SubMatrix GTR
+FULL RUNNING PARAMETERS (INCLUDING DEFAULTS):
+--MSA_File /Volumes/Samsung_X5/Val_HPV_evolution/revisions/HPV87_fastml/HPV87.fasta --outDir /Volumes/Samsung_X5/Val_HPV_evolution/revisions/HPV87_fastml/ --seqType nuc --Tree /Volumes/Samsung_X5/Val_HPV_evolution/revisions/HPV87_fastml/HPV87.nwk --TreeAlg NJ --SubMatrix GTR --OptimizeBL YES --UseGamma YES --Alpha  --jointReconstruction YES --indelReconstruction BOTH --indelCutOff 0.5
+
+RunFastML: running cd /Volumes/Samsung_X5/Val_HPV_evolution/revisions/HPV87_fastml/; /Users/starrettgj/soft/FastML.v3.1/www/fastml/../../programs/fastml/fastml -s /Volumes/Samsung_X5/Val_HPV_evolution/revisions/HPV87_fastml/HPV87.fasta -mg -qf -t /Volumes/Samsung_X5/Val_HPV_evolution/revisions/HPV87_fastml/HPV87.nwk -g > /Volumes/Samsung_X5/Val_HPV_evolution/revisions/HPV87_fastml/fastml.std
+
+The file seq.marginal.txt or prob.marginal.txt was not created.
+
+	FASTML EXIT ON ERROR:
+FASTML failed to run, one of the files seq.marginal.txt or prob.marginal.txt were not created...
+
+
+Exit Time: 11:48:02 20-12-2019
+
+
+========================================= NEW FASTML RUN STARTED ===========================================
+COMMAND: perl /Users/starrettgj/soft/FastML.v3.1/www/fastml/FastML_Wrapper.pl --MSA_file HPV87.fasta.fix --seqType nuc --Tree HPV87.nwk --outDir /Volumes/Samsung_X5/Val_HPV_evolution/revisions/HPV87_fastml --SubMatrix GTR
+FULL RUNNING PARAMETERS (INCLUDING DEFAULTS):
+--MSA_File /Volumes/Samsung_X5/Val_HPV_evolution/revisions/HPV87_fastml/HPV87.fasta.fix --outDir /Volumes/Samsung_X5/Val_HPV_evolution/revisions/HPV87_fastml/ --seqType nuc --Tree /Volumes/Samsung_X5/Val_HPV_evolution/revisions/HPV87_fastml/HPV87.nwk --TreeAlg NJ --SubMatrix GTR --OptimizeBL YES --UseGamma YES --Alpha  --jointReconstruction YES --indelReconstruction BOTH --indelCutOff 0.5
+
+RunFastML: running cd /Volumes/Samsung_X5/Val_HPV_evolution/revisions/HPV87_fastml/; /Users/starrettgj/soft/FastML.v3.1/www/fastml/../../programs/fastml/fastml -s /Volumes/Samsung_X5/Val_HPV_evolution/revisions/HPV87_fastml/HPV87.fasta.fix -mg -qf -t /Volumes/Samsung_X5/Val_HPV_evolution/revisions/HPV87_fastml/HPV87.nwk -g > /Volumes/Samsung_X5/Val_HPV_evolution/revisions/HPV87_fastml/fastml.std
+IndelReconstruction: cd /Volumes/Samsung_X5/Val_HPV_evolution/revisions/HPV87_fastml/; perl /Users/starrettgj/soft/FastML.v3.1/www/fastml/IndelReconstruction_Wrapper.pl --MSA_File /Volumes/Samsung_X5/Val_HPV_evolution/revisions/HPV87_fastml/HPV87.fasta.fix --Tree_File /Volumes/Samsung_X5/Val_HPV_evolution/revisions/HPV87_fastml/HPV87.nwk --outDir /Volumes/Samsung_X5/Val_HPV_evolution/revisions/HPV87_fastml/ --seqType nuc --indelCutOff 0.5  > /Volumes/Samsung_X5/Val_HPV_evolution/revisions/HPV87_fastml//IndelReconstruction.log

@@ -1,0 +1,1 @@
+KU298894.1	./HPV33_fastml/N21	9360	AC	AxA	C>T	-1

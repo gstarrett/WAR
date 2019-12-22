@@ -1,0 +1,24 @@
+# created on Fri Dec 20 13:48:28 2019
+name	parent  child
+U37488_1_Human_papillomavirus_type_54_complete_genome  N5     
+KF436890_1_Human_papillomavirus_type_54_isolate_Qv37898_complete_genome  N5     
+KF436888_1_Human_papillomavirus_type_54_isolate_Qv25716_complete_genome N4     
+KF436889_1_Human_papillomavirus_type_54_isolate_Qv31535_complete_genome N3     
+KF436892_1_Human_papillomavirus_type_54_isolate_Qv25329_complete_genome  N6     
+KF436891_1_Human_papillomavirus_type_54_isolate_Qv33271_complete_genome  N6     
+AF436129_1_Human_papillomavirus_type_54_subtype_AE9_complete_genome  N8     
+KF436893_1_Human_papillomavirus_type_54_isolate_Qv18601_complete_genome  N8     
+KF436895_1_Human_papillomavirus_type_54_isolate_Qv18610_complete_genome  N9     
+KU298914_1_Human_papillomavirus_type_54_isolate_87C_54_complete_genome  N10    
+KF436894_1_Human_papillomavirus_type_54_isolate_Qv18028_complete_genome  N10    
+N1  root! N2 N7
+N2  N1      N3 N6
+N3  N2      N4 KF436889_1_Human_papillomavirus_type_54_isolate_Qv31535_complete_genome
+N4  N3      N5 KF436888_1_Human_papillomavirus_type_54_isolate_Qv25716_complete_genome
+N5  N4      U37488_1_Human_papillomavirus_type_54_complete_genome KF436890_1_Human_papillomavirus_type_54_isolate_Qv37898_complete_genome
+N6  N2      KF436892_1_Human_papillomavirus_type_54_isolate_Qv25329_complete_genome KF436891_1_Human_papillomavirus_type_54_isolate_Qv33271_complete_genome
+N7  N1      N8 N9
+N8  N7      AF436129_1_Human_papillomavirus_type_54_subtype_AE9_complete_genome KF436893_1_Human_papillomavirus_type_54_isolate_Qv18601_complete_genome
+N9  N7      KF436895_1_Human_papillomavirus_type_54_isolate_Qv18610_complete_genome N10
+N10 N9      KU298914_1_Human_papillomavirus_type_54_isolate_87C_54_complete_genome KF436894_1_Human_papillomavirus_type_54_isolate_Qv18028_complete_genome
+

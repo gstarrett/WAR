@@ -1,0 +1,6 @@
+_seqFile /Volumes/Samsung_X5/Val_HPV_evolution/revisions/HPV11_fastml/IndelsReconstruction//HPV11.fasta.fix.indelOutputFastaFile
+_treeFile /Volumes/Samsung_X5/Val_HPV_evolution/revisions/HPV11_fastml/HPV11.nwk.ForIndelReconstruction
+_isRootFreqEQstationary 1
+_calculateAncestralReconstruct 1
+_costMatrixGainLossRatio  2
+_minNumOfOnes 1

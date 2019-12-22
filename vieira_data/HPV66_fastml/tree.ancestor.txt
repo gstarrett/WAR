@@ -1,0 +1,28 @@
+# created on Fri Dec 20 14:21:50 2019
+name	parent  child
+U31794_1_Human_papillomavirus_type_66_complete_genome  N4     
+EF177186_1_Human_papillomavirus_type_66_clone_Qv25662_complete_genome  N4     
+KU298927_1_Human_papillomavirus_type_66_isolate_83A_66_complete_genome  N3     
+KU298928_1_Human_papillomavirus_type_66_isolate_118A_66_complete_genome  N5     
+EF177185_1_Human_papillomavirus_type_66_clone_Qv25696_complete_genome  N5     
+EF177188_1_Human_papillomavirus_type_66_clone_Qv25111_complete_genome N7     
+EF177183_1_Human_papillomavirus_type_66_clone_Qv26740_complete_genome N7     
+EF177189_1_Human_papillomavirus_type_66_clone_Qv24220_complete_genome N8     
+EF177190_1_Human_papillomavirus_type_66_clone_Qv11088_complete_genome  N9     
+EF177182_1_Human_papillomavirus_type_66_clone_Qv35854_complete_genome N10    
+EF177187_1_Human_papillomavirus_type_66_clone_Qv25260_complete_genome  N11    
+EF177184_1_Human_papillomavirus_type_66_clone_Qv26488_complete_genome  N12    
+EF177191_1_Human_papillomavirus_type_66_clone_Qv218_complete_genome  N12    
+N1  root! N2 N6
+N2  N1      N3 N5
+N3  N2      N4 KU298927_1_Human_papillomavirus_type_66_isolate_83A_66_complete_genome
+N4  N3      U31794_1_Human_papillomavirus_type_66_complete_genome EF177186_1_Human_papillomavirus_type_66_clone_Qv25662_complete_genome
+N5  N2      KU298928_1_Human_papillomavirus_type_66_isolate_118A_66_complete_genome EF177185_1_Human_papillomavirus_type_66_clone_Qv25696_complete_genome
+N6  N1      N7 N8
+N7  N6      EF177188_1_Human_papillomavirus_type_66_clone_Qv25111_complete_genome EF177183_1_Human_papillomavirus_type_66_clone_Qv26740_complete_genome
+N8  N6      EF177189_1_Human_papillomavirus_type_66_clone_Qv24220_complete_genome N9
+N9  N8      EF177190_1_Human_papillomavirus_type_66_clone_Qv11088_complete_genome N10
+N10 N9      EF177182_1_Human_papillomavirus_type_66_clone_Qv35854_complete_genome N11
+N11 N10     EF177187_1_Human_papillomavirus_type_66_clone_Qv25260_complete_genome N12
+N12 N11     EF177184_1_Human_papillomavirus_type_66_clone_Qv26488_complete_genome EF177191_1_Human_papillomavirus_type_66_clone_Qv218_complete_genome
+

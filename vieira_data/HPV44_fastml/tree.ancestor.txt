@@ -1,0 +1,14 @@
+# created on Fri Dec 20 13:07:22 2019
+name	parent  child
+KU298900_1_Human_papillomavirus_type_44_isolate_103A_44_complete_genome N4     
+KU298898_1_Human_papillomavirus_type_44_isolate_11C_44_complete_genome N4     
+U31788_1_Human_papillomavirus_type_44_complete_genome N3     
+KU298899_1_Human_papillomavirus_type_44_isolate_87A_44_complete_genome N5     
+U31791_1_Human_papillomavirus_type_55_complete_genome N5     
+AF436130_1_Human_papillomavirus_type_74_subtype_AE10_complete_genome N1     
+N1 root! N2 AF436130_1_Human_papillomavirus_type_74_subtype_AE10_complete_genome
+N2 N1      N3 N5
+N3 N2      N4 U31788_1_Human_papillomavirus_type_44_complete_genome
+N4 N3      KU298900_1_Human_papillomavirus_type_44_isolate_103A_44_complete_genome KU298898_1_Human_papillomavirus_type_44_isolate_11C_44_complete_genome
+N5 N2      KU298899_1_Human_papillomavirus_type_44_isolate_87A_44_complete_genome U31791_1_Human_papillomavirus_type_55_complete_genome
+
