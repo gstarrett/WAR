@@ -3,7 +3,7 @@
 use Bio::SeqIO;
 
 my $file = shift;
-my $seqin = Bio::SeqIO->new(-file => $file);
+my $seqin = Bio::SeqIO->new(-file => $file, -format => "Fasta");
 while ( my $seqobj = $seqin->next_seq() ) {
   my $seq = $seqobj->seq();
   my $id = $seqobj->id;

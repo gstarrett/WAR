@@ -15,6 +15,6 @@ for record in SeqIO.parse(file, "fasta"):
   seqs.append(record.seq)
 
 base_motif = motifs.create(seqs)
-pwm = base_motif.counts.normalize(pseudocounts={'A':0.308, 'C': 0.189, 'G': 0.212, 'T': 0.291})
+pwm = base_motif.counts.normalize(pseudocounts={'A':0.307, 'C': 0.186, 'G': 0.212, 'T': 0.294})
 outContent = ">" + prefix + "\n" + str(pwm.consensus) + "\n"
 outFH.write(outContent)
