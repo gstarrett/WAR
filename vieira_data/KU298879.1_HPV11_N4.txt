@@ -1,1 +1,0 @@
-KU298879.1	./HPV11_fastml/N4	7460	AC	AxG	C>T	-1

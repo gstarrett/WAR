@@ -1,9 +1,0 @@
-# print with MP based on the cost matrix: 
-#  0->0 =0
-#  0->1 =2
-#  1->0 =1
-#  1->1 =0
-G/L	POS	branch	branchLength	distance2Root	distance2NearestOTU	numOfNodes2NearestOTU	probability	expectation
-gain	2	S10	0.00038512	0.00115632	0	0	1	1
-loss	82	N6	0.00051356	0.00128476	1e-06	1	1	1
-gain	154	S1	0.000129	0.00102853	0	0	1	1

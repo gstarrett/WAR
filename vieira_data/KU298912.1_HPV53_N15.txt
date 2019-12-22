@@ -1,1 +1,0 @@
-KU298912.1	./HPV53_fastml/N15	5736	AC	AxA	C>Y	-1
