@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 
 #from Bio import Align
 from Bio import pairwise2
@@ -37,5 +37,5 @@ for record in SeqIO.parse(inFasta, "fasta"):
             else:
                 trint = recordBases[i-1] + "x" + recordBases[i+1]
                 mut = refBases[i] + ">" + recordBases[i]
-            print "\t".join([record.id, refSeq.id, str(i), dint5, trint, mut, str(strand)])
+            print("\t".join([record.id, refSeq.id, str(i), dint5, trint, mut, str(strand)]))
         i += 1
